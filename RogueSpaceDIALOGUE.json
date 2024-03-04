@@ -74,7 +74,113 @@
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1214254770005737583/CRF.png?ex=65f871e0&is=65e5fce0&hm=ad9864203f6c0ded23f6e449f1596146bed69cc33c9dfe6452c843dc054e399d&"
-    ,"MissionComponent" :"BPCH_Missions_RileyFulgor_CMM001" 
+    ,"MissionComponent" :"BPCH_Missions_RileyFulgor_CMP001" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+  "MECOR001":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"PredialogueWelcome": [
+        "Hi",
+        "Good morning/afternoon/night",
+        "Come to me!"
+    ]
+    ,"Predialogue": [
+        "Remember to shoot the robots",
+        "Who created them?"
+    ]
+    ,"PredialogueAftherTalking": [
+        "Have you already gone with the rest of the clan?",
+        "If you don't have weapons, go to the store to buy, or even upgrade",
+        "Need help?"
+    ]  
+    ,"Dialogue": [
+        "Hi, I introduce myself",
+        "My name is Marcus ECO Ramirez",
+        "I am an electrical engineer, and I have too much experience with weapons",
+        "I have a lot of experience killing those robots out there",
+        "Why don't you join the team and help us destroy them?",
+        "It would be great to have one more, even though your skills will be tested",
+        "Go and help the rest of the team, remember, if you see a robot ATTACK HIM!, he will have no mercy!",
+        "Good luck!"
+    ]   
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "4"
+    ,"ObtionInteract1": [
+        "Of course!",
+        "How good are robots?",
+        "Will I be able to have infinite ammunition?"
+    ]
+    ,"DialogueInteract1": [
+        "I'm glad for your attitude!",
+        "Destroying them is not that difficult, the easy part comes when they are in a pack, or when their protective shield is enabled",
+        "Of course, but you must know how to use the ammunition!"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1214264849484222474/MECOR.png?ex=65f87b44&is=65e60644&hm=7228447ae4266be0fc4c17464b74ad45a224fcfdcdb16122579bc6a678a1239c&"
+    ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_CMP001" 
     ,"URLsForDownloadAUD": [
      "NONE"
     ]

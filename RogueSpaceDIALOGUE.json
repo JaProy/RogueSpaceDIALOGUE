@@ -338,7 +338,10 @@
     ]  
     ,"Dialogue": [
         "Hi friend",
-        "My name is Elena Ortega..."
+        "My name is Elena Ortega...",
+        "what's your name?",
+        "What a beautiful name",
+        "Go and talk to the rest of the team..."
     ]   
     ,"DialogueAftherTalking": [
         "Find the rest of the team",
@@ -364,12 +367,16 @@
     ,"DialogueInteract2": [
         "NONE"
     ]
-    ,"IDInteractBlock1" : "0"
+    ,"IDInteractBlock1" : "3"
     ,"ObtionInteractBlock1": [
-        "NONE"
+        "Player",
+        "Nameless",
+        "It is necessary??"
     ]
     ,"DialogueInteractBlock1": [
-        "NONE"
+        "A very common and unoriginal name...",
+        "NO, everyone must have a name! I'll give you one...",
+        "Absolutely, at least to be able to have a good friendship and not have any discontent!"
     ]
     ,"IDInteractBlock2" : "0"
     ,"ObtionInteractBlock2": [

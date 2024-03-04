@@ -1,8 +1,8 @@
 {
  "CRF001":[
    {
-    "PredialogueRadius": "10"
-    ,"DialogueRadius" : "5"
+    "PredialogueRadius": "15"
+    ,"DialogueRadius" : "6"
     ,"PredialogueWelcome": [
         "Hi",
         "Hello"
@@ -73,7 +73,7 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
-    ,"URLImageCharacter" : "NONE"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1214254770005737583/CRF.png?ex=65f871e0&is=65e5fce0&hm=ad9864203f6c0ded23f6e449f1596146bed69cc33c9dfe6452c843dc054e399d&"
     ,"MissionComponent" :"BPCH_Missions_RileyFulgor_CMM001" 
     ,"URLsForDownloadAUD": [
      "NONE"

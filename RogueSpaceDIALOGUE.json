@@ -353,12 +353,16 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
+    ,"IDInteract1" : "3"
     ,"ObtionInteract1": [
-        "NONE"
+        "Player",
+        "Nameless",
+        "It is necessary??"
     ]
     ,"DialogueInteract1": [
-        "NONE"
+        "A very common and unoriginal name...",
+        "NO, everyone must have a name! I'll give you one...",
+        "Absolutely, at least to be able to have a good friendship and not have any discontent!"
     ]
     ,"IDInteract2" : "0"
     ,"ObtionInteract2": [
@@ -367,16 +371,12 @@
     ,"DialogueInteract2": [
         "NONE"
     ]
-    ,"IDInteractBlock1" : "3"
+    ,"IDInteractBlock1" : "0"
     ,"ObtionInteractBlock1": [
-        "Player",
-        "Nameless",
-        "It is necessary??"
+        "NONE"
     ]
     ,"DialogueInteractBlock1": [
-        "A very common and unoriginal name...",
-        "NO, everyone must have a name! I'll give you one...",
-        "Absolutely, at least to be able to have a good friendship and not have any discontent!"
+        "NONE"
     ]
     ,"IDInteractBlock2" : "0"
     ,"ObtionInteractBlock2": [

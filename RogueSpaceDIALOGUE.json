@@ -489,8 +489,8 @@
         "NONE"
     ]
     ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "True"
-    ,"SendToMission" : "True"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1214324776793808966/KTMBRK9.png?ex=65f8b313&is=65e63e13&hm=6f0f53953e0ac0d80c7608252392a93b9d949475fb7434abab3e54e501d3fc01&"
     ,"MissionComponent" :"BPC_KTMBRK9001" 
     ,"URLsForDownloadAUD": [

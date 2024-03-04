@@ -421,5 +421,108 @@
      "NONE"
     ]
    }
+ ],
+ "KTMBRK9001":[
+   {
+    "PredialogueRadius": "19"
+    ,"DialogueRadius" : "6"
+    ,"PredialogueWelcome": [
+        "Hi",
+        "Hello subordinate",
+        "Hey"
+    ]
+    ,"Predialogue": [
+        "I'm glad you accept!",
+        "I wish you good luck destroying those robots!",
+        "Upgrade your weapons!",
+        "What do you think if you launch your avatar?"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "Hi",
+        "I am Kadida TECH MASTER Balanta ROBOT Kodex-9",
+        "I am the boss and the person in charge of this team",
+        "They told me you wanted to join, right?",
+        "I hope you are successful in your mission!...",
+        "Remember to talk to the team if you want to improve your skills, or if you want to buy something!",
+        "Bye"
+    ]   
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "3"
+    ,"ObtionInteract1": [
+        "Yes",
+        "No"
+    ]
+    ,"DialogueInteract1": [
+        "Excellent decision!",
+        "Unfortunately you already spoke to everyone here, therefore you are already on the team..."
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "True"
+    ,"SendToMission" : "True"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1214324776793808966/KTMBRK9.png?ex=65f8b313&is=65e63e13&hm=6f0f53953e0ac0d80c7608252392a93b9d949475fb7434abab3e54e501d3fc01&"
+    ,"MissionComponent" :"BPC_KTMBRK9001" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
  ]
 }

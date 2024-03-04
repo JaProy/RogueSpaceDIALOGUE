@@ -109,8 +109,8 @@
  ],
   "MECOR001":[
    {
-    "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
+    "PredialogueRadius": "12"
+    ,"DialogueRadius" : "5"
     ,"PredialogueWelcome": [
         "Hi",
         "Good morning/afternoon/night",

@@ -1,22 +1,36 @@
 {
- "Name":[
+ "CRF001":[
    {
-    "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
+    "PredialogueRadius": "10"
+    ,"DialogueRadius" : "5"
     ,"PredialogueWelcome": [
-        "NONE"
+        "Hi",
+        "Hello"
     ]
     ,"Predialogue": [
-        "NONE"
+        "Everything okay official?",
+        "Intruder in sight!"
     ]
     ,"PredialogueAftherTalking": [
-        "NONE"
+        "Don't know how to go?",
+        "Look for my partner!",
+        "Why don't you go to the store and get a gun for me?"
     ]  
     ,"Dialogue": [
-        "NONE"
+        "Hi",
+        "My name es Riley Fulgor...",
+        "I am a retired military commander",
+        "but that doesn't mean I can't use weapons",
+        "Do you know how to use weapons?",
+        "but, currently I don't have any, despite this catastrophe with robots",
+        "Look for my colleagues to give you more information!",
+        "See you soon official"
     ]   
     ,"DialogueAftherTalking": [
-        "NONE"
+        "I have a good feeling about you!",
+        "Go and talk to the others in the barracks",
+        "I wish you good luck out there",
+        "All robots have weak points, look for the weak points of each robot and DESTROY THEM!"
     ]
     ,"DialogueLocked": [
         "NONE"
@@ -24,12 +38,16 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
+    ,"IDInteract1" : "4"
     ,"ObtionInteract1": [
-        "NONE"
+        "Yes, im a profecional",
+        "Yes",
+        "No"
     ]
     ,"DialogueInteract1": [
-        "NONE"
+        "Yes, I am a professional",
+        "Let's hope you're good at using them, those robots are very good with weapons",
+        "So what are you doing here? Go and find out how to use them!"
     ]
     ,"IDInteract2" : "0"
     ,"ObtionInteract2": [
@@ -56,7 +74,7 @@
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
     ,"URLImageCharacter" : "NONE"
-    ,"MissionComponent" :"SELECT COMPONENT" 
+    ,"MissionComponent" :"BPCH_Missions_RileyFulgor_CMM001" 
     ,"URLsForDownloadAUD": [
      "NONE"
     ]

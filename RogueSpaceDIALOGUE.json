@@ -212,5 +212,112 @@
      "NONE"
     ]
    }
+ ],
+  "DrOCC001":[
+   {
+    "PredialogueRadius": "17"
+    ,"DialogueRadius" : "6"
+    ,"PredialogueWelcome": [
+        "Hello",
+        "Good day",
+        "It's a beautiful day, don't you think?"
+    ]
+    ,"Predialogue": [
+        "Have you seen my robot Spark Cipher?",
+        "You seem to be a very nice person :D",
+        "Come closer!" 
+    ]
+    ,"PredialogueAftherTalking": [
+        "Go after my robot!",
+        "Talk to the rest of the clan, so they can guide you in this great world!",
+        "Take good care of enemy robots!"
+    ]  
+    ,"Dialogue": [
+        "Hello survivor",
+        "My name is Olivia Chen...",
+        "I am a data scientist with a PhD",
+        "but I also love video games, what about you?",
+        "yes, they are great to pass the time",
+        "but we must leave that idea behind and fight for our lives!",
+        "my recommendation is that you look for the rest of the team",
+        "so that they can support you and equip you with the necessary weapons"
+    ]   
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "3"
+    ,"ObtionInteract1": [
+        "Of course!",
+        "The truth is I don't play video games...",
+        "What kind of video games do you like the most?"
+    ]
+    ,"DialogueInteract1": [
+        "How good it is to know that someone here besides me likes video games :D",
+        "We should play together, they are fun and entertaining",
+        "My favorite genre is shooter, I also feel that it helps my survival skills"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "True"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1214291497005092884/DrOCC.png?ex=65f89415&is=65e61f15&hm=3d326654701b6f74779eb363d70be3b22fe1d95a4281eeadd30027cd538d2ed4&"
+    ,"MissionComponent" :"BPCH_DrOliviaCC_DrOCC001" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
  ]
 }

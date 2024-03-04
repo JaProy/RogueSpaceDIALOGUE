@@ -319,5 +319,100 @@
      "NONE"
     ]
    }
+ ],
+ "ESO001":[
+   {
+    "PredialogueRadius": "16"
+    ,"DialogueRadius" : "6"
+    ,"PredialogueWelcome": [
+        "Hi",
+        "Hello"
+    ]
+    ,"Predialogue": [
+        "How are you mate?",
+        "I'm very happy to see you here!",
+        "COME!, we have to talk"
+    ]
+    ,"PredialogueAftherTalking": [
+        "Hello again!!"
+    ]  
+    ,"Dialogue": [
+        "Hi friend",
+        "My name is Elena Ortega..."
+    ]   
+    ,"DialogueAftherTalking": [
+        "Find the rest of the team",
+        "You found them?"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "True"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1214299904751570954/ESO.png?ex=65f89be9&is=65e626e9&hm=c1d5c9a7dea2e4833abecd5211b1d9ec964f83be14c2299b52ccff38268f01a8&"
+    ,"MissionComponent" :"BPC_ElenaSO_ESO001" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
  ]
 }

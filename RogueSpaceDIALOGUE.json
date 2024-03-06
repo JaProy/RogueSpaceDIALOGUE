@@ -524,5 +524,112 @@
      "NONE"
     ]
    }
+ ],
+  "MECOR002":[
+   {
+    "PredialogueRadius": "16"
+    ,"DialogueRadius" : "6"
+    ,"PredialogueWelcome": [
+        "Hi",
+        "Hello",
+        "Good"
+    ]
+    ,"Predialogue": [
+        "What do you think of the enemies?",
+        "Why don't you go eliminate those enemies??",
+        "Heat, right?"
+    ]
+    ,"PredialogueAftherTalking": [
+        "Go and eliminate those enemies!"
+    ]  
+    ,"Dialogue": [
+        "Hello, how are you today?",
+        "It's a pleasure that you agreed to join the clan...",
+        "but to test you, we all decided that you should do some missions",
+        "Have you eliminated those enemies?",
+        "Why don't you go and eliminate a few of them...",
+        "eliminate 100 enemies to improve your skills!",
+        "Good luck with those bastards!"
+    ]   
+    ,"DialogueAftherTalking": [
+        "why haven't you completed the mission???",
+        "Can't you beat such bastards?",
+        "If you are bad with weapons, look for help in the clan!",
+        "I know you can against them, come on!"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "3"
+    ,"ObtionInteract1": [
+        "Yeah",
+        "No",
+        "What enemies?"
+    ]
+    ,"DialogueInteract1": [
+        "I hope you have experience against them, they are very tough!",
+        "What?, why not?... Bruh, since, try to do a mission, of course if they don't eliminate you first haha",
+        "Wow, I see that you are not updated on our situation, you better keep listening to me..."
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "True"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1214264849484222474/MECOR.png?ex=65f87b44&is=65e60644&hm=7228447ae4266be0fc4c17464b74ad45a224fcfdcdb16122579bc6a678a1239c&"
+    ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_CMP002" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
  ]
 }

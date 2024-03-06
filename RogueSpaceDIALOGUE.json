@@ -178,7 +178,7 @@
     ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
+    ,"SendToMission" : "True"
     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1214264849484222474/MECOR.png?ex=65f87b44&is=65e60644&hm=7228447ae4266be0fc4c17464b74ad45a224fcfdcdb16122579bc6a678a1239c&"
     ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_CMP001" 
     ,"URLsForDownloadAUD": [

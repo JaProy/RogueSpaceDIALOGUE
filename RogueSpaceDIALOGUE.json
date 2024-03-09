@@ -634,22 +634,31 @@
  ],
   "CRF002":[
    {
-    "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
+    "PredialogueRadius": "16"
+    ,"DialogueRadius" : "5"
     ,"PredialogueWelcome": [
-        "NONE"
+        "Hi",
+        "Hello"
     ]
     ,"Predialogue": [
-        "NONE"
+        "Do you know the boss?",
+        "Come!"
     ]
     ,"PredialogueAftherTalking": [
-        "NONE"
+        "Go and eliminate the boss"
     ]  
     ,"Dialogue": [
-        "NONE"
+        "Hi subordinate",
+        "I have a mission for you",
+        "what do you think if you help me eliminate the boss?",
+        "I wish you good luck in your MISSION!",
+        "and don't come back until you eliminate him..."
     ]   
     ,"DialogueAftherTalking": [
-        "NONE"
+        "What happened?",
+        "I eliminate you?",
+        "Could you defeat him?",
+        "What did you notice about the boss?"
     ]
     ,"DialogueLocked": [
         "NONE"
@@ -688,8 +697,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
-    ,"URLImageCharacter" : "NONE"
-    ,"MissionComponent" :"SELECT COMPONENT" 
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1214254770005737583/CRF.png?ex=65f871e0&is=65e5fce0&hm=ad9864203f6c0ded23f6e449f1596146bed69cc33c9dfe6452c843dc054e399d&"
+    ,"MissionComponent" :"BPCH_Missions_RileyFulgor_CMP002" 
     ,"URLsForDownloadAUD": [
      "NONE"
     ]

@@ -25,7 +25,13 @@
         "but, currently I don't have any, despite this catastrophe with robots",
         "Look for my colleagues to give you more information!",
         "See you soon official"
-    ]   
+    ]          
+    ,"IDsDialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
     ,"DialogueAftherTalking": [
         "I have a good feeling about you!",
         "Go and talk to the others in the barracks",
@@ -135,6 +141,12 @@
         "Go and help the rest of the team, remember, if you see a robot ATTACK HIM!, he will have no mercy!",
         "Good luck!"
     ]   
+    ,"IDsDialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
     ,"DialogueAftherTalking": [
         "NONE"
     ]
@@ -241,7 +253,13 @@
         "but we must leave that idea behind and fight for our lives!",
         "my recommendation is that you look for the rest of the team",
         "so that they can support you and equip you with the necessary weapons"
-    ]   
+    ]
+    ,"IDsDialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
     ,"DialogueAftherTalking": [
         "NONE"
     ]
@@ -448,7 +466,13 @@
         "I hope you are successful in your mission!...",
         "Remember to talk to the team if you want to improve your skills, or if you want to buy something!",
         "Bye"
-    ]   
+    ]  
+    ,"IDsDialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
     ,"DialogueAftherTalking": [
         "NONE"
     ]
@@ -551,6 +575,12 @@
         "eliminate 100 enemies to improve your skills!",
         "Good luck with those bastards!"
     ]   
+    ,"IDsDialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
     ,"DialogueAftherTalking": [
         "why haven't you completed the mission???",
         "Can't you beat such bastards?",
@@ -659,6 +689,12 @@
         "I eliminate you?",
         "Could you defeat him?",
         "What did you notice about the boss?"
+    ]
+    ,"IDsDialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
     ]
     ,"DialogueLocked": [
         "NONE"

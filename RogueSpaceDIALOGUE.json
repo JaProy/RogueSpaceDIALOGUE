@@ -563,8 +563,8 @@
    {
     "PredialogueRadius": "16"
     ,"DialogueRadius" : "6"
-    ,"NameCD1" : "None"
-    ,"NameCD2" : "None"
+    ,"NameCD1" : "Riley Furgor"
+    ,"NameCD2" : "Alex"
     ,"PredialogueWelcome": [
         "Hi",
         "Hello",
@@ -588,10 +588,12 @@
         "Good luck with those bastards!"
     ]   
     ,"IDsDialogueCOM": [
-        "NONE"
+        "2",
+        "5"
     ]
     ,"DialogueCOM": [
-        "NONE"
+        "OPs1",
+        "OPs2"
     ]
     ,"DialogueAftherTalking": [
         "why haven't you completed the mission???",

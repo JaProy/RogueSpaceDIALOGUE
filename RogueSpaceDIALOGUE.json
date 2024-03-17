@@ -648,7 +648,7 @@
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
     ,"URLImageCharacterCOM1" : "https://cdn.discordapp.com/attachments/768678782651203584/1214264849484222474/MECOR.png?ex=65f87b44&is=65e60644&hm=7228447ae4266be0fc4c17464b74ad45a224fcfdcdb16122579bc6a678a1239c&"
-    ,"URLImageCharacterCOM2" : ""
+    ,"URLImageCharacterCOM2" : "https://cdn.discordapp.com/attachments/768678782651203584/1218981472589975633/resumen-superficie-texturas-muro-piedra-hormigon-blanco_74190-8189.png?ex=6609a3f6&is=65f72ef6&hm=67b25eaed722659a60846badbd4d6e05152d27cb05d1b7b0feb7bb8e67b81eaf&"
     ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_CMP002" 
     ,"URLsForDownloadAUD": [
      "NONE"

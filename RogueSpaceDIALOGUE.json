@@ -3,6 +3,8 @@
    {
     "PredialogueRadius": "15"
     ,"DialogueRadius" : "6"
+    ,"NameCD1" : "None"
+    ,"NameCD2" : "None"
     ,"PredialogueWelcome": [
         "Hi",
         "Hello"
@@ -117,6 +119,8 @@
    {
     "PredialogueRadius": "12"
     ,"DialogueRadius" : "5"
+    ,"NameCD1" : "None"
+    ,"NameCD2" : "None"
     ,"PredialogueWelcome": [
         "Hi",
         "Good morning/afternoon/night",
@@ -229,6 +233,8 @@
    {
     "PredialogueRadius": "17"
     ,"DialogueRadius" : "6"
+    ,"NameCD1" : "None"
+    ,"NameCD2" : "None"
     ,"PredialogueWelcome": [
         "Hello",
         "Good day",
@@ -342,6 +348,8 @@
    {
     "PredialogueRadius": "16"
     ,"DialogueRadius" : "6"
+    ,"NameCD1" : "None"
+    ,"NameCD2" : "None"
     ,"PredialogueWelcome": [
         "Hi",
         "Hello"
@@ -444,6 +452,8 @@
    {
     "PredialogueRadius": "19"
     ,"DialogueRadius" : "6"
+    ,"NameCD1" : "None"
+    ,"NameCD2" : "None"
     ,"PredialogueWelcome": [
         "Hi",
         "Hello subordinate",
@@ -553,6 +563,8 @@
    {
     "PredialogueRadius": "16"
     ,"DialogueRadius" : "6"
+    ,"NameCD1" : "None"
+    ,"NameCD2" : "None"
     ,"PredialogueWelcome": [
         "Hi",
         "Hello",
@@ -666,6 +678,8 @@
    {
     "PredialogueRadius": "16"
     ,"DialogueRadius" : "5"
+    ,"NameCD1" : "None"
+    ,"NameCD2" : "None"
     ,"PredialogueWelcome": [
         "Hi",
         "Hello"

@@ -3,42 +3,42 @@
    {
     "PredialogueRadius": "15"
     ,"DialogueRadius" : "6"
-    ,"NameCD1" : "None"
-    ,"NameCD2" : "None"
+    ,"NameCD1" : "Riley Furgor"
+    ,"NameCD2" : "ALEX MERCER"
     ,"PredialogueWelcome": [
         "Hi",
         "Hello"
     ]
     ,"Predialogue": [
-        "Everything okay official?",
-        "Intruder in sight!"
+        "Good evening, Mercer. Tonight's mission is not just important; it's a reckoning. Our adversary is cunning, our objective nothing short of critical."
     ]
     ,"PredialogueAftherTalking": [
-        "Don't know how to go?",
-        "Look for my partner!",
-        "Why don't you go to the store and get a gun for me?"
+        "Hurry up and meet the whole crew to begin your first immersion test",
+        "What are you waiting for? Take a full tour of the crew!",
+        "You're pushing my patience, recruit.",
+        "I don't have time for games, soldier. A mission is already in progress."
     ]  
     ,"Dialogue": [
-        "Hi",
-        "My name es Riley Fulgor...",
-        "I am a retired military commander",
-        "but that doesn't mean I can't use weapons",
-        "Do you know how to use weapons?",
-        "but, currently I don't have any, despite this catastrophe with robots",
-        "Look for my colleagues to give you more information!",
-        "See you soon official"
+        "Report immediately to me for the full brief of the Mission.",
+        "Good to hear... The Federation is tight on my feet. We need to start the infiltration as soon as possible, and for me, that means now. Follow me.",
+        "The robots in the Citadel have gone rogue, and chaos is poised to consume the megacity. Mercer, your technological prowess and understanding of robotics make you indispensable for this mission.",
+        "Godspeed, Mercer. The success of this operation pivots on you. Dismissed."
     ]          
     ,"IDsDialogueCOM": [
-        "NONE"
+        "1",
+        "2",
+        "3"
     ]
     ,"DialogueCOM": [
-        "NONE"
+        "Understood, Commander. I'm always ready.",
+        "Right on, Commander.  I'm ready to bring the Citadel back to its former glory.",
+        "Rest assured, Commander. I'll put those renegade bots back in their place and ensure the Citadel's safety."
     ]
     ,"DialogueAftherTalking": [
-        "I have a good feeling about you!",
-        "Go and talk to the others in the barracks",
-        "I wish you good luck out there",
-        "All robots have weak points, look for the weak points of each robot and DESTROY THEM!"
+        "Hurry up and meet the whole crew to begin your first immersion test",
+        "What are you waiting for? Take a full tour of the crew!",
+        "You're pushing my patience, recruit.",
+        "I don't have time for games, soldier. A mission is already in progress."
     ]
     ,"DialogueLocked": [
         "NONE"

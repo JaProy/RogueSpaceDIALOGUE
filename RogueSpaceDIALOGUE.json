@@ -118,42 +118,35 @@
  ],
   "MECOR001":[
    {
-    "PredialogueRadius": "12"
+    "PredialogueRadius": "14"
     ,"DialogueRadius" : "5"
-    ,"NameCD1" : "None"
-    ,"NameCD2" : "None"
+    ,"NameCD1" : "Marcus Eco Ramirez"
+    ,"NameCD2" : "ALEX MERCER"
     ,"PredialogueWelcome": [
         "Hi",
-        "Good morning/afternoon/night",
         "Come to me!"
     ]
     ,"Predialogue": [
-        "Remember to shoot the robots",
-        "Who created them?"
+        "..."
     ]
     ,"PredialogueAftherTalking": [
-        "Have you already gone with the rest of the clan?",
-        "If you don't have weapons, go to the store to buy, or even upgrade",
-        "Need help?"
+        "..."
     ]  
     ,"Dialogue": [
-        "Hi, I introduce myself",
-        "My name is Marcus ECO Ramirez",
-        "I am an electrical engineer, and I have too much experience with weapons",
-        "I have a lot of experience killing those robots out there",
-        "Why don't you join the team and help us destroy them?",
-        "It would be great to have one more, even though your skills will be tested",
-        "Go and help the rest of the team, remember, if you see a robot ATTACK HIM!, he will have no mercy!",
-        "Good luck!"
+        "Hey there, Alex. Marcus Eco Ramirez, energy engineer and weapons expert. Bueno, ¿qué tal?",
+        "Bueno, I'm here to make sure your weapons are up-to-date and ready for action.",
+        "Here we go, let's soup up those weapons and make those bots regret crossing our path."
     ]   
     ,"IDsDialogueCOM": [
-        "NONE"
+        "1",
+        "2"
     ]
     ,"DialogueCOM": [
-        "NONE"
+        "Hey Marcus, Alex Mercer, robotics engineer and technologist. Likewise.",
+        "Wow, looks like I've got a solid partner on this mission. What do you have in mind for Aegis-7?"
     ]
     ,"DialogueAftherTalking": [
-        "NONE"
+        "..."
     ]
     ,"DialogueLocked": [
         "NONE"
@@ -161,16 +154,12 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "4"
+    ,"IDInteract1" : "0"
     ,"ObtionInteract1": [
-        "Of course!",
-        "How good are robots?",
-        "Will I be able to have infinite ammunition?"
+        "NONE"
     ]
     ,"DialogueInteract1": [
-        "I'm glad for your attitude!",
-        "Destroying them is not that difficult, the easy part comes when they are in a pack, or when their protective shield is enabled",
-        "Of course, but you must know how to use the ammunition!"
+        "NONE"
     ]
     ,"IDInteract2" : "0"
     ,"ObtionInteract2": [
@@ -351,30 +340,47 @@
    {
     "PredialogueRadius": "16"
     ,"DialogueRadius" : "6"
-    ,"NameCD1" : "None"
-    ,"NameCD2" : "None"
+    ,"NameCD1" : "Elena Sombra"
+    ,"NameCD2" : "ALEX MERCER"
     ,"PredialogueWelcome": [
         "Hi",
         "Hello"
     ]
     ,"Predialogue": [
-        "How are you mate?",
-        "I'm very happy to see you here!",
-        "COME!, we have to talk"
+        "HHello there, sleeping beauty! Hope you're well-rested, because we've got a training waiting."
     ]
     ,"PredialogueAftherTalking": [
-        "Hello again!!"
+        "Hold your circuits, Alex Mercer. Those bots have a knack for breaking more than just a sweat.",
+        "What are you doing standing there? Those bots won't self-destruct on their own, you know.",
+        "Hold your circuits, Alex Mercer. You're really testing my patience here.",
+        "Rise and shine, Alex Mercer! Time to dust off those circuits and get down to business.",
+        "I don't have time to play kid."
     ]  
     ,"Dialogue": [
-        "Hi friend",
-        "My name is Elena Ortega...",
-        "what's your name?",
-        "What a beautiful name",
-        "Go and talk to the rest of the team..."
-    ]   
+        "I'm Elena, and I suppose you're Alex Mercer?",
+        "For everything, Mercer! I'm your go-to gal for all things combat and mission-related. Think of me as your personal coach for taking down those rogue bots.",
+        "Ah, the usual story. Robots got a bit too smart for their circuits, took over the city, chaos ensued. But lucky for us, we're here to clean up the mess.",
+        "You got it! I'll be guiding you through the... twists and turns, teaching you the best moves for your robot Aegis 7 and, most importantly, keeping him alive out there.",
+        "You bet you should! Now, let's get you geared up and ready to show those bots who's boss."
+    ]
+    ,"IDsDialogueCOM": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ]
+    ,"DialogueCOM": [
+        "Alex Mercer, that's me. And training? For what specifically?",
+        "Rogue bots? What happened?",
+        "And you're... my trainer?",
+        "I guess I should be thankful for that."
+    ]
     ,"DialogueAftherTalking": [
-        "Find the rest of the team",
-        "You found them?"
+        "Hold your circuits, Alex Mercer. Those bots have a knack for breaking more than just a sweat.",
+        "What are you doing standing there? Those bots won't self-destruct on their own, you know.",
+        "Hold your circuits, Alex Mercer. You're really testing my patience here.",
+        "Rise and shine, Alex Mercer! Time to dust off those circuits and get down to business.",
+        "I don't have time to play kid."
     ]
     ,"DialogueLocked": [
         "NONE"
@@ -382,16 +388,12 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "3"
+    ,"IDInteract1" : "0"
     ,"ObtionInteract1": [
-        "Player",
-        "Nameless",
-        "It is necessary??"
+        "NONE"
     ]
     ,"DialogueInteract1": [
-        "A very common and unoriginal name...",
-        "NO, everyone must have a name! I'll give you one...",
-        "Absolutely, at least to be able to have a good friendship and not have any discontent!"
+        "NONE"
     ]
     ,"IDInteract2" : "0"
     ,"ObtionInteract2": [

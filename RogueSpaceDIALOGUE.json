@@ -281,16 +281,12 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "3"
+    ,"IDInteract1" : "0"
     ,"ObtionInteract1": [
-        "Of course!",
-        "The truth is I don't play video games...",
-        "What kind of video games do you like the most?"
+        "NONE"
     ]
     ,"DialogueInteract1": [
-        "How good it is to know that someone here besides me likes video games :D",
-        "We should play together, they are fun and entertaining",
-        "My favorite genre is shooter, I also feel that it helps my survival skills"
+        "NONE"
     ]
     ,"IDInteract2" : "0"
     ,"ObtionInteract2": [

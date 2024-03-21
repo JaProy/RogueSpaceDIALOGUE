@@ -127,10 +127,13 @@
         "Come to me!"
     ]
     ,"Predialogue": [
-        "..."
+        "Hey there. Marcus Eco Ramirez, energy engineer and weapons expert. Bueno, ¿qué tal?"
     ]
     ,"PredialogueAftherTalking": [
-        "..."
+        "¡Vamos, Alex! Those bots won't know what hit 'em with these upgrades!",
+        "I've got your back, Alex. Let's make Aegis-7 a force to be reckoned with! ¡Cuento contigo, Alex! ¡Aegis-7 será imparable!",
+        "Aegis-7 is going to be a beast after these upgrades, Alex. Ready for action?",
+        "¡Time to give those bots a taste of their own medicine, Alex! Let's do this!¡Vamos por ellos!"
     ]  
     ,"Dialogue": [
         "Hey there, Alex. Marcus Eco Ramirez, energy engineer and weapons expert. Bueno, ¿qué tal?",
@@ -146,7 +149,10 @@
         "Wow, looks like I've got a solid partner on this mission. What do you have in mind for Aegis-7?"
     ]
     ,"DialogueAftherTalking": [
-        "..."
+        "¡Vamos, Alex! Those bots won't know what hit 'em with these upgrades!",
+        "I've got your back, Alex. Let's make Aegis-7 a force to be reckoned with! ¡Cuento contigo, Alex! ¡Aegis-7 será imparable!",
+        "Aegis-7 is going to be a beast after these upgrades, Alex. Ready for action?",
+        "¡Time to give those bots a taste of their own medicine, Alex! Let's do this!¡Vamos por ellos!"
     ]
     ,"DialogueLocked": [
         "NONE"
@@ -224,41 +230,50 @@
    {
     "PredialogueRadius": "17"
     ,"DialogueRadius" : "6"
-    ,"NameCD1" : "None"
-    ,"NameCD2" : "None"
+    ,"NameCD1" : "Dr. Olivia Chen"
+    ,"NameCD2" : "ALEX MERCER"
     ,"PredialogueWelcome": [
         "Hello",
-        "Good day",
-        "It's a beautiful day, don't you think?"
+        "Hi"
     ]
     ,"Predialogue": [
-        "Have you seen my robot Spark Cipher?",
-        "You seem to be a very nice person :D",
-        "Come closer!" 
+        "Ah, another one to disturb my precious solitude. What do you want, Mercer?" 
     ]
     ,"PredialogueAftherTalking": [
-        "Go after my robot!",
-        "Talk to the rest of the clan, so they can guide you in this great world!",
-        "Take good care of enemy robots!"
+        "You may leave now, Alex Mercer. I have work to do, unlike some people.",
+        "What are you still doing here, Alex Mercer? Are you lost?",
+        "Remember, Alex Mercer, your presence here is a privilege, not a right.",
+        "If you're done wasting my time, Alex Mercer, kindly take your leave.",
+        "Leave me to my calculations, Mercer. Your antics are not needed here."
     ]  
     ,"Dialogue": [
-        "Hello survivor",
-        "My name is Olivia Chen...",
-        "I am a data scientist with a PhD",
-        "but I also love video games, what about you?",
-        "yes, they are great to pass the time",
-        "but we must leave that idea behind and fight for our lives!",
-        "my recommendation is that you look for the rest of the team",
-        "so that they can support you and equip you with the necessary weapons"
+        "...",
+        "I am Kadida Balanta. A name often whispered in the halls of innovation and code.",
+        "My role here? To navigate the intricacies of technology and guide you through the digital wilderness.",
+        "I mean to enlighten, Alex Mercer. To show you the power of technology, its ability to shape worlds, and the responsibility that comes with it.",
+        "Indeed. In the world of bytes and circuits, every choice we make ripples through the digital ether.",
+        "It's not just about upgrading machines; it's about the impact we leave on this digital landscape.",
+        "Our first move, Alex Mercer, is to understand. To delve deep into the heart of technology and emerge with a newfound wisdom."
     ]
     ,"IDsDialogueCOM": [
-        "NONE"
+        "1",
+        "3",
+        "4",
+        "5"
     ]
     ,"DialogueCOM": [
-        "NONE"
+        "Hey there, I'm Alex Mercer. And you are?",
+        "Impressive. What exactly do you mean by 'guide'?",
+        "Responsibility? Sounds heavy.",
+        "I see. So, what's our first move?",
+        "Count me in. Let's see what wisdom awaits."
     ]
     ,"DialogueAftherTalking": [
-        "NONE"
+        "You may leave now, Alex Mercer. I have work to do, unlike some people.",
+        "What are you still doing here, Alex Mercer? Are you lost?",
+        "Remember, Alex Mercer, your presence here is a privilege, not a right.",
+        "If you're done wasting my time, Alex Mercer, kindly take your leave.",
+        "Leave me to my calculations, Mercer. Your antics are not needed here."
     ]
     ,"DialogueLocked": [
         "NONE"
@@ -458,39 +473,48 @@
    {
     "PredialogueRadius": "19"
     ,"DialogueRadius" : "6"
-    ,"NameCD1" : "None"
-    ,"NameCD2" : "None"
+    ,"NameCD1" : "Kadida Balanta"
+    ,"NameCD2" : "ALEX MERCER"
     ,"PredialogueWelcome": [
-        "Hi",
-        "Hello subordinate",
-        "Hey"
+        "Hello",
+        "Hi"
     ]
     ,"Predialogue": [
-        "I'm glad you accept!",
-        "I wish you good luck destroying those robots!",
-        "Upgrade your weapons!",
-        "What do you think if you launch your avatar?"
+        "Come here, Alex Mercer. I don't bite... well, not physically, at least. Did you know the average human nose can detect over 1 trillion different scents?" 
     ]
     ,"PredialogueAftherTalking": [
-        "NONE"
+        "In the world of technology, we wield the power to create and destroy. Let's choose wisely, Alex Mercer",
+        "A journey through the circuits is a journey within ourselves, Alex. Ready to explore the depths?",
+        "Amidst the echoes of data, we decipher the truths of our digital world. Join me, Alex Mercer, in the quest for enlightenment.",
+        "Within the weave of destiny, each strand marks a course. Hesitate not, Alex Mercer. Your quest awaits."
     ]  
     ,"Dialogue": [
-        "Hi",
-        "I am Kadida TECH MASTER Balanta ROBOT Kodex-9",
-        "I am the boss and the person in charge of this team",
-        "They told me you wanted to join, right?",
-        "I hope you are successful in your mission!...",
-        "Remember to talk to the team if you want to improve your skills, or if you want to buy something!",
-        "Bye"
-    ]  
+        "...",
+        "I am Kadida Balanta. A name often whispered in the halls of innovation and code.",
+        "My role here? To navigate the intricacies of technology and guide you through the digital wilderness.",
+        "I mean to enlighten, Alex Mercer. To show you the power of technology, its ability to shape worlds, and the responsibility that comes with it.",
+        "Indeed. In the world of bytes and circuits, every choice we make ripples through the digital ether.",
+        "It's not just about upgrading machines; it's about the impact we leave on this digital landscape.",
+        "Our first move, Alex Mercer, is to understand. To delve deep into the heart of technology and emerge with a newfound wisdom."
+    ]
     ,"IDsDialogueCOM": [
-        "NONE"
+        "1",
+        "3",
+        "4",
+        "5"
     ]
     ,"DialogueCOM": [
-        "NONE"
+        "Hey there, I'm Alex Mercer. And you are?",
+        "Impressive. What exactly do you mean by 'guide'?",
+        "Responsibility? Sounds heavy.",
+        "I see. So, what's our first move?",
+        "Count me in. Let's see what wisdom awaits."
     ]
     ,"DialogueAftherTalking": [
-        "NONE"
+        "In the world of technology, we wield the power to create and destroy. Let's choose wisely, Alex Mercer",
+        "A journey through the circuits is a journey within ourselves, Alex. Ready to explore the depths?",
+        "Amidst the echoes of data, we decipher the truths of our digital world. Join me, Alex Mercer, in the quest for enlightenment.",
+         "Within the weave of destiny, each strand marks a course. Hesitate not, Alex Mercer. Your quest awaits."
     ]
     ,"DialogueLocked": [
         "NONE"
@@ -498,14 +522,12 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "3"
+    ,"IDInteract1" : "0"
     ,"ObtionInteract1": [
-        "Yes",
-        "No"
+        "NONE"
     ]
     ,"DialogueInteract1": [
-        "Excellent decision!",
-        "Unfortunately you already spoke to everyone here, therefore you are already on the team..."
+        "NONE"
     ]
     ,"IDInteract2" : "0"
     ,"ObtionInteract2": [

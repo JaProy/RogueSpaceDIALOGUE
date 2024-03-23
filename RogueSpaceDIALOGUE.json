@@ -706,8 +706,8 @@
    {
     "PredialogueRadius": "16"
     ,"DialogueRadius" : "5"
-    ,"NameCD1" : "None"
-    ,"NameCD2" : "None"
+    ,"NameCD1" : "Riley Furgor"
+    ,"NameCD2" : "Alex Mercer"
     ,"PredialogueWelcome": [
         "Hi",
         "Hello"
@@ -775,8 +775,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
-    ,"URLImageCharacterCOM1" : "https://media.discordapp.net/attachments/768678782651203584/1214254770005737583/CRF.png?ex=660ae6e0&is=65f871e0&hm=1c82c54a695b9075ae3f18df19b5ddd6d00f724362b839df2c4bab27f830f73f&=&format=webp&quality=lossless&width=242&height=423"
-    ,"URLImageCharacterCOM2" : ""
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
+    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_Missions_RileyFulgor_CMP002" 
     ,"URLsForDownloadAUD": [
      "NONE"

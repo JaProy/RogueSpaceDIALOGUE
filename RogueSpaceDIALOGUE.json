@@ -465,8 +465,8 @@
    {
     "PredialogueRadius": "19"
     ,"DialogueRadius" : "6"
-    ,"NameCD1" : "Kadida Balanta"
-    ,"NameCD2" : "ALEX MERCER"
+    ,"NameCD1" : "Alex Mercer"
+    ,"NameCD2" : "Kadida Balanta"
     ,"PredialogueWelcome": [
         "Greetings, Alex. May your path through the digital world be illuminated by purpose."
     ]
@@ -480,13 +480,11 @@
         "Within the weave of destiny, each strand marks a course. Hesitate not, Alex Mercer. Your quest awaits."
     ]  
     ,"Dialogue": [
-        "...",
-        "I am Kadida Balanta. A name often whispered in the halls of innovation and code.",
-        "My role here? To navigate the intricacies of technology and guide you through the digital wilderness.",
-        "I mean to enlighten, Alex Mercer. To show you the power of technology, its ability to shape worlds, and the responsibility that comes with it.",
-        "Indeed. In the world of bytes and circuits, every choice we make ripples through the digital ether.",
-        "It's not just about upgrading machines; it's about the impact we leave on this digital landscape.",
-        "Our first move, Alex Mercer, is to understand. To delve deep into the heart of technology and emerge with a newfound wisdom."
+        "Hey there, I'm Alex Mercer. And you are?",
+        "Impressive. What exactly do you mean by 'guide'?",
+        "Responsibility? Sounds heavy.",
+        "I see. So, what's our first move?",
+        "Count me in. Let's see what wisdom awaits."
     ]
     ,"IDsDialogueCOM": [
         "1",
@@ -495,11 +493,10 @@
         "5"
     ]
     ,"DialogueCOM": [
-        "Hey there, I'm Alex Mercer. And you are?",
-        "Impressive. What exactly do you mean by 'guide'?",
-        "Responsibility? Sounds heavy.",
-        "I see. So, what's our first move?",
-        "Count me in. Let's see what wisdom awaits."
+        "I am Kadida Balanta. A name often whispered in the halls of innovation and code. My role here? To navigate the intricacies of technology and guide you through the digital wilderness.",
+        "I mean to enlighten, Alex Mercer. To show you the power of technology, its ability to shape worlds, and the responsibility that comes with it.",
+        "Indeed. In the world of bytes and circuits, every choice we make ripples through the digital ether. It's not just about upgrading machines; it's about the impact we leave on this digital landscape.",
+        "Our first move, Alex Mercer, is to understand. To delve deep into the heart of technology and emerge with a newfound wisdom."
     ]
     ,"DialogueAftherTalking": [
         "In the world of technology, we wield the power to create and destroy. Let's choose wisely, Alex Mercer",

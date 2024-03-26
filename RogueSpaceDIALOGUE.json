@@ -541,8 +541,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
+    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
     ,"MissionComponent" :"BPC_KTMBRK9001" 
     ,"URLsForDownloadAUD": [
      "NONE"
@@ -934,9 +934,9 @@
         "Don't let that loss get you down, Alex Mercer. We'll come back stronger and take down that boss together."
     ]  
     ,"Dialogue": [
-        "Thanks, Elena. I won't let that boss...",
-        "get the best of me again.",
-        "Ready for round two?"
+        "Thanks, Elena. I won't let that boss get the best of me again.",
+        "Ready for round two?",
+        "..."
     ]
     ,"IDsDialogueCOM": [
         "1",

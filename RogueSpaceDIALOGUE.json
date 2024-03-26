@@ -1133,5 +1133,114 @@
      "NONE"
     ]
    }
+ ],
+ "KTMBRK9002":[
+   {
+    "PredialogueRadius": "16"
+    ,"DialogueRadius" : "15"
+    ,"NameCD1" : "Kadida Balanta"
+    ,"NameCD2" : "Alex Mercer"
+    ,"PredialogueWelcome": [
+        "Alex, welcome back to the ever-evolving landscape of technology. Remember, each byte holds a story."
+    ]
+    ,"Predialogue": [
+        "Welcome back, Alex Mercer. "
+    ]
+    ,"PredialogueAftherTalking": [
+        "Within the circuits, we find the pulse of innovation, Alex. Let's infuse Aegis-7 with the heartbeat of progress.",
+        "Each byte holds a story, Alex. Let's write the next chapter of Aegis-7's legacy with purpose and precision.",
+        "Let's delve into the digital expanse, Alex. Aegis-7 awaits its rebirth in the fabric of code.",
+        "The bytes hold the key to our next evolution."
+    ]  
+    ,"Dialogue": [
+        "The digital world awaits your return. Ready to continue the journey?",
+        "Good to have you back, Alex. Remember, in the world of technology, every choice has consequences.",
+        "Our next move is to adapt and evolve. Let's upgrade Aegis-7 and show these bots the power of innovation."
+    ]
+    ,"IDsDialogueCOM": [
+        "1",
+        "2"
+    ]
+    ,"DialogueCOM": [
+        "Kadida, good to see you again. I'm back in the game, ready to navigate these circuits once more.",
+        "I've learned that the hard way. What's our next move, Kadida?"
+    ]
+    ,"DialogueAftherTalking": [
+        "Within the circuits, we find the pulse of innovation, Alex. Let's infuse Aegis-7 with the heartbeat of progress.",
+        "Each byte holds a story, Alex. Let's write the next chapter of Aegis-7's legacy with purpose and precision.",
+        "Let's delve into the digital expanse, Alex. Aegis-7 awaits its rebirth in the fabric of code.",
+        "The bytes hold the key to our next evolution."
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
+    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
+    ,"MissionComponent" :"BPCH_Missions_KTMBRK9_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
  ]
 }

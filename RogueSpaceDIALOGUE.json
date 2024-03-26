@@ -810,7 +810,7 @@
         "Hello"
     ]
     ,"Predialogue": [
-        "Mercer, I didn't expect to see you back here so soon. What happened out there?"
+        "Mercer, get back in the fight! We're not done here."
     ]
     ,"PredialogueAftherTalking": [
         "Mercer! We're not done yet. Get back on your feet and show them what you're made of!",
@@ -820,7 +820,7 @@
         "Hurry it up, Mercer! Every second wasted is another second for the enemy to regroup."
     ]  
     ,"Dialogue": [
-        "...",
+        "Mercer, I didn't expect to see you back here so soon. What happened out there?",
         "Hmm. Crossfire, you say? Sounds like you let your guard down, Mercer. We can't afford mistakes like that.",
         "Good. We need you at your best out there, Mercer. The Citadel's counting on it.",
         "You better do. "
@@ -918,13 +918,13 @@
    {
     "PredialogueRadius": "16"
     ,"DialogueRadius" : "5"
-    ,"NameCD1" : "Alex Mercer"
-    ,"NameCD2" : "Elena Sombra"
+    ,"NameCD1" : "Elena Sombra"
+    ,"NameCD2" : "Alex Mercer"
     ,"PredialogueWelcome": [
         "Hey there, Alex Mercer! Hope you've got your game face on. It's time to show those bots who's boss!"
     ]
     ,"Predialogue": [
-        "Took a beating, huh? That's alright, we'll get 'em next time."
+        "Well, well, look who's back in the game!"
     ]
     ,"PredialogueAftherTalking": [
         "Back on your feet! Time to show those bots we're not backing down.",
@@ -934,17 +934,17 @@
         "Don't let that loss get you down, Alex Mercer. We'll come back stronger and take down that boss together."
     ]  
     ,"Dialogue": [
-        "Thanks, Elena. I won't let that boss get the best of me again.",
-        "Ready for round two?",
-        "..."
+        "Took a beating, huh? That's alright, we'll get 'em next time.",
+        "You better not, Mercer. We've got a city to save, and those bots won't go down without a fight.",
+        "Absolutely! But this time, let's go in with a new strategy. Those bots won't know what hit 'em!"
     ]
     ,"IDsDialogueCOM": [
         "1",
         "2"
     ]
     ,"DialogueCOM": [
-        "You better not, Mercer. We've got a city to save, and those bots won't go down without a fight.",
-        "Absolutely! But this time, let's go in with a new strategy. Those bots won't know what hit 'em!"
+        "Thanks, Elena. I won't let that boss get the best of me again.", 
+        "Ready for round two?",
     ]
     ,"DialogueAftherTalking": [
         "Back on your feet! Time to show those bots we're not backing down.",

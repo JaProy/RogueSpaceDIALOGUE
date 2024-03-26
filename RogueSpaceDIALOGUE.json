@@ -6,8 +6,7 @@
     ,"NameCD1" : "Riley Furgor"
     ,"NameCD2" : "ALEX MERCER"
     ,"PredialogueWelcome": [
-        "Hi",
-        "Hello"
+        "Ah, Mercer. Good to see you're still in one piece. How's the battlefield treating you?"
     ]
     ,"Predialogue": [
         "Good evening, Mercer. Tonight's mission is not just important; it's a reckoning. Our adversary is cunning, our objective nothing short of critical."
@@ -123,8 +122,7 @@
     ,"NameCD1" : "Marcus Eco Ramirez"
     ,"NameCD2" : "ALEX MERCER"
     ,"PredialogueWelcome": [
-        "Hi",
-        "Come to me!"
+        "Bueno, Alex ¿qué tal? How's everything going?"
     ]
     ,"Predialogue": [
         "Hey there. Marcus Eco Ramirez, energy engineer and weapons expert. Bueno, ¿qué tal?"
@@ -233,8 +231,7 @@
     ,"NameCD1" : "Dr. Olivia Chen"
     ,"NameCD2" : "ALEX MERCER"
     ,"PredialogueWelcome": [
-        "Hello",
-        "Hi"
+        "Back again, Mr. Mercer. ? Let's hope this visit is brief."
     ]
     ,"Predialogue": [
         "Ah, another one to disturb my precious solitude. What do you want, Mercer?" 
@@ -354,8 +351,7 @@
     ,"NameCD1" : "Elena Sombra"
     ,"NameCD2" : "ALEX MERCER"
     ,"PredialogueWelcome": [
-        "Hi",
-        "Hello"
+        "Well, well, look who's back for more! Ready to kick some bot metal, Alex Mercer?"
     ]
     ,"Predialogue": [
         "HHello there, sleeping beauty! Hope you're well-rested, because we've got a training waiting."
@@ -472,8 +468,7 @@
     ,"NameCD1" : "Kadida Balanta"
     ,"NameCD2" : "ALEX MERCER"
     ,"PredialogueWelcome": [
-        "Hello",
-        "Hi"
+        "Greetings, Alex. May your path through the digital world be illuminated by purpose."
     ]
     ,"Predialogue": [
         "Come here, Alex Mercer. I don't bite... well, not physically, at least. Did you know the average human nose can detect over 1 trillion different scents?" 
@@ -591,9 +586,7 @@
     ,"NameCD1" : "Riley Furgor"
     ,"NameCD2" : "Alex Mercer"
     ,"PredialogueWelcome": [
-        "Hi",
-        "Hello",
-        "Good"
+        "Ah, Mercer. Good to see you're still in one piece. How's the battlefield treating you?"
     ]
     ,"Predialogue": [
         "What do you think of the enemies?",
@@ -709,8 +702,7 @@
     ,"NameCD1" : "Riley Furgor"
     ,"NameCD2" : "Alex Mercer"
     ,"PredialogueWelcome": [
-        "Hi",
-        "Hello"
+        "Ah, Mercer. Good to see you're still in one piece. How's the battlefield treating you?"
     ]
     ,"Predialogue": [
         "Do you know the boss?",
@@ -778,6 +770,121 @@
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_Missions_RileyFulgor_CMP002" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "Name":[
+   {
+    "PredialogueRadius": "16"
+    ,"DialogueRadius" : "5"
+    ,"NameCD1" : "Riley Glare"
+    ,"NameCD2" : "Alex Mercer"
+    ,"PredialogueWelcome": [
+        "Hi",
+        "Hello"
+    ]
+    ,"Predialogue": [
+        "Mercer, I didn't expect to see you back here so soon. What happened out there?"
+    ]
+    ,"PredialogueAftherTalking": [
+        "Mercer! We're not done yet. Get back on your feet and show them what you're made of!",
+        "Get back in the game, Mercer! We need you out there leading the charge.",
+        "You've faced worse than this, Mercer. Get back up and let's finish this once and for all!",
+        "The countdown's on, Mercer. Get to that target before it's too late.",
+        "Hurry it up, Mercer! Every second wasted is another second for the enemy to regroup."
+    ]  
+    ,"Dialogue": [
+        "...",
+        "Hmm. Crossfire, you say? Sounds like you let your guard down, Mercer. We can't afford mistakes like that.",
+        "Good. We need you at your best out there, Mercer. The Citadel's counting on it.",
+        "You better do. "
+    ]
+    ,"IDsDialogueCOM": [
+        "1",
+        "2", 
+        "3"
+    ]
+    ,"DialogueCOM": [
+        "Commander, it was... a tough fight. Got caught in a crossfire, bots everywhere.",
+        "I know, sir. It won't happen again. I'll be more vigilant next time, I promise.",
+        "I understand, Commander. I'll make sure to bring my A-game next time."
+    ]
+    ,"DialogueAftherTalking": [
+        "Mercer! We're not done yet. Get back on your feet and show them what you're made of!",
+        "Get back in the game, Mercer! We need you out there leading the charge.",
+        "You've faced worse than this, Mercer. Get back up and let's finish this once and for all!",
+        "The countdown's on, Mercer. Get to that target before it's too late.",
+        "Hurry it up, Mercer! Every second wasted is another second for the enemy to regroup."
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "Frue"
+    ,"URLImageCharacterCOM1" : "NONE"
+    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
+    ,"MissionComponent" :"BPCH_Missions_RileyGLare_NM" 
     ,"URLsForDownloadAUD": [
      "NONE"
     ]

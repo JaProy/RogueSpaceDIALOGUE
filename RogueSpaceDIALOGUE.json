@@ -1242,5 +1242,116 @@
      "NONE"
     ]
    }
+ ],
+ "Name":[
+   {
+    "PredialogueRadius": "16"
+    ,"DialogueRadius" : "5"
+    ,"NameCD1" : "Alex Mercer"
+    ,"NameCD2" : "Dr. Olivia Chen"
+    ,"PredialogueWelcome": [
+        "Ah, the persistent Mr. Mercer. What brings you to my domain this time?"
+    ]
+    ,"Predialogue": [
+        "..."
+    ]
+    ,"PredialogueAftherTalking": [
+        "Another round of failure, I see. How surprising.",
+        "Back for more, Mr. Mercer? Let's hope you fare better this time.",
+        "Don't make a habit of dying, Mr. Mercer. It's bad for your reputation.",
+        "You've returned, Mr. Mercer. Try not to waste any more of my time.",
+        "Back from the abyss, I see. Make this life count, Mr. Mercer.""
+    ]  
+    ,"Dialogue": [
+        "Back again, Dr. Chen. Seems I'm not done causing chaos just yet.",
+        "Just a little setback. Ready to get back to work. What's next?",
+        "..."
+    ]
+    ,"IDsDialogueCOM": [
+        "1",
+        "2"
+    ]
+    ,"DialogueCOM": [
+        "Oh, joy. The disruptor returns. What do you want now, Mr. Mercer?",
+        "Next? Don't expect a warm welcome every time you come crawling back, Mr. Mercer."
+    ]
+    ,"DialogueAftherTalking": [
+        "Another round of failure, I see. How surprising.",
+        "Back for more, Mr. Mercer? Let's hope you fare better this time.",
+        "Don't make a habit of dying, Mr. Mercer. It's bad for your reputation.",
+        "You've returned, Mr. Mercer. Try not to waste any more of my time.",
+        "Back from the abyss, I see. Make this life count, Mr. Mercer."
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
+    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG"
+    ,"MissionComponent" :"BPCH_Missions_DrOliviaCC_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
  ]
 }

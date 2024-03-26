@@ -1353,5 +1353,1363 @@
      "NONE"
     ]
    }
+ ],
+ "CRF001N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Riley Furgor"
+    ,"NameCD2" : "NONE"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "Mercer, respond immediately or I'll have to send backup. Don't make me do it.",
+        "Mercer, this is your last warning. If you don't check in, I'll assume the worst. Get it together, soldier!",
+        "We're counting on you, Mercer. Don't make me come in there after you.",
+        "Dammit, Mercer! I need you focused and responsive. Get back in the fight!"
+    ]
+    ,"IDsDialogueCOM": [
+        "0"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
+    ,"URLImageCharacterCOM2" : "NONE"
+    ,"MissionComponent" :"BPCH_Missions_RileyFurgor_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "CRGL001N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Riley Glare"
+    ,"NameCD2" : "Alex Mercer"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "Mercer, respond immediately or I'll have to send backup. Don't make me do it.",
+        "Good. And don't forget your objectives. Disable the machinery and cut off their resources. Hit them where it hurts.",
+        "One more thing, Mercer. Watch out for the Boss. It's heavily armed and not to be underestimated."
+    ]
+    ,"IDsDialogueCOM": [
+        "1",
+        "2",
+        "3"
+    ]
+    ,"DialogueCOM": [
+        "Understood, Commander. I'll keep my eyes peeled for any surprises.",
+        "I'm on it, Commander.",
+        "Noted, Commander. I'll be ready for anything that comes my way."
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "NONE"
+    ,"URLImageCharacterCOM2" : "NONE"
+    ,"MissionComponent" :"BPCH_Missions_RileyGLare_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "CRGL002N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Riley Glare"
+    ,"NameCD2" : "NONE"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "Mercer! Stay sharp. Remember, the key to victory is strategy. Use the map to plan your moves and outwit your enemies.",
+        "Keep your wits about you, Mercer. Those drones may be defective, but they're still dangerous.",
+        "The Boss won't go down easy, Mercer. Aim for its weak spots and keep moving.",
+        "You're our best shot at stopping the Nebula Mine operation, Mercer. Make us proud. You're our best shot at stopping the Nebula Mine operation, Mercer. Make us proud."
+    ]
+    ,"IDsDialogueCOM": [
+        "0"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "NONE"
+    ,"URLImageCharacterCOM2" : "NONE"
+    ,"MissionComponent" :"BPCH_Missions_RileyGLare_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "ESO001N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Elena Sombra"
+    ,"NameCD2" : "NONE"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "Hey, Alex. Remember me? I'm the voice in your ear. Maybe put down the coffee and focus on the bots?",
+        "Mercer, I'm here to help, but you gotta respond. Are you trying to give me a heart attack here?",
+        "Alright, Mercer. I get it, you're in the zone. But a little acknowledgment would be nice.",
+        "Seriously, Alex? You're ignoring me now? I'm starting to take this personally.",
+        "Ignoring me won't make the bots disappear, Alex. Time to focus up.",
+        "Alex Mercer, this is your conscience speaking. And right now, your conscience needs you to respond!"
+    ]
+    ,"IDsDialogueCOM": [
+        "0"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
+    ,"URLImageCharacterCOM2" : "NONE"
+    ,"MissionComponent" :"BPCH_Missions_ElenaSO_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "ESO002N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Elena Sombra"
+    ,"NameCD2" : "NONE"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "Back in the game, Alex Mercer! Ready to take down those rogue bots?",
+        "Alright, listen up, Mercer. First things first, watch your surroundings. Those drones can come from anywhere.",
+        "Second, use your environment. Take cover, use those collapsed areas to your advantage.",
+        "Last but not least, don't forget your upgrades. That Aegis-7 of yours packs a punch, use it wisely.",
+        "Good. Now, let's show these bots who they're dealing with!"
+    ]
+    ,"IDsDialogueCOM": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ]
+    ,"DialogueCOM": [
+        "Absolutely, Elena. What's the plan?",
+        "Got it. Eyes peeled for any movement.",
+        "Roger that, Elena. I'll make the terrain work for us.",
+        "Understood. I'll make sure Aegis-7 is ready for action."
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
+    ,"URLImageCharacterCOM2" : "NONE"
+    ,"MissionComponent" :"BPCH_Missions_ElenaSO_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "ESO003N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Elena Sombra"
+    ,"NameCD2" : "NONE"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "Keep your focus sharp, Mercer. We're counting on you out there.",
+        "Remember our strategy, Mercer. Stay agile, stay alert.",
+        "No time for rest, Mercer! The mission's not over until those bots are scrap metal.",
+        "Stay cool under pressure, Mercer. You've got this!"
+    ]
+    ,"IDsDialogueCOM": [
+        "0"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
+    ,"URLImageCharacterCOM2" : "NONE"
+    ,"MissionComponent" :"BPCH_Missions_ElenaSO_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "MECOR001N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Marcus Eco Ramirez"
+    ,"NameCD2" : "NONE"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "Alex, this is Marcus. Hope you're not taking a siesta out there. We've got bots to bash!",
+        "Hey, Mercer! Marcus here. Got a whole swarm of bots knocking on our door. Need you in the game, pronto!",
+        "Amigo, I know you're not one for small talk, but a quick 'got it' would ease my nerves right about now."
+    ]
+    ,"IDsDialogueCOM": [
+        "0"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
+    ,"URLImageCharacterCOM2" : "NONE"
+    ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "MECOR002N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Marcus Eco Ramirez"
+    ,"NameCD2" : "Alex Mercer"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "Mercer, remember to use the control consoles to halt resource production and weaken the mine boss.",
+        "Bueno, the key areas are marked on the holographic map. Look for safe routes and avoid high toxicity zones.",
+        "Good to hear, amigo. The defective security drones are vulnerable to electrical attacks. Use your weapons to quickly disable them.",
+        "Alex, the mine boss has weak points in its defenses. Aim for those points to inflict maximum damage.",
+        "Don't underestimate the mobile radiation serpents. Stay alert and dodge them to avoid damage.",
+        "..."
+    ]
+    ,"IDsDialogueCOM": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ]
+    ,"DialogueCOM": [
+        "Understood. Seeking out the consoles.",
+        "Checking the map. Steering clear of hazardous areas.",
+        "Going after the drones. Charging up.",
+        "Got it. Focusing on the boss's weak spots.",
+        "Watching out for the serpents. Keeping my distance."
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
+    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
+    ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "MECOR003N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Marcus Eco Ramirez"
+    ,"NameCD2" : "NONE"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "Check the holographic map for key areas and escape routes. Watch out for toxicity zones.",
+        "Mercer, use your weapons to take down the defective security drones quickly. They're vulnerable to electrical attacks.",
+        "Aim for the weak spots in the mine boss's defenses. That's where you'll deal the most damage.",
+        "¡Vamos, Alex! Stay sharp and dodge the mobile radiation serpents. Don't let them get too close."
+    ]
+    ,"IDsDialogueCOM": [
+        "0"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
+    ,"URLImageCharacterCOM2" : "NONE"
+    ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "KTMBRK9001N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Kadida Balanta"
+    ,"NameCD2" : "NONE"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "A silent ally is often the wisest companion. Good luck, Alex Mercer.",
+        "Your silence is deafening. Have you lost your resolve, or are you simply lost in the dark? Please, respond.",
+        "I can feel the energy of the mine shifting. Seize the moment, or risk being overwhelmed. Respond, Alex Mercer, please.",
+        "I sense doubt in your silence, Alex Mercer Trust in your abilities, they will not fail you. Acknowledge my words."
+    ]
+    ,"IDsDialogueCOM": [
+        "0"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
+    ,"URLImageCharacterCOM2" : "NONE"
+    ,"MissionComponent" :"BPCH_Missions_KTMBRK9_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "KTMBRK9002N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Kadida Balanta"
+    ,"NameCD2" : "NONE"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "Alex Mercer, in Sector 1, the security drones have a pattern. Wait for the gaps to move without detection.",
+        "Sector 2 holds collapsed tunnels. Watch your step and scan for structural weaknesses to clear a path.",
+        "Alex Mercer, Sector 3's main console controls the mine's power. Disable it to disrupt enemy communications.",
+        "Remember, Alex, your gadgets are your best friends. Use them wisely and they'll turn the tide in your favor.",
+        "Stay focused, Alex. The bots are relentless, but you've got the skills to outwit them. Good luck.",
+        "..."
+    ]
+    ,"IDsDialogueCOM": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ]
+    ,"DialogueCOM": [
+        "Understood, Kadida. Waiting for the right moment in Sector 1.",
+        "Scanning for weak spots in Sector 2. Moving carefully.",
+        "Disabling the main console in Sector 3. Communications disrupted.",
+        "Gadgets ready, Kadida.",
+        "Focused and ready, Kadida. The bots won't know what hit them. Thanks for the tips."
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
+    ,"URLImageCharacterCOM2" : "NONE"
+    ,"MissionComponent" :"BPCH_Missions_KTMBRK9_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "KTMBRK9003N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Kadida Balanta"
+    ,"NameCD2" : "NONE"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "The radiating serpents are drawn to movement. Stay still, and they will pass. Patience is a weapon, Alex Mercer",
+        "Sometimes the greatest weapon is patience. Observe, plan, then strike when the moment is right.",
+        "Analyze the patterns of the enemy drones. They have a predictable patrol route. Use it to your advantage.",
+        "Remember that the Boss is vulnerable to energy disruptions. Look for the power nodes nearby to disable its shields.",
+        "Alex Mercer, use the environment to your advantage. Explosive barrels and collapsing structures can turn the tide of battle.",
+        "Hacking the enemy drones can turn them against each other, Alex MercerLet them do the work for you."
+    ]
+    ,"IDsDialogueCOM": [
+        "0"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
+    ,"URLImageCharacterCOM2" : "NONE"
+    ,"MissionComponent" :"BPCH_Missions_KTMBRK9_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "DrOCC001N":[
+   {
+    "PredialogueRadius": "0.0"
+    ,"DialogueRadius" : "0.0"
+    ,"NameCD1" : "Dr. Olivia Chen"
+    ,"NameCD2" : "NONE"
+    ,"PredialogueWelcome": [
+        "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "Hmph, typical. Ignoring the one who could save you from imminent failure. Suit yourself, Mr. Mercer.",
+        "Well, Mr. Mercer, if you're content with stumbling blindly, don't come crying to me when it all goes south.",
+        "Of course, Alex Mercer wouldn't bother to listen to the one with the actual data. Carry on, then."
+    ]
+    ,"IDsDialogueCOM": [
+        "0"
+    ]
+    ,"DialogueCOM": [
+        "NONE"
+    ]
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG"
+    ,"URLImageCharacterCOM2" : "NONE"
+    ,"MissionComponent" :"BPCH_Missions_DrOliviaCC_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
  ]
 }

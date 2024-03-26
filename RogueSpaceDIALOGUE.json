@@ -1024,5 +1024,114 @@
      "NONE"
     ]
    }
+ ],
+ "MECOR002":[
+   {
+    "PredialogueRadius": "16"
+    ,"DialogueRadius" : "5"
+    ,"NameCD1" : "Marcus Eco Ramirez"
+    ,"NameCD2" : "Alex Mercer"
+    ,"PredialogueWelcome": [
+        "Alex, mi amigo! Good to see you. How's Aegis-7 holding up?"
+    ]
+    ,"Predialogue": [
+        "Bueno, Alex ¿qué tal? "
+    ]
+    ,"PredialogueAftherTalking": [
+        "¡Vamos, Alex! Those bots won't know what hit 'em with these upgrades! ¡A la carga!",
+        "Aegis-7 is going to be a beast after these upgrades, Alex. Ready for action? ¡Listo para la batalla!",
+        "¡Time to give those bots a taste of their own medicine, Alex! Let's do this! ¡Por la resistencia!",
+        "No time to waste, Alex! We've got upgrades to install and bots to dismantle. ¡A la carga, Alex! ¡No hay tiempo que perder!"
+    ]  
+    ,"Dialogue": [
+        "Alex, welcome back.¿Listo para retomar el control?",
+        "Good to hear, amigo. Let's get those upgrades rolling, Aegis-7 needs to pack a punch.",
+        "We're turning Aegis-7 into a walking arsenal. Let's show these bots what happens when they mess with us."
+    ]
+    ,"IDsDialogueCOM": [
+        "1",
+        "2" 
+    ]
+    ,"DialogueCOM": [
+        "Marcus, good to see you again. I'm back in the game, ready to give these bots a taste of their own medicine.",
+        "I'm counting on it. What's the plan this time?"
+    ]
+    ,"DialogueAftherTalking": [
+        "¡Vamos, Alex! Those bots won't know what hit 'em with these upgrades! ¡A la carga!",
+        "Aegis-7 is going to be a beast after these upgrades, Alex. Ready for action? ¡Listo para la batalla!",
+        "¡Time to give those bots a taste of their own medicine, Alex! Let's do this! ¡Por la resistencia!",
+        "No time to waste, Alex! We've got upgrades to install and bots to dismantle. ¡A la carga, Alex! ¡No hay tiempo que perder!"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
+    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
+    ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
  ]
 }

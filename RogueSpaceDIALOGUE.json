@@ -579,7 +579,7 @@
     ]
    }
  ],
-  "MECOR002":[
+  "MECOR002TEST":[
    {
     "PredialogueRadius": "16"
     ,"DialogueRadius" : "6"
@@ -695,7 +695,7 @@
     ]
    }
  ],
-  "CRF002":[
+  "CRF002TEST":[
    {
     "PredialogueRadius": "16"
     ,"DialogueRadius" : "5"
@@ -885,6 +885,116 @@
     ,"URLImageCharacterCOM1" : "NONE"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_Missions_RileyGLare_NM" 
+    ,"URLsForDownloadAUD": [
+     "NONE"
+    ]
+    ,"URLsSavePathAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
+    ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
+    ]
+   }
+ ],
+ "ESO002":[
+   {
+    "PredialogueRadius": "16"
+    ,"DialogueRadius" : "5"
+    ,"NameCD1" : "Alex Mercer"
+    ,"NameCD2" : "Elena Sombra"
+    ,"PredialogueWelcome": [
+        "Hey there, Alex Mercer! Hope you've got your game face on. It's time to show those bots who's boss!"
+    ]
+    ,"Predialogue": [
+        "Took a beating, huh? That's alright, we'll get 'em next time."
+    ]
+    ,"PredialogueAftherTalking": [
+        "Back on your feet! Time to show those bots we're not backing down.",
+        "That's the spirit, Alex Mercer! Let's make those bots regret ever crossing us.",
+        "No time to dwell on setbacks, Alex Mercer. We've got a mission to complete. Let's go!",
+        "Alright, kid. Let's turn that defeat into motivation. Back to the battlefield!",
+        "Don't let that loss get you down, Alex Mercer. We'll come back stronger and take down that boss together."
+    ]  
+    ,"Dialogue": [
+        "Thanks, Elena. I won't let that boss get the best of me again.",
+        "Ready for round two?"
+    ]
+    ,"IDsDialogueCOM": [
+        "1",
+        "2"
+    ]
+    ,"DialogueCOM": [
+        "You better not, Mercer. We've got a city to save, and those bots won't go down without a fight.",
+        "Absolutely! But this time, let's go in with a new strategy. Those bots won't know what hit 'em!"
+    ]
+    ,"DialogueAftherTalking": [
+        "Back on your feet! Time to show those bots we're not backing down.",
+        "That's the spirit, Alex Mercer! Let's make those bots regret ever crossing us.",
+        "No time to dwell on setbacks, Alex Mercer. We've got a mission to complete. Let's go!",
+        "Alright, kid. Let's turn that defeat into motivation. Back to the battlefield!",
+        "Don't let that loss get you down, Alex Mercer. We'll come back stronger and take down that boss together."
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
+    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
+    ,"MissionComponent" :"BPCH_Missions_ElenaSO_NM" 
     ,"URLsForDownloadAUD": [
      "NONE"
     ]

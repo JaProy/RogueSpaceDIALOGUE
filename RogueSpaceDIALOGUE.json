@@ -45,38 +45,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "4"
-    ,"ObtionInteract1": [
-        "Yes, im a profecional",
-        "Yes",
-        "No"
-    ]
-    ,"DialogueInteract1": [
-        "Yes, I am a professional",
-        "Let's hope you're good at using them, those robots are very good with weapons",
-        "So what are you doing here? Go and find out how to use them!"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
@@ -162,34 +130,6 @@
         "NONE"
     ]
     ,"DialogueAfterTalkingLocked": [
-        "NONE"
-    ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
         "NONE"
     ]
     ,"CharNotVisible?" : "False"
@@ -290,34 +230,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
@@ -413,34 +325,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
@@ -534,34 +418,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
@@ -652,38 +508,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "3"
-    ,"ObtionInteract1": [
-        "Yeah",
-        "No",
-        "What enemies?"
-    ]
-    ,"DialogueInteract1": [
-        "I hope you have experience against them, they are very tough!",
-        "What?, why not?... Bruh, since, try to do a mission, of course if they don't eliminate you first haha",
-        "Wow, I see that you are not updated on our situation, you better keep listening to me..."
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
@@ -767,34 +591,6 @@
         "NONE"
     ]
     ,"DialogueAfterTalkingLocked": [
-        "NONE"
-    ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
         "NONE"
     ]
     ,"CharNotVisible?" : "False"
@@ -890,34 +686,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "Frue"
@@ -1007,34 +775,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -1122,34 +862,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -1235,34 +947,6 @@
         "NONE"
     ]
     ,"DialogueAfterTalkingLocked": [
-        "NONE"
-    ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
         "NONE"
     ]
     ,"CharNotVisible?" : "False"
@@ -1354,34 +1038,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -1460,34 +1116,6 @@
         "NONE"
     ]
     ,"DialogueAfterTalkingLocked": [
-        "NONE"
-    ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
         "NONE"
     ]
     ,"CharNotVisible?" : "False"
@@ -1574,34 +1202,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -1680,34 +1280,6 @@
         "NONE"
     ]
     ,"DialogueAfterTalkingLocked": [
-        "NONE"
-    ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
         "NONE"
     ]
     ,"CharNotVisible?" : "False"
@@ -1790,34 +1362,6 @@
         "NONE"
     ]
     ,"DialogueAfterTalkingLocked": [
-        "NONE"
-    ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
         "NONE"
     ]
     ,"CharNotVisible?" : "False"
@@ -1908,34 +1452,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -2016,34 +1532,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -2121,34 +1609,6 @@
         "NONE"
     ]
     ,"DialogueAfterTalkingLocked": [
-        "NONE"
-    ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
         "NONE"
     ]
     ,"CharNotVisible?" : "False"
@@ -2241,34 +1701,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -2349,34 +1781,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -2455,34 +1859,6 @@
         "NONE"
     ]
     ,"DialogueAfterTalkingLocked": [
-        "NONE"
-    ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
         "NONE"
     ]
     ,"CharNotVisible?" : "False"
@@ -2575,34 +1951,6 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -2683,34 +2031,6 @@
         "NONE"
     ]
     ,"DialogueAfterTalkingLocked": [
-        "NONE"
-    ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
         "NONE"
     ]
     ,"CharNotVisible?" : "False"

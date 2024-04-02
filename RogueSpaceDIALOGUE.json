@@ -1,7 +1,12 @@
-{
+{"RogueSpace":[
+   {
+    "IDVercion" : "0.00"
+   }
+ ],
  "CRF001":[
    {
-    "PredialogueRadius": "15"
+    "IDn" : "0"
+    ,"PredialogueRadius": "15"
     ,"DialogueRadius" : "6"
     ,"NameCD1" : "Riley Furgor"
     ,"NameCD2" : "ALEX MERCER"
@@ -91,7 +96,8 @@
  ],
   "MECOR001":[
    {
-    "PredialogueRadius": "14"
+    "IDn" : "1"
+    ,"PredialogueRadius": "14"
     ,"DialogueRadius" : "5"
     ,"NameCD1" : "Marcus Eco Ramirez"
     ,"NameCD2" : "ALEX MERCER"
@@ -178,7 +184,8 @@
  ],
   "DrOCC001":[
    {
-    "PredialogueRadius": "17"
+    "IDn" : "2"
+    ,"PredialogueRadius": "17"
     ,"DialogueRadius" : "6"
     ,"NameCD1" : "Dr. Olivia Chen"
     ,"NameCD2" : "ALEX MERCER"
@@ -276,7 +283,8 @@
  ],
  "ESO001":[
    {
-    "PredialogueRadius": "16"
+    "IDn" : "3"
+    ,"PredialogueRadius": "16"
     ,"DialogueRadius" : "6"
     ,"NameCD1" : "Elena Sombra"
     ,"NameCD2" : "ALEX MERCER"
@@ -371,7 +379,8 @@
  ],
  "KTMBRK9001":[
    {
-    "PredialogueRadius": "19"
+    "IDn" : "4"
+    ,"PredialogueRadius": "19"
     ,"DialogueRadius" : "6"
     ,"NameCD1" : "Alex Mercer"
     ,"NameCD2" : "Kadida Balanta"
@@ -464,7 +473,8 @@
  ],
   "MECOR002TEST":[
    {
-    "PredialogueRadius": "16"
+    "IDn" : "5"
+    ,"PredialogueRadius": "16"
     ,"DialogueRadius" : "6"
     ,"NameCD1" : "Riley Furgor"
     ,"NameCD2" : "Alex Mercer"
@@ -554,7 +564,8 @@
  ],
   "CRF002TEST":[
    {
-    "PredialogueRadius": "16"
+    "IDn" : "6"
+    ,"PredialogueRadius": "16"
     ,"DialogueRadius" : "5"
     ,"NameCD1" : "Riley Furgor"
     ,"NameCD2" : "Alex Mercer"
@@ -639,7 +650,8 @@
  ],
  "CRGL001":[
    {
-    "PredialogueRadius": "16"
+    "IDn" : "7"
+    ,"PredialogueRadius": "16"
     ,"DialogueRadius" : "5"
     ,"NameCD1" : "Riley Glare"
     ,"NameCD2" : "Alex Mercer"
@@ -732,7 +744,8 @@
  ],
  "ESO002":[
    {
-    "PredialogueRadius": "16"
+    "IDn" : "8"
+    ,"PredialogueRadius": "16"
     ,"DialogueRadius" : "5"
     ,"NameCD1" : "Elena Sombra"
     ,"NameCD2" : "Alex Mercer"
@@ -821,7 +834,8 @@
  ],
  "MECOR002":[
    {
-    "PredialogueRadius": "16"
+    "IDn" : "9"
+    ,"PredialogueRadius": "16"
     ,"DialogueRadius" : "5"
     ,"NameCD1" : "Marcus Eco Ramirez"
     ,"NameCD2" : "Alex Mercer"
@@ -908,7 +922,8 @@
  ],
  "KTMBRK9002":[
    {
-    "PredialogueRadius": "16"
+    "IDn" : "10"
+    ,"PredialogueRadius": "16"
     ,"DialogueRadius" : "15"
     ,"NameCD1" : "Kadida Balanta"
     ,"NameCD2" : "Alex Mercer"
@@ -995,7 +1010,8 @@
  ],
  "DrOCC002":[
    {
-    "PredialogueRadius": "16"
+    "IDn" : "11"
+    ,"PredialogueRadius": "16"
     ,"DialogueRadius" : "5"
     ,"NameCD1" : "Alex Mercer"
     ,"NameCD2" : "Dr. Olivia Chen"
@@ -1084,7 +1100,8 @@
  ],
  "CRF001N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "12"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Riley Furgor"
     ,"NameCD2" : "NONE"
@@ -1164,7 +1181,8 @@
  ],
  "CRGL001N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "13"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Riley Glare"
     ,"NameCD2" : "Alex Mercer"
@@ -1248,7 +1266,8 @@
  ],
  "CRGL002N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "14"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Riley Glare"
     ,"NameCD2" : "NONE"
@@ -1328,7 +1347,8 @@
  ],
  "ESO001N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "15"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Elena Sombra"
     ,"NameCD2" : "NONE"
@@ -1411,7 +1431,8 @@
  ],
  "ESO002N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "16"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Elena Sombra"
     ,"NameCD2" : "NONE"
@@ -1498,7 +1519,8 @@
  ],
  "ESO003N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "17"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Elena Sombra"
     ,"NameCD2" : "NONE"
@@ -1578,7 +1600,8 @@
  ],
  "MECOR001N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "18"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Marcus Eco Ramirez"
     ,"NameCD2" : "NONE"
@@ -1657,7 +1680,8 @@
  ],
  "MECOR002N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "19"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Marcus Eco Ramirez"
     ,"NameCD2" : "Alex Mercer"
@@ -1747,7 +1771,8 @@
  ],
  "MECOR003N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "20"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Marcus Eco Ramirez"
     ,"NameCD2" : "NONE"
@@ -1827,7 +1852,8 @@
  ],
  "KTMBRK9001N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "21"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Kadida Balanta"
     ,"NameCD2" : "NONE"
@@ -1907,7 +1933,8 @@
  ],
  "KTMBRK9002N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "22"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Kadida Balanta"
     ,"NameCD2" : "NONE"
@@ -1997,7 +2024,8 @@
  ],
  "KTMBRK9003N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "23"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Kadida Balanta"
     ,"NameCD2" : "NONE"
@@ -2079,7 +2107,8 @@
  ],
  "DrOCC001N":[
    {
-    "PredialogueRadius": "0.0"
+    "IDn" : "24"
+    ,"PredialogueRadius": "0.0"
     ,"DialogueRadius" : "0.0"
     ,"NameCD1" : "Dr. Olivia Chen"
     ,"NameCD2" : "NONE"

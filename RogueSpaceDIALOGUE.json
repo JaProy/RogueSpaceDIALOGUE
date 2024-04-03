@@ -1,6 +1,24 @@
 {"RogueSpace":[
    {
     "IDVersion" : "0.10"
+   ,"URLsForDownloadImages": [
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/AMIR_PROGIUEE_HASSAN.PNG",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
+    ]
+    ,"URLsSavePathImages": [
+       "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG",
+       "/Aetherius/Game/DownloadFiles/Characters/AMIR_PROGIUEE_HASSAN.PNG",
+       "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.PNG",
+       "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.PNG",
+       "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.PNG",
+       "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.PNG",
+       "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ]
    }
  ],
  "CRF001":[
@@ -53,14 +71,74 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_Missions_RileyFulgor_CMP001" 
     ,"URLsForDownloadAUD": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_SILENCE.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_05.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_AFTHERTALKING_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_AFTHERTALKING_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_AFTHERTALKING_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED05.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_05.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_06.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_07.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_SILENCE.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_08.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_09.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_AFTHERTALKING_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_AFTHERTALKING_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"URLsSavePathAUD": [
-     "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_SILENCE.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_AFTHERTALKING_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_AFTHERTALKING_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_AFTHERTALKING_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED05.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE_AFTHERTALKINGLOCKED_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE_AFTHERTALKINGLOCKED_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE_AFTHERTALKINGLOCKED_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_05.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_06.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_07.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_SILENCE.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_08.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_09.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_AFTHERTALKING_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_AFTHERTALKING_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"URLDialogueAUD": [
      "NONE"

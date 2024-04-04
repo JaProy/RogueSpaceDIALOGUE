@@ -1,6 +1,8 @@
 {"RogueSpace":[
    {
-    "IDVersion" : "0.10"
+    "IDGameVersion" : "0.0.1"
+   ,"IDJsonV":"0.0.1"
+   ,"IDDownloadFilesV":"0.0.1"
    ,"URLsForDownloadImages": [
       "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/AMIR_PROGIUEE_HASSAN.PNG",

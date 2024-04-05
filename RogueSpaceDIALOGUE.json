@@ -4,22 +4,22 @@
    ,"IDJsonV":"0.0.1"
    ,"IDDownloadFilesV":"0.0.1"
    ,"URLsForDownloadImages": [
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/AMIR_PROGIUEE_HASSAN.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.png",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/AMIR_PROGIUEE_HASSAN.png",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.png",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.png",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.png",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.png",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.png"
     ]
     ,"URLsSavePathImages": [
-       "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG",
-       "/Aetherius/Game/DownloadFiles/Characters/AMIR_PROGIUEE_HASSAN.PNG",
-       "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.PNG",
-       "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.PNG",
-       "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.PNG",
-       "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.PNG",
-       "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+       "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+       "/Aetherius/Game/DownloadFiles/Characters/AMIR_PROGIUEE_HASSAN.png",
+       "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
+       "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+       "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+       "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+       "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png"
     ]
    }
  ],
@@ -221,6 +221,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_CMP001" 
@@ -320,6 +322,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_DrOliviaCC_DrOCC001" 
@@ -416,6 +420,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPC__ElenaSO_ESO001" 
@@ -510,6 +516,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
     ,"MissionComponent" :"BPC_KTMBRK9001" 
@@ -601,6 +609,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_CMP002" 
@@ -687,6 +697,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_Missions_RileyFulgor_CMP002" 
@@ -780,7 +792,9 @@
     ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
-    ,"SendToMission" : "Frue"
+    ,"SendToMission" : "True"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "NONE"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_Missions_RileyGLare_NM" 
@@ -871,6 +885,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_Missions_ElenaSO_NM" 
@@ -959,6 +975,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_NM" 
@@ -1047,6 +1065,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_Missions_KTMBRK9_NM" 
@@ -1137,6 +1157,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG"
     ,"MissionComponent" :"BPCH_Missions_DrOliviaCC_NM" 
@@ -1218,6 +1240,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
     ,"URLImageCharacterCOM2" : "NONE"
     ,"MissionComponent" :"BPCH_Missions_RileyFurgor_NM" 
@@ -1303,6 +1327,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "NONE"
     ,"URLImageCharacterCOM2" : "NONE"
     ,"MissionComponent" :"BPCH_Missions_RileyGLare_NM" 
@@ -1384,6 +1410,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "NONE"
     ,"URLImageCharacterCOM2" : "NONE"
     ,"MissionComponent" :"BPCH_Missions_RileyGLare_NM" 
@@ -1467,6 +1495,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
     ,"URLImageCharacterCOM2" : "NONE"
     ,"MissionComponent" :"BPCH_Missions_ElenaSO_NM" 
@@ -1556,6 +1586,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
     ,"URLImageCharacterCOM2" : "NONE"
     ,"MissionComponent" :"BPCH_Missions_ElenaSO_NM" 
@@ -1637,6 +1669,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
     ,"URLImageCharacterCOM2" : "NONE"
     ,"MissionComponent" :"BPCH_Missions_ElenaSO_NM" 
@@ -1717,6 +1751,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
     ,"URLImageCharacterCOM2" : "NONE"
     ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_NM" 
@@ -1808,6 +1844,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
     ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
     ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_NM" 
@@ -1889,6 +1927,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
     ,"URLImageCharacterCOM2" : "NONE"
     ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_NM" 
@@ -1970,6 +2010,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
     ,"URLImageCharacterCOM2" : "NONE"
     ,"MissionComponent" :"BPCH_Missions_KTMBRK9_NM" 
@@ -2061,6 +2103,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
     ,"URLImageCharacterCOM2" : "NONE"
     ,"MissionComponent" :"BPCH_Missions_KTMBRK9_NM" 
@@ -2144,6 +2188,8 @@
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
     ,"URLImageCharacterCOM2" : "NONE"
     ,"MissionComponent" :"BPCH_Missions_KTMBRK9_NM" 
@@ -2221,37 +2267,13 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
-    ,"IDInteract1" : "0"
-    ,"ObtionInteract1": [
-        "NONE"
-    ]
-    ,"DialogueInteract1": [
-        "NONE"
-    ]
-    ,"IDInteract2" : "0"
-    ,"ObtionInteract2": [
-        "NONE"
-    ]
-    ,"DialogueInteract2": [
-        "NONE"
-    ]
-    ,"IDInteractBlock1" : "0"
-    ,"ObtionInteractBlock1": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock1": [
-        "NONE"
-    ]
-    ,"IDInteractBlock2" : "0"
-    ,"ObtionInteractBlock2": [
-        "NONE"
-    ]
-    ,"DialogueInteractBlock2": [
-        "NONE"
-    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
+    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.PNG"
+    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.PNG"
     ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG"
     ,"URLImageCharacterCOM2" : "NONE"
     ,"MissionComponent" :"BPCH_Missions_DrOliviaCC_NM" 

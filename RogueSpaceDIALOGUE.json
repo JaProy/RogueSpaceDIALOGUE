@@ -4,22 +4,24 @@
    ,"IDJsonV":"0.0.1"
    ,"IDDownloadFilesV":"0.0.1"
    ,"URLsForDownloadImages": [
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main",
       "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/AMIR_PROGIUEE_HASSAN.PNG",
       "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
       "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
       "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
       "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG""
     ]
     ,"URLsSavePathImages": [
-       "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+       "/Aetherius",
        "/Aetherius/Game/DownloadFiles/Characters/AMIR_PROGIUEE_HASSAN.png",
        "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
        "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
        "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
        "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
-       "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png"
+       "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+       "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
     ]
    }
  ],

@@ -1,232 +1,232 @@
 {
-   "RogueSpace":[
-   {
-    "IDGameVersion" : "0.0.1"
-   ,"IDJsonV":"0.0.1.2"
-   ,"IDDownloadFilesV":"0.0.1"
-   ,"URLsForDownloadImages": [
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/AMIR_PROGIUEE_HASSAN.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
-      "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ]
-    ,"URLsSavePathImages": [
-       "/Aetherius",
-       "/Aetherius/Game/DownloadFiles/Characters/AMIR_PROGIUEE_HASSAN.png",
-       "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
-       "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
-       "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
-       "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
-       "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
-       "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ]
-   }
- ],
- "CRF001":[
-   {
-     "PredialogueRadius": "15"
-    ,"DialogueRadius" : "6"
-    ,"NameCD1" : "Riley Furgor"
-    ,"NameCD2" : "ALEX MERCER"
-    ,"PredialogueWelcome": [
+  "RogueSpace": [
+    {
+      "IDGameVersion": "0.0.1",
+      "IDJsonV": "0.0.1.2",
+      "IDDownloadFilesV": "0.0.1",
+      "URLsForDownloadImages": [
+        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main",
+        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/AMIR_PROGIUEE_HASSAN.PNG",
+        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
+        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
+      ],
+      "URLsSavePathImages": [
+        "/Aetherius",
+        "/Aetherius/Game/DownloadFiles/Characters/AMIR_PROGIUEE_HASSAN.png",
+        "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
+        "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+        "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+        "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+        "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+        "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
+      ]
+    }
+  ],
+  "CRF001": [
+    {
+      "PredialogueRadius": "15",
+      "DialogueRadius": "6",
+      "NameCD1": "Riley Furgor",
+      "NameCD2": "ALEX MERCER",
+      "PredialogueWelcome": [
         "Ah, Mercer. Good to see you're still in one piece. How's the battlefield treating you?"
-    ]
-    ,"Predialogue": [
+      ],
+      "Predialogue": [
         "Good evening, Mercer. Tonight's mission is not just important; it's a reckoning. Our adversary is cunning, our objective nothing short of critical."
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "PredialogueAftherTalking": [
         "Hurry up and meet the whole crew to begin your first immersion test",
         "What are you waiting for? Take a full tour of the crew!",
         "You're pushing my patience, recruit.",
         "I don't have time for games, soldier. A mission is already in progress."
-    ]  
-    ,"Dialogue": [
+      ],
+      "Dialogue": [
         "Report immediately to me for the full brief of the Mission.",
         "Good to hear... The Federation is tight on my feet. We need to start the infiltration as soon as possible, and for me, that means now. Follow me.",
         "The robots in the Citadel have gone rogue, and chaos is poised to consume the megacity. Mercer, your technological prowess and understanding of robotics make you indispensable for this mission.",
         "Godspeed, Mercer. The success of this operation pivots on you. Dismissed."
-    ]          
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
         "2",
         "3"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "Understood, Commander. I'm always ready.",
         "Right on, Commander.  I'm ready to bring the Citadel back to its former glory.",
         "Rest assured, Commander. I'll put those renegade bots back in their place and ensure the Citadel's safety."
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "Hurry up and meet the whole crew to begin your first immersion test",
         "What are you waiting for? Take a full tour of the crew!",
         "You're pushing my patience, recruit.",
         "I don't have time for games, soldier. A mission is already in progress."
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "True"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"MissionComponent" :"BPCH_Missions_RileyFulgor_CMP001" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
-  "MECOR001":[
-   {
-     "PredialogueRadius": "14"
-    ,"DialogueRadius" : "5"
-    ,"NameCD1" : "Marcus Eco Ramirez"
-    ,"NameCD2" : "ALEX MERCER"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "True",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_RileyFulgor_CMP001",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "MECOR001": [
+    {
+      "PredialogueRadius": "14",
+      "DialogueRadius": "5",
+      "NameCD1": "Marcus Eco Ramirez",
+      "NameCD2": "ALEX MERCER",
+      "PredialogueWelcome": [
         "Bueno, Alex ¿qué tal? How's everything going?"
-    ]
-    ,"Predialogue": [
+      ],
+      "Predialogue": [
         "Hey there. Marcus Eco Ramirez, energy engineer and weapons expert. Bueno, ¿qué tal?"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "PredialogueAftherTalking": [
         "¡Vamos, Alex! Those bots won't know what hit 'em with these upgrades!",
         "I've got your back, Alex. Let's make Aegis-7 a force to be reckoned with! ¡Cuento contigo, Alex! ¡Aegis-7 será imparable!",
         "Aegis-7 is going to be a beast after these upgrades, Alex. Ready for action?",
         "¡Time to give those bots a taste of their own medicine, Alex! Let's do this!¡Vamos por ellos!"
-    ]  
-    ,"Dialogue": [
+      ],
+      "Dialogue": [
         "Hey there, Alex. Marcus Eco Ramirez, energy engineer and weapons expert. Bueno, ¿qué tal?",
         "Bueno, I'm here to make sure your weapons are up-to-date and ready for action.",
         "Here we go, let's soup up those weapons and make those bots regret crossing our path."
-    ]   
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
         "2"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "Hey Marcus, Alex Mercer, robotics engineer and technologist. Likewise.",
         "Wow, looks like I've got a solid partner on this mission. What do you have in mind for Aegis-7?"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "¡Vamos, Alex! Those bots won't know what hit 'em with these upgrades!",
         "I've got your back, Alex. Let's make Aegis-7 a force to be reckoned with! ¡Cuento contigo, Alex! ¡Aegis-7 será imparable!",
         "Aegis-7 is going to be a beast after these upgrades, Alex. Ready for action?",
         "¡Time to give those bots a taste of their own medicine, Alex! Let's do this!¡Vamos por ellos!"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "True"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_CMP001" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
-  "DrOCC001":[
-   {
-     "PredialogueRadius": "17"
-    ,"DialogueRadius" : "6"
-    ,"NameCD1" : "Dr. Olivia Chen"
-    ,"NameCD2" : "ALEX MERCER"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "True",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_CMP001",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "DrOCC001": [
+    {
+      "PredialogueRadius": "17",
+      "DialogueRadius": "6",
+      "NameCD1": "Dr. Olivia Chen",
+      "NameCD2": "ALEX MERCER",
+      "PredialogueWelcome": [
         "Back again, Mr. Mercer. ? Let's hope this visit is brief."
-    ]
-    ,"Predialogue": [
-        "Ah, another one to disturb my precious solitude. What do you want, Mercer?" 
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "Predialogue": [
+        "Ah, another one to disturb my precious solitude. What do you want, Mercer?"
+      ],
+      "PredialogueAftherTalking": [
         "You may leave now, Alex Mercer. I have work to do, unlike some people.",
         "What are you still doing here, Alex Mercer? Are you lost?",
         "Remember, Alex Mercer, your presence here is a privilege, not a right.",
         "If you're done wasting my time, Alex Mercer, kindly take your leave.",
         "Leave me to my calculations, Mercer. Your antics are not needed here."
-    ]  
-    ,"Dialogue": [
+      ],
+      "Dialogue": [
         "...",
         "I am Kadida Balanta. A name often whispered in the halls of innovation and code.",
         "My role here? To navigate the intricacies of technology and guide you through the digital wilderness.",
@@ -234,289 +234,289 @@
         "Indeed. In the world of bytes and circuits, every choice we make ripples through the digital ether.",
         "It's not just about upgrading machines; it's about the impact we leave on this digital landscape.",
         "Our first move, Alex Mercer, is to understand. To delve deep into the heart of technology and emerge with a newfound wisdom."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
         "3",
         "4",
         "5"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "Hey there, I'm Alex Mercer. And you are?",
         "Impressive. What exactly do you mean by 'guide'?",
         "Responsibility? Sounds heavy.",
         "I see. So, what's our first move?",
         "Count me in. Let's see what wisdom awaits."
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "You may leave now, Alex Mercer. I have work to do, unlike some people.",
         "What are you still doing here, Alex Mercer? Are you lost?",
         "Remember, Alex Mercer, your presence here is a privilege, not a right.",
         "If you're done wasting my time, Alex Mercer, kindly take your leave.",
         "Leave me to my calculations, Mercer. Your antics are not needed here."
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "True"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"MissionComponent" :"BPCH_DrOliviaCC_DrOCC001" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "ESO001":[
-   {
-     "PredialogueRadius": "16"
-    ,"DialogueRadius" : "6"
-    ,"NameCD1" : "Elena Sombra"
-    ,"NameCD2" : "ALEX MERCER"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "True",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_DrOliviaCC_DrOCC001",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ESO001": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "6",
+      "NameCD1": "Elena Sombra",
+      "NameCD2": "ALEX MERCER",
+      "PredialogueWelcome": [
         "Well, well, look who's back for more! Ready to kick some bot metal, Alex Mercer?"
-    ]
-    ,"Predialogue": [
+      ],
+      "Predialogue": [
         "HHello there, sleeping beauty! Hope you're well-rested, because we've got a training waiting."
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "PredialogueAftherTalking": [
         "Hold your circuits, Alex Mercer. Those bots have a knack for breaking more than just a sweat.",
         "What are you doing standing there? Those bots won't self-destruct on their own, you know.",
         "Hold your circuits, Alex Mercer. You're really testing my patience here.",
         "Rise and shine, Alex Mercer! Time to dust off those circuits and get down to business.",
         "I don't have time to play kid."
-    ]  
-    ,"Dialogue": [
+      ],
+      "Dialogue": [
         "I'm Elena, and I suppose you're Alex Mercer?",
         "For everything, Mercer! I'm your go-to gal for all things combat and mission-related. Think of me as your personal coach for taking down those rogue bots.",
         "Ah, the usual story. Robots got a bit too smart for their circuits, took over the city, chaos ensued. But lucky for us, we're here to clean up the mess.",
         "You got it! I'll be guiding you through the... twists and turns, teaching you the best moves for your robot Aegis 7 and, most importantly, keeping him alive out there.",
         "You bet you should! Now, let's get you geared up and ready to show those bots who's boss."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
         "2",
         "3",
         "4"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "Alex Mercer, that's me. And training? For what specifically?",
         "Rogue bots? What happened?",
         "And you're... my trainer?",
         "I guess I should be thankful for that."
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "Hold your circuits, Alex Mercer. Those bots have a knack for breaking more than just a sweat.",
         "What are you doing standing there? Those bots won't self-destruct on their own, you know.",
         "Hold your circuits, Alex Mercer. You're really testing my patience here.",
         "Rise and shine, Alex Mercer! Time to dust off those circuits and get down to business.",
         "I don't have time to play kid."
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "True"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"MissionComponent" :"BPC__ElenaSO_ESO001" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "KTMBRK9001":[
-   {
-     "PredialogueRadius": "19"
-    ,"DialogueRadius" : "6"
-    ,"NameCD1" : "Alex Mercer"
-    ,"NameCD2" : "Kadida Balanta"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "True",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPC__ElenaSO_ESO001",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "KTMBRK9001": [
+    {
+      "PredialogueRadius": "19",
+      "DialogueRadius": "6",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Kadida Balanta",
+      "PredialogueWelcome": [
         "Greetings, Alex. May your path through the digital world be illuminated by purpose."
-    ]
-    ,"Predialogue": [
-        "Come here, Alex Mercer. I don't bite... well, not physically, at least. Did you know the average human nose can detect over 1 trillion different scents?" 
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "Predialogue": [
+        "Come here, Alex Mercer. I don't bite... well, not physically, at least. Did you know the average human nose can detect over 1 trillion different scents?"
+      ],
+      "PredialogueAftherTalking": [
         "In the world of technology, we wield the power to create and destroy. Let's choose wisely, Alex Mercer",
         "A journey through the circuits is a journey within ourselves, Alex. Ready to explore the depths?",
         "Amidst the echoes of data, we decipher the truths of our digital world. Join me, Alex Mercer, in the quest for enlightenment.",
         "Within the weave of destiny, each strand marks a course. Hesitate not, Alex Mercer. Your quest awaits."
-    ]  
-    ,"Dialogue": [
+      ],
+      "Dialogue": [
         "Hey there, I'm Alex Mercer. And you are?",
         "Impressive. What exactly do you mean by 'guide'?",
         "Responsibility? Sounds heavy.",
         "I see. So, what's our first move?",
         "Count me in. Let's see what wisdom awaits."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
         "3",
         "4",
         "5"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "I am Kadida Balanta. A name often whispered in the halls of innovation and code. My role here? To navigate the intricacies of technology and guide you through the digital wilderness.",
         "I mean to enlighten, Alex Mercer. To show you the power of technology, its ability to shape worlds, and the responsibility that comes with it.",
         "Indeed. In the world of bytes and circuits, every choice we make ripples through the digital ether. It's not just about upgrading machines; it's about the impact we leave on this digital landscape.",
         "Our first move, Alex Mercer, is to understand. To delve deep into the heart of technology and emerge with a newfound wisdom."
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "In the world of technology, we wield the power to create and destroy. Let's choose wisely, Alex Mercer",
         "A journey through the circuits is a journey within ourselves, Alex. Ready to explore the depths?",
         "Amidst the echoes of data, we decipher the truths of our digital world. Join me, Alex Mercer, in the quest for enlightenment.",
-         "Within the weave of destiny, each strand marks a course. Hesitate not, Alex Mercer. Your quest awaits."
-    ]
-    ,"DialogueLocked": [
+        "Within the weave of destiny, each strand marks a course. Hesitate not, Alex Mercer. Your quest awaits."
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "True"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
-    ,"MissionComponent" :"BPC_KTMBRK9001" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
-  "MECOR002TEST":[
-   {
-     "PredialogueRadius": "16"
-    ,"DialogueRadius" : "6"
-    ,"NameCD1" : "Riley Furgor"
-    ,"NameCD2" : "Alex Mercer"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "True",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+      "MissionComponent": "BPC_KTMBRK9001",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "MECOR002TEST": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "6",
+      "NameCD1": "Riley Furgor",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
         "Ah, Mercer. Good to see you're still in one piece. How's the battlefield treating you?"
-    ]
-    ,"Predialogue": [
+      ],
+      "Predialogue": [
         "What do you think of the enemies?",
         "Why don't you go eliminate those enemies??",
         "Heat, right?"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "PredialogueAftherTalking": [
         "Go and eliminate those enemies!"
-    ]  
-    ,"Dialogue": [
+      ],
+      "Dialogue": [
         "Hello, how are you today?",
         "It's a pleasure that you agreed to join the clan...",
         "but to test you, we all decided that you should do some missions",
@@ -524,1713 +524,2702 @@
         "Why don't you go and eliminate a few of them...",
         "eliminate 100 enemies to improve your skills!",
         "Good luck with those bastards!"
-    ]   
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "2",
         "5"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "OPs1",
         "OPs2"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "why haven't you completed the mission???",
         "Can't you beat such bastards?",
         "If you are bad with weapons, look for help in the clan!",
         "I know you can against them, come on!"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "True"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_CMP002" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
-  "CRF002TEST":[
-   {
-     "PredialogueRadius": "16"
-    ,"DialogueRadius" : "5"
-    ,"NameCD1" : "Riley Furgor"
-    ,"NameCD2" : "Alex Mercer"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "True",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_CMP002",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "CRF002TEST": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Riley Furgor",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
         "Ah, Mercer. Good to see you're still in one piece. How's the battlefield treating you?"
-    ]
-    ,"Predialogue": [
+      ],
+      "Predialogue": [
         "Do you know the boss?",
         "Come!"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "PredialogueAftherTalking": [
         "Go and eliminate the boss"
-    ]  
-    ,"Dialogue": [
+      ],
+      "Dialogue": [
         "Hi subordinate",
         "I have a mission for you",
         "what do you think if you help me eliminate the boss?",
         "I wish you good luck in your MISSION!",
         "and don't come back until you eliminate him..."
-    ]   
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "What happened?",
         "I eliminate you?",
         "Could you defeat him?",
         "What did you notice about the boss?"
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "NONE"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "True"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"MissionComponent" :"BPCH_Missions_RileyFulgor_CMP002" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "CRGL001":[
-   {
-     "PredialogueRadius": "16"
-    ,"DialogueRadius" : "5"
-    ,"NameCD1" : "Riley Glare"
-    ,"NameCD2" : "Alex Mercer"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "True",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_RileyFulgor_CMP002",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "CRGL002": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Riley Glare",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
         "Hi",
         "Hello"
-    ]
-    ,"Predialogue": [
+      ],
+      "Predialogue": [
         "Mercer, get back in the fight! We're not done here."
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "PredialogueAftherTalking": [
         "Mercer! We're not done yet. Get back on your feet and show them what you're made of!",
         "Get back in the game, Mercer! We need you out there leading the charge.",
         "You've faced worse than this, Mercer. Get back up and let's finish this once and for all!",
         "The countdown's on, Mercer. Get to that target before it's too late.",
         "Hurry it up, Mercer! Every second wasted is another second for the enemy to regroup."
-    ]  
-    ,"Dialogue": [
+      ],
+      "Dialogue": [
         "Mercer, I didn't expect to see you back here so soon. What happened out there?",
         "Hmm. Crossfire, you say? Sounds like you let your guard down, Mercer. We can't afford mistakes like that.",
         "Good. We need you at your best out there, Mercer. The Citadel's counting on it.",
         "You better do. "
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
-        "2", 
+        "2",
         "3"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "Commander, it was... a tough fight. Got caught in a crossfire, bots everywhere.",
         "I know, sir. It won't happen again. I'll be more vigilant next time, I promise.",
         "I understand, Commander. I'll make sure to bring my A-game next time."
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "Mercer! We're not done yet. Get back on your feet and show them what you're made of!",
         "Get back in the game, Mercer! We need you out there leading the charge.",
         "You've faced worse than this, Mercer. Get back up and let's finish this once and for all!",
         "The countdown's on, Mercer. Get to that target before it's too late.",
         "Hurry it up, Mercer! Every second wasted is another second for the enemy to regroup."
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "True"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"MissionComponent" :"BPCH_Missions_RileyGLare_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "ESO002":[
-   {
-     "PredialogueRadius": "16"
-    ,"DialogueRadius" : "5"
-    ,"NameCD1" : "Elena Sombra"
-    ,"NameCD2" : "Alex Mercer"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ESO002": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Elena Sombra",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
         "Hey there, Alex Mercer! Hope you've got your game face on. It's time to show those bots who's boss!"
-    ]
-    ,"Predialogue": [
+      ],
+      "Predialogue": [
         "Well, well, look who's back in the game!"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "PredialogueAftherTalking": [
         "Back on your feet! Time to show those bots we're not backing down.",
         "That's the spirit, Alex Mercer! Let's make those bots regret ever crossing us.",
         "No time to dwell on setbacks, Alex Mercer. We've got a mission to complete. Let's go!",
         "Alright, kid. Let's turn that defeat into motivation. Back to the battlefield!",
         "Don't let that loss get you down, Alex Mercer. We'll come back stronger and take down that boss together."
-    ]  
-    ,"Dialogue": [
+      ],
+      "Dialogue": [
         "Took a beating, huh? That's alright, we'll get 'em next time.",
         "You better not, Mercer. We've got a city to save, and those bots won't go down without a fight.",
         "Absolutely! But this time, let's go in with a new strategy. Those bots won't know what hit 'em!"
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
         "2"
-    ]
-    ,"DialogueCOM": [
-        "Thanks, Elena. I won't let that boss get the best of me again.", 
+      ],
+      "DialogueCOM": [
+        "Thanks, Elena. I won't let that boss get the best of me again.",
         "Ready for round two?"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "Back on your feet! Time to show those bots we're not backing down.",
         "That's the spirit, Alex Mercer! Let's make those bots regret ever crossing us.",
         "No time to dwell on setbacks, Alex Mercer. We've got a mission to complete. Let's go!",
         "Alright, kid. Let's turn that defeat into motivation. Back to the battlefield!",
         "Don't let that loss get you down, Alex Mercer. We'll come back stronger and take down that boss together."
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"MissionComponent" :"BPCH_Missions_ElenaSO_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "MECOR002":[
-   {
-     "PredialogueRadius": "16"
-    ,"DialogueRadius" : "5"
-    ,"NameCD1" : "Marcus Eco Ramirez"
-    ,"NameCD2" : "Alex Mercer"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "MECOR002": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Marcus Eco Ramirez",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
         "Alex, mi amigo! Good to see you. How's Aegis-7 holding up?"
-    ]
-    ,"Predialogue": [
+      ],
+      "Predialogue": [
         "Bueno, Alex ¿qué tal? "
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "PredialogueAftherTalking": [
         "¡Vamos, Alex! Those bots won't know what hit 'em with these upgrades! ¡A la carga!",
         "Aegis-7 is going to be a beast after these upgrades, Alex. Ready for action? ¡Listo para la batalla!",
         "¡Time to give those bots a taste of their own medicine, Alex! Let's do this! ¡Por la resistencia!",
         "No time to waste, Alex! We've got upgrades to install and bots to dismantle. ¡A la carga, Alex! ¡No hay tiempo que perder!"
-    ]  
-    ,"Dialogue": [
+      ],
+      "Dialogue": [
         "Alex, welcome back.¿Listo para retomar el control?",
         "Good to hear, amigo. Let's get those upgrades rolling, Aegis-7 needs to pack a punch.",
         "We're turning Aegis-7 into a walking arsenal. Let's show these bots what happens when they mess with us."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
-        "2" 
-    ]
-    ,"DialogueCOM": [
+        "2"
+      ],
+      "DialogueCOM": [
         "Marcus, good to see you again. I'm back in the game, ready to give these bots a taste of their own medicine.",
         "I'm counting on it. What's the plan this time?"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "¡Vamos, Alex! Those bots won't know what hit 'em with these upgrades! ¡A la carga!",
         "Aegis-7 is going to be a beast after these upgrades, Alex. Ready for action? ¡Listo para la batalla!",
         "¡Time to give those bots a taste of their own medicine, Alex! Let's do this! ¡Por la resistencia!",
         "No time to waste, Alex! We've got upgrades to install and bots to dismantle. ¡A la carga, Alex! ¡No hay tiempo que perder!"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "KTMBRK9002":[
-   {
-     "PredialogueRadius": "6"
-    ,"DialogueRadius" : "15"
-    ,"NameCD1" : "Kadida Balanta"
-    ,"NameCD2" : "Alex Mercer"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "KTMBRK9002": [
+    {
+      "PredialogueRadius": "6",
+      "DialogueRadius": "15",
+      "NameCD1": "Kadida Balanta",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
         "Alex, welcome back to the ever-evolving landscape of technology. Remember, each byte holds a story."
-    ]
-    ,"Predialogue": [
+      ],
+      "Predialogue": [
         "Welcome back, Alex Mercer. "
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "PredialogueAftherTalking": [
         "Within the circuits, we find the pulse of innovation, Alex. Let's infuse Aegis-7 with the heartbeat of progress.",
         "Each byte holds a story, Alex. Let's write the next chapter of Aegis-7's legacy with purpose and precision.",
         "Let's delve into the digital expanse, Alex. Aegis-7 awaits its rebirth in the fabric of code.",
         "The bytes hold the key to our next evolution."
-    ]  
-    ,"Dialogue": [
+      ],
+      "Dialogue": [
         "The digital world awaits your return. Ready to continue the journey?",
         "Good to have you back, Alex. Remember, in the world of technology, every choice has consequences.",
         "Our next move is to adapt and evolve. Let's upgrade Aegis-7 and show these bots the power of innovation."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
         "2"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "Kadida, good to see you again. I'm back in the game, ready to navigate these circuits once more.",
         "I've learned that the hard way. What's our next move, Kadida?"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "Within the circuits, we find the pulse of innovation, Alex. Let's infuse Aegis-7 with the heartbeat of progress.",
         "Each byte holds a story, Alex. Let's write the next chapter of Aegis-7's legacy with purpose and precision.",
         "Let's delve into the digital expanse, Alex. Aegis-7 awaits its rebirth in the fabric of code.",
         "The bytes hold the key to our next evolution."
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"MissionComponent" :"BPCH_Missions_KTMBRK9_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "DrOCC002":[
-   {
-     "PredialogueRadius": "16"
-    ,"DialogueRadius" : "5"
-    ,"NameCD1" : "Alex Mercer"
-    ,"NameCD2" : "Dr. Olivia Chen"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "DrOCC002": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Dr. Olivia Chen",
+      "PredialogueWelcome": [
         "Ah, the persistent Mr. Mercer. What brings you to my domain this time?"
-    ]
-    ,"Predialogue": [
+      ],
+      "Predialogue": [
         "..."
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "PredialogueAftherTalking": [
         "Another round of failure, I see. How surprising.",
         "Back for more, Mr. Mercer? Let's hope you fare better this time.",
         "Don't make a habit of dying, Mr. Mercer. It's bad for your reputation.",
         "You've returned, Mr. Mercer. Try not to waste any more of my time.",
-        "Back from the abyss, I see. Make this life count, Mr. Mercer.",""
-    ]  
-    ,"Dialogue": [
+        "Back from the abyss, I see. Make this life count, Mr. Mercer.",
+        ""
+      ],
+      "Dialogue": [
         "Back again, Dr. Chen. Seems I'm not done causing chaos just yet.",
         "Just a little setback. Ready to get back to work. What's next?",
         "..."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
         "2"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "Oh, joy. The disruptor returns. What do you want now, Mr. Mercer?",
         "Next? Don't expect a warm welcome every time you come crawling back, Mr. Mercer."
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "Another round of failure, I see. How surprising.",
         "Back for more, Mr. Mercer? Let's hope you fare better this time.",
         "Don't make a habit of dying, Mr. Mercer. It's bad for your reputation.",
         "You've returned, Mr. Mercer. Try not to waste any more of my time.",
         "Back from the abyss, I see. Make this life count, Mr. Mercer."
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG"
-    ,"MissionComponent" :"BPCH_Missions_DrOliviaCC_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "CRF001N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Riley Furgor"
-    ,"NameCD2" : "NONE"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
+      "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "CRF001N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Riley Furgor",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "Mercer, respond immediately or I'll have to send backup. Don't make me do it.",
         "Mercer, this is your last warning. If you don't check in, I'll assume the worst. Get it together, soldier!",
         "We're counting on you, Mercer. Don't make me come in there after you.",
         "Dammit, Mercer! I need you focused and responsive. Get back in the fight!"
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "0"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "NONE"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png"
-    ,"PathImageCharacterCOM2" : "NONE"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
-    ,"URLImageCharacterCOM2" : "NONE"
-    ,"MissionComponent" :"BPCH_Missions_RileyFurgor_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "CRGL001N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Riley Glare"
-    ,"NameCD2" : "Alex Mercer"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "BPCH_Missions_RileyFurgor_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "CRGL001N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Riley Glare",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "Mercer, respond immediately or I'll have to send backup. Don't make me do it.",
         "Good. And don't forget your objectives. Disable the machinery and cut off their resources. Hit them where it hurts.",
         "One more thing, Mercer. Watch out for the Boss. It's heavily armed and not to be underestimated.",
         "..."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
         "2",
         "3"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "Understood, Commander. I'll keep my eyes peeled for any surprises.",
         "I'm on it, Commander.",
         "Noted, Commander. I'll be ready for anything that comes my way."
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"MissionComponent" :"BPCH_Missions_RileyGLare_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "CRGL002N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Riley Glare"
-    ,"NameCD2" : "NONE"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "CRGL002N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Riley Glare",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "Mercer! Stay sharp. Remember, the key to victory is strategy. Use the map to plan your moves and outwit your enemies.",
         "Keep your wits about you, Mercer. Those drones may be defective, but they're still dangerous.",
         "The Boss won't go down easy, Mercer. Aim for its weak spots and keep moving.",
         "You're our best shot at stopping the Nebula Mine operation, Mercer. Make us proud. You're our best shot at stopping the Nebula Mine operation, Mercer. Make us proud."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "0"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "NONE"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png"
-    ,"PathImageCharacterCOM2" : "NONE"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG"
-    ,"URLImageCharacterCOM2" : "NONE"
-    ,"MissionComponent" :"BPCH_Missions_RileyGLare_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "ESO001N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Elena Sombra"
-    ,"NameCD2" : "NONE"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ESO001N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Elena Sombra",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "Hey, Alex. Remember me? I'm the voice in your ear. Maybe put down the coffee and focus on the bots?",
         "Mercer, I'm here to help, but you gotta respond. Are you trying to give me a heart attack here?",
         "Alright, Mercer. I get it, you're in the zone. But a little acknowledgment would be nice.",
         "Seriously, Alex? You're ignoring me now? I'm starting to take this personally.",
         "Ignoring me won't make the bots disappear, Alex. Time to focus up.",
         "Alex Mercer, this is your conscience speaking. And right now, your conscience needs you to respond!"
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "0"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "NONE"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png"
-    ,"PathImageCharacterCOM2" : "NONE"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
-    ,"URLImageCharacterCOM2" : "NONE"
-    ,"MissionComponent" :"BPCH_Missions_ElenaSO_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "ESO002N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Elena Sombra"
-    ,"NameCD2" : "NONE"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ESO002N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Elena Sombra",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "Back in the game, Alex Mercer! Ready to take down those rogue bots?",
         "Alright, listen up, Mercer. First things first, watch your surroundings. Those drones can come from anywhere.",
         "Second, use your environment. Take cover, use those collapsed areas to your advantage.",
         "Last but not least, don't forget your upgrades. That Aegis-7 of yours packs a punch, use it wisely.",
         "Good. Now, let's show these bots who they're dealing with!"
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
         "2",
         "3",
         "4"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "Absolutely, Elena. What's the plan?",
         "Got it. Eyes peeled for any movement.",
         "Roger that, Elena. I'll make the terrain work for us.",
         "Understood. I'll make sure Aegis-7 is ready for action."
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png"
-    ,"PathImageCharacterCOM2" : "NONE"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
-    ,"URLImageCharacterCOM2" : "NONE"
-    ,"MissionComponent" :"BPCH_Missions_ElenaSO_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "ESO003N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Elena Sombra"
-    ,"NameCD2" : "NONE"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ESO003N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Elena Sombra",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "Keep your focus sharp, Mercer. We're counting on you out there.",
         "Remember our strategy, Mercer. Stay agile, stay alert.",
         "No time for rest, Mercer! The mission's not over until those bots are scrap metal.",
         "Stay cool under pressure, Mercer. You've got this!"
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "0"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "NONE"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png"
-    ,"PathImageCharacterCOM2" : "NONE"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG"
-    ,"URLImageCharacterCOM2" : "NONE"
-    ,"MissionComponent" :"BPCH_Missions_ElenaSO_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "MECOR001N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Marcus Eco Ramirez"
-    ,"NameCD2" : "NONE"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "MECOR001N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Marcus Eco Ramirez",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "Alex, this is Marcus. Hope you're not taking a siesta out there. We've got bots to bash!",
         "Hey, Mercer! Marcus here. Got a whole swarm of bots knocking on our door. Need you in the game, pronto!",
         "Amigo, I know you're not one for small talk, but a quick 'got it' would ease my nerves right about now."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "0"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "NONE"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png"
-    ,"PathImageCharacterCOM2" : "NONE"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
-    ,"URLImageCharacterCOM2" : "NONE"
-    ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "MECOR002N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Marcus Eco Ramirez"
-    ,"NameCD2" : "Alex Mercer"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "MECOR002N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Marcus Eco Ramirez",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "Mercer, remember to use the control consoles to halt resource production and weaken the mine boss.",
         "Bueno, the key areas are marked on the holographic map. Look for safe routes and avoid high toxicity zones.",
         "Good to hear, amigo. The defective security drones are vulnerable to electrical attacks. Use your weapons to quickly disable them.",
         "Alex, the mine boss has weak points in its defenses. Aim for those points to inflict maximum damage.",
         "Don't underestimate the mobile radiation serpents. Stay alert and dodge them to avoid damage.",
         "..."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
         "2",
         "3",
         "4",
         "5"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "Understood. Seeking out the consoles.",
         "Checking the map. Steering clear of hazardous areas.",
         "Going after the drones. Charging up.",
         "Got it. Focusing on the boss's weak spots.",
         "Watching out for the serpents. Keeping my distance."
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png"
-    ,"PathImageCharacterCOM2" : "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
-    ,"URLImageCharacterCOM2" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG"
-    ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "MECOR003N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Marcus Eco Ramirez"
-    ,"NameCD2" : "NONE"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "MECOR003N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Marcus Eco Ramirez",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "Check the holographic map for key areas and escape routes. Watch out for toxicity zones.",
         "Mercer, use your weapons to take down the defective security drones quickly. They're vulnerable to electrical attacks.",
         "Aim for the weak spots in the mine boss's defenses. That's where you'll deal the most damage.",
         "¡Vamos, Alex! Stay sharp and dodge the mobile radiation serpents. Don't let them get too close."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "0"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "NONE"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png"
-    ,"PathImageCharacterCOM2" : "NONE"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG"
-    ,"URLImageCharacterCOM2" : "NONE"
-    ,"MissionComponent" :"BPCH_Missions_MarcusEcoRamirez_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "KTMBRK9001N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Kadida Balanta"
-    ,"NameCD2" : "NONE"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "KTMBRK9001N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Kadida Balanta",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "A silent ally is often the wisest companion. Good luck, Alex Mercer.",
         "Your silence is deafening. Have you lost your resolve, or are you simply lost in the dark? Please, respond.",
         "I can feel the energy of the mine shifting. Seize the moment, or risk being overwhelmed. Respond, Alex Mercer, please.",
         "I sense doubt in your silence, Alex Mercer Trust in your abilities, they will not fail you. Acknowledge my words."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "0"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "NONE"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png"
-    ,"PathImageCharacterCOM2" : "NONE"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
-    ,"URLImageCharacterCOM2" : "NONE"
-    ,"MissionComponent" :"BPCH_Missions_KTMBRK9_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "KTMBRK9002N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Kadida Balanta"
-    ,"NameCD2" : "NONE"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "KTMBRK9002N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Kadida Balanta",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "Alex Mercer, in Sector 1, the security drones have a pattern. Wait for the gaps to move without detection.",
         "Sector 2 holds collapsed tunnels. Watch your step and scan for structural weaknesses to clear a path.",
         "Alex Mercer, Sector 3's main console controls the mine's power. Disable it to disrupt enemy communications.",
         "Remember, Alex, your gadgets are your best friends. Use them wisely and they'll turn the tide in your favor.",
         "Stay focused, Alex. The bots are relentless, but you've got the skills to outwit them. Good luck.",
         "..."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "1",
         "2",
         "3",
         "4",
         "5"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "Understood, Kadida. Waiting for the right moment in Sector 1.",
         "Scanning for weak spots in Sector 2. Moving carefully.",
         "Disabling the main console in Sector 3. Communications disrupted.",
         "Gadgets ready, Kadida.",
         "Focused and ready, Kadida. The bots won't know what hit them. Thanks for the tips."
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png"
-    ,"PathImageCharacterCOM2" : "NONE"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
-    ,"URLImageCharacterCOM2" : "NONE"
-    ,"MissionComponent" :"BPCH_Missions_KTMBRK9_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "KTMBRK9003N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Kadida Balanta"
-    ,"NameCD2" : "NONE"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "KTMBRK9003N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Kadida Balanta",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "The radiating serpents are drawn to movement. Stay still, and they will pass. Patience is a weapon, Alex Mercer",
         "Sometimes the greatest weapon is patience. Observe, plan, then strike when the moment is right.",
         "Analyze the patterns of the enemy drones. They have a predictable patrol route. Use it to your advantage.",
         "Remember that the Boss is vulnerable to energy disruptions. Look for the power nodes nearby to disable its shields.",
         "Alex Mercer, use the environment to your advantage. Explosive barrels and collapsing structures can turn the tide of battle.",
         "Hacking the enemy drones can turn them against each other, Alex MercerLet them do the work for you."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "0"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "NONE"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png"
-    ,"PathImageCharacterCOM2" : "NONE"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG"
-    ,"URLImageCharacterCOM2" : "NONE"
-    ,"MissionComponent" :"BPCH_Missions_KTMBRK9_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ],
- "DrOCC001N":[
-   {
-     "PredialogueRadius": "0.0"
-    ,"DialogueRadius" : "0.0"
-    ,"NameCD1" : "Dr. Olivia Chen"
-    ,"NameCD2" : "NONE"
-    ,"PredialogueWelcome": [
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "URLsForDownloadAUD": [
         "NONE"
-    ]
-    ,"Predialogue": [
+      ],
+      "URLsSavePathAUD": [
         "NONE"
-    ]
-    ,"PredialogueAftherTalking": [
+      ],
+      "URLDialogueAUD": [
         "NONE"
-    ]  
-    ,"Dialogue": [
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "DrOCC001N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Dr. Olivia Chen",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
         "Hmph, typical. Ignoring the one who could save you from imminent failure. Suit yourself, Mr. Mercer.",
         "Well, Mr. Mercer, if you're content with stumbling blindly, don't come crying to me when it all goes south.",
         "Of course, Alex Mercer wouldn't bother to listen to the one with the actual data. Carry on, then."
-    ]
-    ,"IDsDialogueCOM": [
+      ],
+      "IDsDialogueCOM": [
         "0"
-    ]
-    ,"DialogueCOM": [
+      ],
+      "DialogueCOM": [
         "NONE"
-    ]
-    ,"DialogueAftherTalking": [
+      ],
+      "DialogueAftherTalking": [
         "NONE"
-    ]
-    ,"DialogueLocked": [
+      ],
+      "DialogueLocked": [
         "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
+      ],
+      "DialogueAfterTalkingLocked": [
         "NONE"
-    ]
-    ,"CharNotVisible?" : "False"
-    ,"PressToInteract" : "False"
-    ,"SendToMission" : "False"
-    ,"PathImageCharacterCOM1" : "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png"
-    ,"PathImageCharacterCOM2" : "NONE"
-    ,"URLImageCharacterCOM1" : "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG"
-    ,"URLImageCharacterCOM2" : "NONE"
-    ,"MissionComponent" :"BPCH_Missions_DrOliviaCC_NM" 
-    ,"URLsForDownloadAUD": [
-     "NONE"
-    ]
-    ,"URLsSavePathAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"PathDialogueCOMAUD": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAftherTalking": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDLocked": [
-     "NONE"
-    ]
-    ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
-    ]
-   }
- ]
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "DrOCC002N": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Dr. Olivia Chen",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "Focus on the mission. Over and out."
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Mr. Mercer, remember to hack into the security system to disable the turrets in Sector 7.",
+        "Use the environment to your advantage, Mr. Mercer. Lead the bots into the toxic gas leaks.",
+        "Use the data logs scattered around for intel on the Boss's weaknesses.",
+        "Save the small talk for later."
+      ],
+      "IDsDialogueCOM": [
+        "1",
+        "2",
+        "3"
+      ],
+      "DialogueCOM": [
+        "Understood, hacking the turrets now.",
+        "Got it, luring them into the gas leaks.",
+        "Scanning the logs now, looking for vulnerabilities. Olivia, do you think I should try talking to the bots? Maybe they just need a friend?"
+      ],
+      "DialogueAftherTalking": [
+        "Focus on the mission. Over and out."
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "CRGL003": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Riley Glare",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "Mercer, back on your feet! This battle isn't over yet."
+      ],
+      "Predialogue": [
+        "Mercer, back on your feet! This battle isn't over yet."
+      ],
+      "PredialogueAftherTalking": [
+        "Get moving, Mercer! The enemy won't wait for us to regroup.",
+        "On your feet, Mercer! There's no time for dwelling on defeat."
+      ],
+      "Dialogue": [
+        "Mercer, returning so soon wasn't in the plan. What went wrong out there?",
+        "The Boss? Mercer, we can't afford slip-ups like this. We need you sharp.",
+        "Good. The team needs you in top form, Mercer. The fight for the Citadel isn't won by backing down.",
+        "See that you are, Mercer. Our victory depends on it."
+      ],
+      "IDsDialogueCOM": [
+        "1",
+        "2",
+        "3"
+      ],
+      "DialogueCOM": [
+        "Commander, the Boss... it overwhelmed us. We couldn't hold the line.",
+        "I understand, sir. I'll be ready next time, I promise.",
+        "I'll be back, Commander. Stronger, more determined."
+      ],
+      "DialogueAftherTalking": [
+        "Get moving, Mercer! The enemy won't wait for us to regroup.",
+        "On your feet, Mercer! There's no time for dwelling on defeat."
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ESO003": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Elena Sombra",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "Well, well, look who's back in the game!"
+      ],
+      "Predialogue": [
+        "Well, well, look who's back in the game!"
+      ],
+      "PredialogueAftherTalking": [
+        "Enough wallowing, Alex Mercer! Time to rise and shine, the fight's not over yet.",
+        "That's the spirit, Alex Mercer! Let's hit that Boss with everything we've got.",
+        "No room for sulking, Alex Mercer. We've got a job to finish. Let's move out!",
+        "Alright, kid. Wipe away those tears and let's get back to the action.",
+        "Don't let that setback define you, Alex Mercer.We'll rise stronger and show that Boss what we're made of."
+      ],
+      "Dialogue": [
+        "Took a beating from the Boss, huh? That's alright, we'll get 'em next time.",
+        "Don't sweat it, Mercer. We'll come back swinging.",
+        "Absolutely! This time, we'll catch that Boss off guard."
+      ],
+      "IDsDialogueCOM": [
+        "1",
+        "2"
+      ],
+      "DialogueCOM": [
+        "Thanks, Elena. That Boss was tougher than I expected.",
+        "Ready for another round?"
+      ],
+      "DialogueAftherTalking": [
+        "Enough wallowing, Alex Mercer! Time to rise and shine, the fight's not over yet.",
+        "That's the spirit, Alex Mercer! Let's hit that Boss with everything we've got.",
+        "No room for sulking, Alex Mercer. We've got a job to finish. Let's move out!",
+        "Alright, kid. Wipe away those tears and let's get back to the action.",
+        "Don't let that setback define you, Alex Mercer.We'll rise stronger and show that Boss what we're made of."
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "MECOR003": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Marcus Eco Ramirez",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "Bueno, Alex ¿qué tal?"
+      ],
+      "Predialogue": [
+        "Bueno, Alex ¿qué tal?"
+      ],
+      "PredialogueAftherTalking": [
+        "¡Vamos, Alex! Time to show those bots we mean business with these upgrades ¡A la carga!!",
+        "Ready for action, Alex? Aegis-7 is going to tear through those bots now!  ¡Listo para la batalla!",
+        "Let's give those bots a taste of their own medicine, Alex! Charge forward! ¡Por la resistencia!",
+        "No time to waste, Alex. We've got upgrades to install and a Boss to take down. Let's do this! ¡No hay tiempo que perder!"
+      ],
+      "Dialogue": [
+        "Hola Alex. Tough break with that Boss. Ready to jump back into the fray?",
+        "Good to hear, amigo. We need to make sure Aegis-7 is a force to be reckoned with.",
+        "We're going all out with these upgrades. Let's make those bots regret crossing us."
+      ],
+      "IDsDialogueCOM": [
+        "1",
+        "2"
+      ],
+      "DialogueCOM": [
+        "Hey Marcus, yeah, that Boss caught me off guard. But I'm geared up and ready for round two.",
+        "Absolutely, Marcus. What's the plan to take down that Boss this time?"
+      ],
+      "DialogueAftherTalking": [
+        "¡Vamos, Alex! Time to show those bots we mean business with these upgrades ¡A la carga!!",
+        "Ready for action, Alex? Aegis-7 is going to tear through those bots now!  ¡Listo para la batalla!",
+        "Let's give those bots a taste of their own medicine, Alex! Charge forward! ¡Por la resistencia!",
+        "No time to waste, Alex. We've got upgrades to install and a Boss to take down. Let's do this! ¡No hay tiempo que perder!"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "KTMBRK9003": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Kadida Balanta",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "Ready to dive back into the circuits?"
+      ],
+      "Predialogue": [
+        "Ready to dive back into the circuits?"
+      ],
+      "PredialogueAftherTalking": [
+        "Within the circuits, we find the pulse of innovation, Alex. Let's infuse Aegis-7 with the heartbeat of progress.",
+        "Each byte holds a story, Alex. Let's write the next chapter of Aegis-7's legacy with purpose and precision.",
+        "Let's delve into the digital expanse, Alex. Aegis-7 awaits its rebirth in the fabric of code.",
+        "The bytes hold the key to our next evolution."
+      ],
+      "Dialogue": [
+        "Welcome back, Alex Mercer. The digital realm awaits your return.",
+        "Good to have you back, Alex. In the world of technology, every move we make ripples through the digital ether.",
+        "Our plan? To evolve and adapt. Let's give Aegis-7 a digital makeover and show these bots the power of tech innovation."
+      ],
+      "IDsDialogueCOM": [
+        "1",
+        "2"
+      ],
+      "DialogueCOM": [
+        "Hey Kadida, good to be back. I'm geared up and ready to hack and slash through these circuits.",
+        "I've seen the consequences firsthand. What's the plan this time, Kadida?"
+      ],
+      "DialogueAftherTalking": [
+        "Within the circuits, we find the pulse of innovation, Alex. Let's infuse Aegis-7 with the heartbeat of progress.",
+        "Each byte holds a story, Alex. Let's write the next chapter of Aegis-7's legacy with purpose and precision.",
+        "Let's delve into the digital expanse, Alex. Aegis-7 awaits its rebirth in the fabric of code.",
+        "The bytes hold the key to our next evolution."
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "DrOCC003": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Dr. Olivia Chen",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "Ah, Mr. Mercer. What now?"
+      ],
+      "Predialogue": [
+        "Ah, Mr. Mercer. What now?"
+      ],
+      "PredialogueAftherTalking": [
+        "Another encounter with failure, Mr. Mercer? How... unsurprising.",
+        "Death becomes you, Mr. Mercer. Let's try not to make it a habit.",
+        "Round two, Mr. Mercer. Let's see if you can manage to stay alive this time.",
+        "Back in the land of the living, Mr. Mercer? Let's hope you've learned a thing or two from your demise.",
+        "Risen from the ashes once more, Mr. Mercer? Make this resurrection count."
+      ],
+      "Dialogue": [
+        "Back for another round of chaos, I see.",
+        "Oh, joy. The disruptor returns... defeated. What brings you back this time, Mr. Mercer?",
+        "Back so soon from the land of defeat, Mr. Mercer? Let's hope this time yields better results."
+      ],
+      "IDsDialogueCOM": [
+        "1",
+        "2"
+      ],
+      "DialogueCOM": [
+        "Hello again, Dr. Chen. Seems I've had a run-in with that Boss.",
+        "Just a little tussle with the Boss. Ready to dive back into the data."
+      ],
+      "DialogueAftherTalking": [
+        "Another encounter with failure, Mr. Mercer? How... unsurprising.",
+        "Death becomes you, Mr. Mercer. Let's try not to make it a habit.",
+        "Round two, Mr. Mercer. Let's see if you can manage to stay alive this time.",
+        "Back in the land of the living, Mr. Mercer? Let's hope you've learned a thing or two from your demise.",
+        "Risen from the ashes once more, Mr. Mercer? Make this resurrection count."
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "CRGL004": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Riley Glare",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "What's the report from the field?"
+      ],
+      "Predialogue": [
+        "What's the report from the field?"
+      ],
+      "PredialogueAftherTalking": [
+        "Well done, Mercer. Keep the pressure on, and victory will be ours.",
+        "Impressive, Mercer. Let's maintain this momentum and push forward.",
+        "Back to it, Mercer!",
+        "Rest when you can, Mercer. The next challenge awaits, and we'll face it head-on."
+      ],
+      "Dialogue": [
+        "What's the report from the field?",
+        "Good work, Mercer. Your determination is what keeps us ahead of the game.",
+        "Keep that mindset, Mercer. We're counting on you."
+      ],
+      "IDsDialogueCOM": [
+        "1",
+        "2",
+        "3"
+      ],
+      "DialogueCOM": [
+        "Commander, the Boss has been neutralized.",
+        "The area's clear, Commander. The Boss won't be causing any more trouble.",
+        "Thank you, sir. I'm ready for whatever comes next."
+      ],
+      "DialogueAftherTalking": [
+        "Well done, Mercer. Keep the pressure on, and victory will be ours.",
+        "Impressive, Mercer. Let's maintain this momentum and push forward.",
+        "Back to it, Mercer!",
+        "Rest when you can, Mercer. The next challenge awaits, and we'll face it head-on."
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ESO004": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Elena Sombra",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "Well, well, look at you, Alex Mercer!"
+      ],
+      "Predialogue": [
+        "Well, well, look at you, Alex Mercer!"
+      ],
+      "PredialogueAftherTalking": [
+        "Fantastic job, Alex Mercer! We've got more bots to crush.",
+        "No resting on laurels, Alex Mercer. Let's use this win as fuel for the next battle.",
+        "Alright, Alex Mercer. Boss defeated, but the mission's not over. Let's keep the pressure on!",
+        "That's the spirit, Alex Mercer! One Boss down, but the fight's not over."
+      ],
+      "Dialogue": [
+        "Took down the Boss like it was nothing, huh?",
+        "Impressive, Alex! That Boss didn't know what hit it.",
+        "Absolutely! This time, we'll catch that Boss off guard.",
+        "..."
+      ],
+      "IDsDialogueCOM": [
+        "1",
+        "2",
+        "3"
+      ],
+      "DialogueCOM": [
+        "Elena, it was a tough fight, but we managed to come out on top.",
+        "Thanks, Elena. It feels good to have one in the win column.",
+        "Absolutely!"
+      ],
+      "DialogueAftherTalking": [
+        "Fantastic job, Alex Mercer! We've got more bots to crush.",
+        "No resting on laurels, Alex Mercer. Let's use this win as fuel for the next battle.",
+        "Alright, Alex Mercer. Boss defeated, but the mission's not over. Let's keep the pressure on!",
+        "That's the spirit, Alex Mercer! One Boss down, but the fight's not over."
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "MECOR004": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Marcus Eco Ramirez",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "Hola, Alex you did it!"
+      ],
+      "Predialogue": [
+        "Hola, Alex you did it!"
+      ],
+      "PredialogueAftherTalking": [
+        "¡Vamos, Alex! Time to show those bots we mean business with these upgrades ¡A la carga!",
+        "¡Excelente trabajo, Alex! Aegis-7 is a force to be reckoned with now. What's next on our hit list?",
+        "Let's give those bots a taste of their own medicine, Alex! Charge forward! ¡Por la resistencia!",
+        "Así se hace, Alex. That victory belongs to us. Time to set our sights on the next challenge!"
+      ],
+      "Dialogue": [
+        "That was some impressive work taking down the Boss, amigo. How are you feeling?",
+        "Good to hear, amigo. Aegis-7 is a force to be reckoned with now.",
+        "We've got some new toys lined up for Aegis-7. Let's make sure those bots know who they're dealing with. ¡A la carga!"
+      ],
+      "IDsDialogueCOM": [
+        "1",
+        "2"
+      ],
+      "DialogueCOM": [
+        "Thanks, Marcus. It was a tough fight, but we managed to come out on top.",
+        "Definitely, Marcus. So, what's the next move? Any more upgrades planned?"
+      ],
+      "DialogueAftherTalking": [
+        "¡Vamos, Alex! Time to show those bots we mean business with these upgrades ¡A la carga!",
+        "¡Excelente trabajo, Alex! Aegis-7 is a force to be reckoned with now. What's next on our hit list?",
+        "Let's give those bots a taste of their own medicine, Alex! Charge forward! ¡Por la resistencia!",
+        "Así se hace, Alex. That victory belongs to us. Time to set our sights on the next challenge!"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "KTMBRK9004": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Kadida Balanta",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "Back in the circuits, Alex?"
+      ],
+      "Predialogue": [
+        "Back in the circuits, Alex?"
+      ],
+      "PredialogueAftherTalking": [
+        "Great job, Alex! Aegis-7's circuits are buzzing with your victory.",
+        "Congratulations on taking down the Boss, Alex. Aegis-7's digital realm is safer because of it.",
+        "Well done, Alex. The digital world bows to your mastery.",
+        "Another victory for Aegis-7, thanks to your skill, Alex.",
+        "Your victory resonates through Aegis-7's circuits, Alex. Well done!",
+        "Your victory is Aegis-7's victory, Alex. Well done!"
+      ],
+      "Dialogue": [
+        "Congratulations, Alex. In this digital realm, every victory shapes the code that surrounds us.",
+        "Remember, Alex, our actions here resonate beyond these circuits. Choose each move wisely.",
+        "Indeed, Alex. Let's navigate these data streams with purpose and precision.",
+        "Until next time, may your algorithms be efficient and your code flawless."
+      ],
+      "IDsDialogueCOM": [
+        "1",
+        "2",
+        "3"
+      ],
+      "DialogueCOM": [
+        "Thank you, Kadida. I'll keep that in mind as we move forward.",
+        "Got it. I'll tread carefully through these digital world.",
+        "Absolutely, Kadida."
+      ],
+      "DialogueAftherTalking": [
+        "Great job, Alex! Aegis-7's circuits are buzzing with your victory.",
+        "Congratulations on taking down the Boss, Alex. Aegis-7's digital realm is safer because of it.",
+        "Well done, Alex. The digital world bows to your mastery.",
+        "Another victory for Aegis-7, thanks to your skill, Alex.",
+        "Your victory resonates through Aegis-7's circuits, Alex. Well done!",
+        "Your victory is Aegis-7's victory, Alex. Well done!"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "DrOCC004": [
+    {
+      "PredialogueRadius": "16",
+      "DialogueRadius": "5",
+      "NameCD1": "Dr. Olivia Chen",
+      "NameCD2": "NONEAlex Mercer",
+      "PredialogueWelcome": [
+        "Back for another round of chaos, I see, Mr. Mercer."
+      ],
+      "Predialogue": [
+        "Back for another round of chaos, I see, Mr. Mercer."
+      ],
+      "PredialogueAftherTalking": [
+        "Looks like Aegis-7 isn't just full of hot air after all.",
+        "Back for another go, Mr. Mercer? Let's see if this newfound success lasts.",
+        "Mr. Mercer, I must say, I'm almost impressed. Keep it up."
+      ],
+      "Dialogue": [
+        "This time, you actually managed to accomplish something?",
+        "Hmm, color me impressed, Mr. Mercer. Let's hope this isn't just a fluke.",
+        "Keep that momentum going, Mr. Mercer. We've got bigger fish to fry."
+      ],
+      "IDsDialogueCOM": [
+        "1",
+        "2"
+      ],
+      "DialogueCOM": [
+        "Ah, Dr. Chen, I believe we've turned the tables on the Boss this time.",
+        "Thank you, Dr. Chen. It's always a pleasure to exceed expectations."
+      ],
+      "DialogueAftherTalking": [
+        "Looks like Aegis-7 isn't just full of hot air after all.",
+        "Back for another go, Mr. Mercer? Let's see if this newfound success lasts.",
+        "Mr. Mercer, I must say, I'm almost impressed. Keep it up."
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ]
 }

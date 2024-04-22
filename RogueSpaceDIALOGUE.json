@@ -2326,7 +2326,7 @@
       "NameCD1": "Riley Glare",
       "NameCD2": "Alex Mercer",
       "PredialogueWelcome": [
-        "Mercer, back on your feet! This battle isn't over yet."
+        "Soldier, back for another round, I see. The Citadel's counting on warriors like you. Ready to make an impact?"
       ],
       "Predialogue": [
         "Mercer, back on your feet! This battle isn't over yet."
@@ -2414,7 +2414,7 @@
       "NameCD1": "Elena Sombra",
       "NameCD2": "Alex Mercer",
       "PredialogueWelcome": [
-        "Well, well, look who's back in the game!"
+        "Rise and shine, Alex Mercer! The bots are waiting, and we've got some serious training to do. Let's make it count!"
       ],
       "Predialogue": [
         "Well, well, look who's back in the game!"
@@ -2505,7 +2505,7 @@
       "NameCD1": "Marcus Eco Ramirez",
       "NameCD2": "Alex Mercer",
       "PredialogueWelcome": [
-        "Bueno, Alex ¿qué tal?"
+        "Hey there. Bueno, ¿qué tal?"
       ],
       "Predialogue": [
         "Bueno, Alex ¿qué tal?"
@@ -2594,7 +2594,7 @@
       "NameCD1": "Kadida Balanta",
       "NameCD2": "Alex Mercer",
       "PredialogueWelcome": [
-        "Ready to dive back into the circuits?"
+        "Hello again, Alex. Ready to decipher the codes of destiny?"
       ],
       "Predialogue": [
         "Ready to dive back into the circuits?"
@@ -2774,7 +2774,7 @@
       "NameCD1": "Riley Glare",
       "NameCD2": "Alex Mercer",
       "PredialogueWelcome": [
-        "What's the report from the field?"
+        "Mr. Mercer, interrupting my solitude once more. What do you need now?"
       ],
       "Predialogue": [
         "What's the report from the field?"
@@ -2865,7 +2865,7 @@
       "NameCD1": "Elena Sombra",
       "NameCD2": "Alex Mercer",
       "PredialogueWelcome": [
-        "Well, well, look at you, Alex Mercer!"
+        "Hold your circuits, Alex Mercer! Back for another round of bot-busting brilliance? Let's show 'em how it's done!"
       ],
       "Predialogue": [
         "Well, well, look at you, Alex Mercer!"
@@ -2957,7 +2957,7 @@
       "NameCD1": "Marcus Eco Ramirez",
       "NameCD2": "Alex Mercer",
       "PredialogueWelcome": [
-        "Hola, Alex you did it!"
+        "Bueno, Alex ¿qué tal? How's everything going?"
       ],
       "Predialogue": [
         "Hola, Alex you did it!"
@@ -3046,7 +3046,7 @@
       "NameCD1": "Kadida Balanta",
       "NameCD2": "Alex Mercer",
       "PredialogueWelcome": [
-        "Back in the circuits, Alex?"
+        "Greetings, Alex. May your path through the digital world be illuminated by purpose."
       ],
       "Predialogue": [
         "Back in the circuits, Alex?"
@@ -3142,7 +3142,7 @@
       "NameCD1": "Dr. Olivia Chen",
       "NameCD2": "NONEAlex Mercer",
       "PredialogueWelcome": [
-        "Back for another round of chaos, I see, Mr. Mercer."
+        "Back again, Mr. Mercer. ? Let's hope this visit is brief."
       ],
       "Predialogue": [
         "Back for another round of chaos, I see, Mr. Mercer."

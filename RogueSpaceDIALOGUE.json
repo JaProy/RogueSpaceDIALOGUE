@@ -406,8 +406,8 @@
   ],
   "KTMBRK9001": [
     {
-      "PredialogueRadius": "19",
-      "DialogueRadius": "6",
+      "PredialogueRadius": "17",
+      "DialogueRadius": "5",
       "NameCD1": "Alex Mercer",
       "NameCD2": "Kadida Balanta",
       "PredialogueWelcome": [

@@ -3559,13 +3559,33 @@
         "NONE"
       ],
       "Dialogue": [
-        "NONE"
+        "Radiation levels spiking, Kadida. Time to clear out these mutated pests.",
+        "Kadida, initiating Radiation Annihilator. Let's see if radiation is still their ally",
+        "Radiation levels dropping. It seems our foes are feeling the effects, Kadida.",
+        "Radiation Annihilator hungers for more, Kadida. Let's cleanse these tunnels of impurity.",
+        "Another victory for us, Kadida. Radiation Annihilator proves its worth once more.",
+        "Radiation levels stabilize. Radiation Annihilator, stand down.",
+        "nother challenge overcome, Kadida. Radiation Annihilator served us well."
       ],
       "IDsDialogueCOM": [
-        "0"
+        "2",
+        "2",
+        "2",
+        "2",
+        "4",
+        "4",
+        "5",
+        "5"
       ],
       "DialogueCOM": [
-        "NONE"
+        "Ah, the Radiation Annihilator. A tool of both destruction and salvation. Let us wield it wisely, Alex.",
+        "Radiation, a force both destructive and transformative. Let us use it to bring balance to these chaotic depths, Alex.",
+        "Remember, every action has its consequences. Let us tread carefully as we unleash the power of the Radiation Annihilator.",
+        "We carve a path through darkness, Alex. The Radiation Annihilator lights our way.",
+        "Be mindful of your surroundings. These creatures may yet have surprises in store.",
+        "Target the larger specimens, Alex. Let us test the limits of their resilience against the might of the Radiation Annihilator",
+        "A momentary reprieve, Alex. Let us not grow complacent as we continue our journey.",
+        "They retreat. Let us maintain our resolve and drive them back further."
       ],
       "DialogueAftherTalking": [
         "NONE"
@@ -3622,12 +3642,12 @@
       ]
     }
   ],
-  "IDCHARCTER5": [
+  "ACT1PR-RA_DrOCC001": [
     {
       "PredialogueRadius": "0.0",
       "DialogueRadius": "0.0",
-      "NameCD1": "NONE",
-      "NameCD2": "NONE",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Dr. Olivia Chen",
       "PredialogueWelcome": [
         "NONE"
       ],
@@ -3638,13 +3658,34 @@
         "NONE"
       ],
       "Dialogue": [
-        "NONE"
+        "Ah, Dr. Chen, time to show these mutated pests who's in charge.",
+        "Ready to dance with radiation, Dr. Chen? Let's see if these creatures can withstand its fury.",
+        "Dr. Chen, engaging the Radiation Annihilator. Let's give these creatures a taste of their own medicine.",
+        "Radiation levels receding. The path is clear, Dr. Chen.",
+        "Dr. Chen, the Radiation Annihilator hungers for more. Shall we oblige",
+        "Clearing the way, Dr. Chen. Let's see how these creatures fare against the might of the Annihilator.",
+        "Another one bites the dust. The Radiation Annihilator proves its worth once more.",
+        "We dictate the battlefield, Dr. Chen. The Annihilator bends reality to our whims.",
+        "Radiation levels normalized. Until next time, Dr. Chen",
+        "Mission accomplished, Dr. Chen."
       ],
       "IDsDialogueCOM": [
-        "0"
+        "3",
+        "3",
+        "6",
+        "6",
+        "6",
+        "8",
+        "8"
       ],
       "DialogueCOM": [
-        "NONE"
+        "Another attempt to assert dominance, Mr. Mercer? Let's hope your efforts yield more than just chaos.",
+        "Ah, Mr. Mercer, diving into the fray once more... and still in one piece, surprisingly.",
+        "Remarkable precision, Mr. Mercer. Let's see if they can adapt to such unpredictability.",
+        "Watch for anomalies, Mr. Mercer. We wouldn't want any... accidents.",
+        "Focus on their weaknesses, Mr. Mercer. The Radiation Annihilator should exploit them quite effectively.",
+        "Look at them go, Mr. Mercer. Who knew radiation could give creatures such... haste.",
+        "Retreat, little pests. Let's see how far cowardice gets you against the Radiation Annihilator, shall we?"
       ],
       "DialogueAftherTalking": [
         "NONE"
@@ -3658,11 +3699,11 @@
       "CharNotVisible?": "False",
       "PressToInteract": "False",
       "SendToMission": "False",
-      "PathImageCharacterCOM1": "NONE",
-      "PathImageCharacterCOM2": "NONE",
-      "URLImageCharacterCOM1": "NONE",
-      "URLImageCharacterCOM2": "NONE",
-      "MissionComponent": "NONE",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
+      "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
       "URLsForDownloadAUD": [
         "NONE"
       ],

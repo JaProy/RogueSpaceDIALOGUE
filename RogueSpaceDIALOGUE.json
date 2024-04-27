@@ -2,7 +2,7 @@
   "RogueSpace": [
     {
       "IDGameVersion": "0.0.1",
-      "IDJsonV": "0.0.1.2345",
+      "IDJsonV": "0.0.1.23456",
       "IDDownloadFilesV": "0.0.1.22",
       "URLsForDownloadImages": [
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main",
@@ -3256,13 +3256,13 @@
         "3",
         "3",
         "3",
-        "7",
-        "7",
-        "7",
-        "12",
-        "12",
-        "12",
-        "12"
+        "6",
+        "6",
+        "6",
+        "10",
+        "10",
+        "10",
+        "10"
       ],
       "DialogueCOM": [
         "Good shot, Mercer. Keep those radiation zones clear for the team.",
@@ -3368,10 +3368,9 @@
         "6",
         "6",
         "6",
-        "11",
-        "11",
-        "11",
-        "11"
+        "10",
+        "10",
+        "10"
       ],
       "DialogueCOM": [
         "Nice choice, Alex Mercer. Let's paint these walls green with envy.",

@@ -3221,5 +3221,484 @@
         "NONE"
       ]
     }
+  ],
+  "ACT1PR-RA_CRGL001": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Riley Glare",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Radiation levels rising. Time to clear out these mutated pests.",
+        "Engaging Radiation Annihilator. Let's see if radiation is still their friend.",
+        "Let's see how they like a dose of their own medicine. Radiation Annihilator, fire!",
+        "Radiation levels dropping.",
+        "Keep 'em coming! Radiation Annihilator hungry for more.",
+        "Clearing the path. Step aside, mutants.",
+        "Target down! Radiation Annihilator packs a punch.",
+        "Feels good to be on the winning side, commander.",
+        "Radiation Annihilator, clearing the way for a smooth operation.",
+        "Another one down! Radiation Annihilator isn't messing around.",
+        "Clear skies ahead. Job well done.",
+        "Radiation levels returning to normal. Radiation Annihilator, powering off.",
+        "Radiation Annihilator, mission accomplished. Let's move out."
+      ],
+      "IDsDialogueCOM": [
+        "3",
+        "3",
+        "3",
+        "7",
+        "7",
+        "7",
+        "12",
+        "12",
+        "12",
+        "12"
+      ],
+      "DialogueCOM": [
+        "Good shot, Mercer. Keep those radiation zones clear for the team.",
+        "Watch those radiation levels, Mercer. We don't need you glowing in the dark.",
+        "Keep it steady, Mercer. We don't want any friendly fire incidents down here.",
+        "Nice work, Mercer. Keep those creatures at bay.",
+        "Watch your flanks, Mercer. Those creatures have a tendency to sneak up.",
+        "Focus fire on the larger ones. The Radiation Annihilator should make short work of them.",
+        "They're falling back! Keep the pressure on, Mercer.",
+        "Don't let up, Mercer! We've got them on the ropes.",
+        "Keep those creatures in check, Mercer. We don't want any surprises.",
+        "Looks like they're retreating. Radiation Annihilator scared them off."
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ACT1PR-RA_ESO001": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Elena Sombra",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Activating Radiation Annihilator. Let's give them a taste of their own medicine, Elena.",
+        "Let's see if they can handle the heat. Radiation Annihilator, unleash!",
+        "Radiation levels spiking. Time to show these mutants who's boss.",
+        "Radiation levels decreasing. Looks like they can't handle the heat.",
+        "Feeding them a steady diet of radiation. Radiation Annihilator's hungry for more.",
+        "Clearing the path, Elena. These mutants won't know what hit 'em.",
+        "Another one bites the dust! Radiation Annihilator's doing its job.",
+        "Feels good to have the upper hand. These mutants don't stand a chance.",
+        "Say goodbye to the pests! Radiation Annihilator's on a roll.",
+        "Radiation Annihilator, clearing the way for a smooth operation, Elena.",
+        "Radiation levels stabilizing. Radiation Annihilator, stand down.",
+        "Great work, Elena. Radiation Annihilator made short work of those mutants.",
+        "Mission accomplished. Radiation Annihilator, powering off. Ready for the next challenge."
+      ],
+      "IDsDialogueCOM": [
+        "3",
+        "3",
+        "3",
+        "6",
+        "6",
+        "6",
+        "11",
+        "11",
+        "11",
+        "11"
+      ],
+      "DialogueCOM": [
+        "Nice choice, Alex Mercer. Let's paint these walls green with envy.",
+        "Watch those mutated pests drop like flies, Alex Mercer.",
+        "Keep the pressure on, Mercer. We're not letting these creatures ruin our day.",
+        "Great work, Alex Mercer! Keep those mutants in check.",
+        "Watch your six. We don't want any surprises from these sneaky buggers.",
+        "Target the bigger ones, Mercer. Let's see how they handle the Radiation Annihilator's power.",
+        "They're backing off! Keep the pressure on, Alex Mercer. Let's finish this.",
+        "Don't give them an inch, Alex Mercer! We've got 'em on the run.",
+        "Looks like our little friends are retreating. Radiation Annihilator scared them off, nicely done."
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+      "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ACT1PR-RA_MECOR001": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Marcus Eco Ramirez",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Radiation levels rising. Time to clear out these mutated pests, Marcus.",
+        "Let's see how they like a little radiation. Radiation Annihilator, fire at will!",
+        "Radiation levels dropping. Looks like they're feeling the burn, Marcus",
+        "Clearing the path for us, Marcus. These mutants won't know what hit 'em.",
+        "Another one bites the dust! Radiation Annihilator's making quick work of 'em.",
+        "Feels good to be the ones dishing out the pain, doesn't it, Marcus?",
+        "Radiation Annihilator, clearing the way for us. These mutants don't stand a chance.",
+        "Radiation levels stabilizing. Radiation Annihilator, stand down.",
+        "Great work, Marcus. Radiation Annihilator made short work of those pests.",
+        "Mission accomplished, partner. Radiation Annihilator, powering off. Ready for the next challenge"
+      ],
+      "IDsDialogueCOM": [
+        "2",
+        "2",
+        "2",
+        "4",
+        "4",
+        "4",
+        "7",
+        "7",
+        "7"
+      ],
+      "DialogueCOM": [
+        "Good choice, amigo.  Let's light up these tunnels with some radioactive justice.",
+        "Radiation Annihilator, eh? Sounds like music to my ears. Let's fry these pests, amigo.",
+        "¡Vamos, Alex! We're about to show these mutants what we're made of.  ¡A la carga!",
+        "Excellent work! Let's keep those mutants on the retreat.",
+        "Good to hear, amigo. These pests have a tendency to sneak up on you.",
+        "Bueno, target the bigger ones.",
+        "Don't let up, amigo! We've got 'em on the ropes now.",
+        "Bueno, looks like they've learned their lesson. Radiation Annihilator scared 'em off for good.",
+        "They're falling back! Keep the pressure on, amigo."
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+      "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ACT1PR-RA_KTMBRK9003": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Kadida Balanta",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "NONE"
+      ],
+      "IDsDialogueCOM": [
+        "0"
+      ],
+      "DialogueCOM": [
+        "NONE"
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+      "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "IDCHARCTER5": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "NONE",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "NONE"
+      ],
+      "IDsDialogueCOM": [
+        "0"
+      ],
+      "DialogueCOM": [
+        "NONE"
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "NONE",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "NONE",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "NONE",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
   ]
 }

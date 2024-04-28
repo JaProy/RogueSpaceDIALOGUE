@@ -3,6 +3,7 @@
     {
       "IDGameVersion": "0.0.1",
       "IDJsonV": "0.0.1.234567",
+      "PathSaveJson" : "/Aetherius/Game/DownloadFiles/Data/RogueSpaceD.json",
       "IDDownloadFilesV": "0.0.1.22",
       "URLsForDownloadImages": [
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main",

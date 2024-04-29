@@ -4250,5 +4250,909 @@
         "NONE"
       ]
     }
+  ],
+  "ACT1PR-RA_CRGL003": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Riley Glare",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Hazard levels rising. Time to take down these malfunctioning security drones.",
+        "Initiating Pulse Blaster. Let's see if it can handle these defective bots.",
+        "Let's give these drones a taste of high-energy pulses. Pulse Blaster, engage!",
+        "Hazard levels diminishing.",
+        "That's it! Pulse Blaster is tearing through these drones.",
+        "Clearing the path, commander.",
+        "Drones down! Pulse Blaster is making quick work of these security hazards.",
+        "Progress feels satisfying.",
+        "Pulse Blaster, securing our way.",
+        "Another drone bites the dust! Pulse Blaster is proving its effectiveness, commander.",
+        "Paths clear and secure. Pulse Blaster, standing down.",
+        "Pulse Blaster, mission accomplished. Let's keep moving, commander."
+      ],
+      "IDsDialogueCOM": [
+        "3",
+        "3",
+        "3",
+        "6",
+        "6",
+        "6",
+        "10",
+        "10",
+        "10"
+      ],
+      "DialogueCOM": [
+        "Good choice, Mercer. We need those security threats neutralized swiftly.",
+        "Keep an eye out for any surprises, Mercer. We don't want any unexpected drones sneaking up on us.",
+        "Stay focused, Mercer. Precision shots will take these drones down.",
+        "Impressive shooting, Mercer. Keep those drones at bay.",
+        "Check your surroundings, Mercer. We don't want any surprises.",
+        "Focus on the larger threats. The Pulse Blaster should handle them efficiently.",
+        "Keep it steady, Mercer! We need those pathways clear of threats.",
+        "Stay vigilant for any remaining drones, Mercer. We need a clean path.",
+        "Well done, Mercer. The Pulse Blaster is a reliable asset in this mission."
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "NONE",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "NONE",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "NONE",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ACT1PR-RA_ESO003": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Elena Sombra",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Activating Pulse Blaster. Time to send those faulty drones packing, Elena.",
+        "Let's see if this Pulse Blaster packs the punch we need. Fire away, Pulse Blaster!",
+        "Blowing through these obstacles. Pulse Blaster, show 'em what you've got",
+        "Shredding through, opening up our path.",
+        "Pulse Blaster, paving the way for us, Elena.",
+        "Making headway. Pulse Blaster's putting in the work.",
+        "Another one down! Pulse Blaster's tearing through 'em like paper.",
+        "Feeling the progress, Elena.",
+        "Clear path ahead. Pulse Blaster, stand down.",
+        "Pulse Blaster, job well done."
+      ],
+      "IDsDialogueCOM": [
+        "3",
+        "3",
+        "6",
+        "6",
+        "6",
+        "8",
+        "8",
+        "8"
+      ],
+      "DialogueCOM": [
+        "Solid choice, Alex Mercer. Let's blast through these drones.",
+        "Keep an eye on those targets, Alex Mercer. Clearing the path for us",
+        "Impressive work, Alex Mercer! Those drones won't know what hit 'em.",
+        "Stay sharp, Alex Mercer. We need to be ready for anything.",
+        "Focus on the big targets. Let's take 'em down with the Pulse Blaster.",
+        "Keep it up, Alex Mercer! We're almost there.",
+        "Watch out for surprises. Safety first.",
+        "Nicely done, Alex Mercer. The Pulse Blaster is proving its worth."
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "NONE",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "NONE",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "NONE",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ACT1PR-RA_MECOR003": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Marcus Eco Ramirez",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Activating Pulse Blaster. Time to deal with those faulty security drones, Marcus.",
+        "Let's blast through these obstacles with the Pulse Blaster, Marcus. Fire away!",
+        "Making headway. Pulse Blaster is doing the job.",
+        "Zapping through, clearing the way for us, Marcus.",
+        "Pulse Blaster, paving the way. Let's keep pushing forward.",
+        "Another one bites the dust! Pulse Blaster is doing its job well.",
+        "Progress feels good, Marcus! Pulse Blaster is getting the job done.",
+        "Clear path ahead. Pulse Blaster, stand down.",
+        "Great job, Marcus! Pulse Blaster is making things easier for us.",
+        "Mission accomplished, partner. Pulse Blaster, powering off."
+      ],
+      "IDsDialogueCOM": [
+        "2",
+        "2",
+        "2",
+        "5",
+        "5",
+        "5",
+        "7",
+        "7",
+        "7"
+      ],
+      "DialogueCOM": [
+        "Solid choice, amigo! Let's zap those security drones with the Pulse Blaster.",
+        "Pulse Blaster, huh? Sounds like just what we need to handle those defective drones. Let's do it! ¡A la carga!",
+        "¡Vamos, Alex! We're gonna make short work of these obstacles.",
+        "Impressive work, Alex! Keep those shots coming, amigo.",
+        "Stay sharp, Alex! We need to stay vigilant for any surprises. ¡A la carga!",
+        "Bueno, focus those shots on the larger obstacles, Alex. Let's take 'em down.",
+        "We're making great progress, ¡Vamos, Alex!",
+        "Stay focused, amigo. We're not done yet.",
+        "Well done, Alex! The Pulse Blaster is proving to be a real asset. Let's keep moving!   ¡A la carga!"
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "NONE",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "NONE",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "NONE",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ACT1PR-RA_KTMBRK9003": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Kadida Balanta",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Radiation levels spiking, Alex. Time to deal with these faulty security drones.",
+        "Activate the Pulse Blaster, Alex. Let's see if it can handle those drones.",
+        "Remember, Alex, the Pulse Blaster is more than just a weapon. It's a reminder of our ability to adapt and overcome.",
+        "Each shot with the Pulse Blaster represents our determination to overcome challenges, no matter how daunting.",
+        "The Pulse Blaster may be a tool, but it's also a symbol of our ingenuity and resilience. Let's make every shot count.",
+        "Excellent, Alex. Remember, every obstacle we clear with the Pulse Blaster is a victory in our journey.",
+        "Keep that focus, Alex. The Pulse Blaster is a testament to our resourcefulness and determination."
+      ],
+      "IDsDialogueCOM": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "4"
+      ],
+      "DialogueCOM": [
+        "Kadida, firing up the Pulse Blaster. Let's take down those security drones.",
+        "Let's put this Pulse Blaster to the test, Kadida. Time to neutralize the threat.",
+        "Kadida, activating the Pulse Blaster. Let's see if it can handle those security drones.",
+        "Let's give this Pulse Blaster a test run, Kadida. Time to neutralize the threat.",
+        "Tearing through these security drones."
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "NONE",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "NONE",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "NONE",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ACT1PR-RA_DrOCC003": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Dr. Olivia Chen",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Well, Dr. Chen, looks like it's time to take down some of those security drones with the Pulse Blaster.",
+        "Ready to give those drones a taste of their own medicine, Doc? Let's show them who's in charge.",
+        "Dr. Chen, activating the Pulse Blaster. Let's take down these drones.",
+        "Keep firing, Doc. Let's give these drones a taste of their own medicine.",
+        "With each shot of the Pulse Blaster, I feel more confident, more in control.",
+        "The Pulse Blaster might just be our best chance against these malfunctioning drones, especially with Dr. Chen's... unique commentary.",
+        "Pulse Blaster powering down. Until the next time, Dr. Chen.",
+        "Mission accomplished, Dr. Chen. The Pulse Blaster proves its worth once again.",
+        "Pulse Blaster powering down. Until the next wave of malfunctioning drones, Doc.",
+        "Another day, another group of drones taken down, thanks to the Pulse Blaster and Dr. Chen's... inspiring commentary."
+      ],
+      "IDsDialogueCOM": [
+        "2",
+        "2",
+        "2",
+        "4",
+        "4",
+        "4",
+        "4",
+        "6",
+        "6"
+      ],
+      "DialogueCOM": [
+        "Oh, joy. Another round of dealing with malfunctioning security drones. Just what I always wanted.",
+        "Sure, let's see if the Pulse Blaster can actually do something useful for once. Not holding my breath, though.",
+        "Oh, joy. Let's hope this Pulse Blaster doesn't decide to malfunction on us too.",
+        "Great, more malfunctioning drones. Just what I needed today.",
+        "Keep firing that thing, Mr. Mercer. Maybe we'll get lucky and actually take down some drones this time.",
+        "Keep firing, Mercer. Maybe we'll get lucky and find a way to shut these drones down permanently.",
+        "Lovely. More drones falling apart around us. Just another day in paradise.",
+        "Look at that, Mr. Mercer. The Pulse Blaster managed to actually do something right for once.",
+        "Congratulations, Mr. Mercer. You managed to not completely disappoint me this time."
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "NONE",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "NONE",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "NONE",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "IDCHARCTER6": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "NONE",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "NONE"
+      ],
+      "IDsDialogueCOM": [
+        "0"
+      ],
+      "DialogueCOM": [
+        "NONE"
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "NONE",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "NONE",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "NONE",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "IDCHARCTER7": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "NONE",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "NONE"
+      ],
+      "IDsDialogueCOM": [
+        "0"
+      ],
+      "DialogueCOM": [
+        "NONE"
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "NONE",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "NONE",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "NONE",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "IDCHARCTER8": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "NONE",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "NONE"
+      ],
+      "IDsDialogueCOM": [
+        "0"
+      ],
+      "DialogueCOM": [
+        "NONE"
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "NONE",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "NONE",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "NONE",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "IDCHARCTER9": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "NONE",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "NONE"
+      ],
+      "IDsDialogueCOM": [
+        "0"
+      ],
+      "DialogueCOM": [
+        "NONE"
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "NONE",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "NONE",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "NONE",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "IDCHARCTER10": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "NONE",
+      "NameCD2": "NONE",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "NONE"
+      ],
+      "IDsDialogueCOM": [
+        "0"
+      ],
+      "DialogueCOM": [
+        "NONE"
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "NONE",
+      "PathImageCharacterCOM2": "NONE",
+      "URLImageCharacterCOM1": "NONE",
+      "URLImageCharacterCOM2": "NONE",
+      "MissionComponent": "NONE",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
   ]
 }

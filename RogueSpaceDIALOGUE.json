@@ -2,7 +2,7 @@
   "RogueSpace": [
     {
       "IDGameVersion": "0.0.1",
-      "IDJsonV": "0.0.1.01",
+      "IDJsonV": "0.0.1.22",
       "PathSaveJson": "/Aetherius/Game/DownloadFiles/Data/RogueSpaceD.json",
       "IDDownloadFilesV": "0.0.1.22",
       "URLsForDownloadImages": [
@@ -4314,11 +4314,11 @@
       "CharNotVisible?": "False",
       "PressToInteract": "False",
       "SendToMission": "False",
-      "PathImageCharacterCOM1": "NONE",
-      "PathImageCharacterCOM2": "NONE",
-      "URLImageCharacterCOM1": "NONE",
-      "URLImageCharacterCOM2": "NONE",
-      "MissionComponent": "NONE",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "MissionComponent": "BPCH_Missions_RileyGLare_NM",
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4416,11 +4416,11 @@
       "CharNotVisible?": "False",
       "PressToInteract": "False",
       "SendToMission": "False",
-      "PathImageCharacterCOM1": "NONE",
-      "PathImageCharacterCOM2": "NONE",
-      "URLImageCharacterCOM1": "NONE",
-      "URLImageCharacterCOM2": "NONE",
-      "MissionComponent": "NONE",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+      "MissionComponent": "BPCH_Missions_ElenaSO_NM",
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4520,11 +4520,11 @@
       "CharNotVisible?": "False",
       "PressToInteract": "False",
       "SendToMission": "False",
-      "PathImageCharacterCOM1": "NONE",
-      "PathImageCharacterCOM2": "NONE",
-      "URLImageCharacterCOM1": "NONE",
-      "URLImageCharacterCOM2": "NONE",
-      "MissionComponent": "NONE",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+      "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4613,11 +4613,11 @@
       "CharNotVisible?": "False",
       "PressToInteract": "False",
       "SendToMission": "False",
-      "PathImageCharacterCOM1": "NONE",
-      "PathImageCharacterCOM2": "NONE",
-      "URLImageCharacterCOM1": "NONE",
-      "URLImageCharacterCOM2": "NONE",
-      "MissionComponent": "NONE",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4717,11 +4717,11 @@
       "CharNotVisible?": "False",
       "PressToInteract": "False",
       "SendToMission": "False",
-      "PathImageCharacterCOM1": "NONE",
-      "PathImageCharacterCOM2": "NONE",
-      "URLImageCharacterCOM1": "NONE",
-      "URLImageCharacterCOM2": "NONE",
-      "MissionComponent": "NONE",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
+      "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4760,12 +4760,12 @@
       ]
     }
   ],
-  "IDCHARCTER6": [
+  "ACT1PR-RA_CRGL004": [
     {
       "PredialogueRadius": "0.0",
       "DialogueRadius": "0.0",
-      "NameCD1": "NONE",
-      "NameCD2": "NONE",
+      "NameCD1": "Riley Glare",
+      "NameCD2": "Riley Glare",
       "PredialogueWelcome": [
         "NONE"
       ],
@@ -4776,13 +4776,40 @@
         "NONE"
       ],
       "Dialogue": [
-        "NONE"
+        "Looks like we've got some security traps to disable, commander. Time to break out the Shock Grenade.",
+        "Activating Shock Grenade. Let's see if it can zap those security traps into submission.",
+        "Let's give these traps a taste of their own medicine. Shock Grenade, ready to deploy!",
+        "Security threats neutralized.",
+        "That's it! Shock Grenade is frying these traps like nobody's business.",
+        "Clearing the path, commander.",
+        "Traps disabled! Shock Grenade is making short work of these security hazards.",
+        "Progress feels satisfying.",
+        "Shock Grenade, securing our passage.",
+        "Another trap bites the dust! Shock Grenade is proving its worth, commander.",
+        "Paths clear and secure. Shock Grenade, standing down.",
+        "Shock Grenade, mission accomplished. Let's press on, commander."
       ],
       "IDsDialogueCOM": [
-        "0"
+        "3",
+        "3",
+        "3",
+        "6",
+        "6",
+        "6",
+        "10",
+        "10",
+        "10"
       ],
       "DialogueCOM": [
-        "NONE"
+        "Good call, Mercer. We need those traps neutralized before they catch us off guard.",
+        "Keep your eyes peeled, Mercer. We don't need any nasty surprises from these security measures.",
+        "Stay sharp, Mercer. Precise throws will take care of those traps.",
+        "Impressive toss, Mercer. Keep those traps disarmed.",
+        "Watch your back, Mercer. We don't want any nasty surprises.",
+        "Focus on the big threats. The Shock Grenade should handle them with ease.",
+        "Keep it up, Mercer! We need those pathways clear of traps.",
+        "Remain vigilant for any lingering traps, Mercer. We need a smooth path.",
+        "Well done, Mercer. The Shock Grenade is a valuable tool in our arsenal."
       ],
       "DialogueAftherTalking": [
         "NONE"
@@ -4796,11 +4823,11 @@
       "CharNotVisible?": "False",
       "PressToInteract": "False",
       "SendToMission": "False",
-      "PathImageCharacterCOM1": "NONE",
-      "PathImageCharacterCOM2": "NONE",
-      "URLImageCharacterCOM1": "NONE",
-      "URLImageCharacterCOM2": "NONE",
-      "MissionComponent": "NONE",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "MissionComponent": "BPCH_Missions_RileyGLare_NM",
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4839,12 +4866,12 @@
       ]
     }
   ],
-  "IDCHARCTER7": [
+  "ACT1PR-RA_ESO004": [
     {
       "PredialogueRadius": "0.0",
       "DialogueRadius": "0.0",
-      "NameCD1": "NONE",
-      "NameCD2": "NONE",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Elena Sombra",
       "PredialogueWelcome": [
         "NONE"
       ],
@@ -4855,13 +4882,36 @@
         "NONE"
       ],
       "Dialogue": [
-        "NONE"
+        "Activating Discharge Grenade. Time to disable those pesky security traps, Elena.",
+        "Let's see if this Discharge Grenade can do the trick. Ready, Discharge Grenade!",
+        "Blowing apart these security measures. Discharge Grenade, show 'em who's boss!",
+        "Disabling traps, clearing our path.",
+        "Discharge Grenade, making way for us, Elena.",
+        "Making strides forward. Discharge Grenade's pulling its weight.",
+        "Another trap neutralized!",
+        "Discharge Grenade's handling the traps effortlessly.",
+        "Path's clear. Discharge Grenade, stand down.",
+        "Job well done, Discharge Grenade."
       ],
       "IDsDialogueCOM": [
-        "0"
+        "3",
+        "3",
+        "6",
+        "6",
+        "6",
+        "8",
+        "8",
+        "8"
       ],
       "DialogueCOM": [
-        "NONE"
+        "Interesting choice, Alex Mercer. Let's fry those traps.",
+        "Keep a keen eye on those traps, Alex Mercer. We need to clear our path.",
+        "Impressive maneuvering, Alex Mercer!",
+        "Stay vigilant, Alex Mercer. We need to stay one step ahead.",
+        "Concentrate on the primary targets. Let's dismantle them with the Discharge Grenade.",
+        "Watch for any surprises. Safety's our priority.",
+        "Alright, kid. Keep pushing! We're almost there.",
+        "Well executed, Alex Mercer. The Discharge Grenade is proving invaluable."
       ],
       "DialogueAftherTalking": [
         "NONE"
@@ -4875,11 +4925,11 @@
       "CharNotVisible?": "False",
       "PressToInteract": "False",
       "SendToMission": "False",
-      "PathImageCharacterCOM1": "NONE",
-      "PathImageCharacterCOM2": "NONE",
-      "URLImageCharacterCOM1": "NONE",
-      "URLImageCharacterCOM2": "NONE",
-      "MissionComponent": "NONE",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+      "MissionComponent": "BPCH_Missions_ElenaSO_NM",
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4918,12 +4968,12 @@
       ]
     }
   ],
-  "IDCHARCTER8": [
+  "ACT1PR-RA_MECOR004": [
     {
       "PredialogueRadius": "0.0",
       "DialogueRadius": "0.0",
-      "NameCD1": "NONE",
-      "NameCD2": "NONE",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Marcus Eco Ramirez",
       "PredialogueWelcome": [
         "NONE"
       ],
@@ -4934,13 +4984,38 @@
         "NONE"
       ],
       "Dialogue": [
-        "NONE"
+        "Arming the Discharge Grenade. Time to neutralize those pesky security traps, Marcus.",
+        "Let's shake up these obstacles with the Discharge Grenade, Marcus. Let's go!",
+        "Making progress. Discharge Grenade is doing its job.",
+        "Disabling traps, making way for us, Marcus.",
+        "Discharge Grenade, opening up the path. Let's keep moving forward.",
+        "Another trap bites the dust! Discharge Grenade is doing the job efficiently.",
+        "Progress feels good, Marcus! Discharge Grenade is proving its effectiveness.",
+        "Path's clear. Discharge Grenade, stand down.",
+        "Great teamwork, Marcus!",
+        "Mission accomplished, Marcus. Discharge Grenade, powering off."
       ],
       "IDsDialogueCOM": [
-        "0"
+        "2",
+        "2",
+        "2",
+        "5",
+        "5",
+        "5",
+        "7",
+        "7",
+        "7"
       ],
       "DialogueCOM": [
-        "NONE"
+        "Good call, amigo! Let's dismantle those security traps with the Discharge Grenade.",
+        "Discharge Grenade, huh? Sounds like just the thing to handle those activated traps. Let's get to it! ¡A la carga!",
+        "¡Vamos, Alex! We're gonna clear these obstacles in no time.",
+        "Impressive work, Alex! Keep those grenades coming, amigo.",
+        "Stay alert, Alex! We need to be ready for anything. ¡A la carga!",
+        "Alright, focus on taking out the main traps, Alex. Let's get rid of them.  ¡Vamos, Alex!",
+        "We're making excellent progress, ¡Vamos, Alex!",
+        "Stay focused, amigo. We're not done yet.",
+        "Well done, Alex! The Discharge Grenade is proving to be invaluable. Let's keep moving! ¡A la carga!"
       ],
       "DialogueAftherTalking": [
         "NONE"
@@ -4954,11 +5029,11 @@
       "CharNotVisible?": "False",
       "PressToInteract": "False",
       "SendToMission": "False",
-      "PathImageCharacterCOM1": "NONE",
-      "PathImageCharacterCOM2": "NONE",
-      "URLImageCharacterCOM1": "NONE",
-      "URLImageCharacterCOM2": "NONE",
-      "MissionComponent": "NONE",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+      "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4997,12 +5072,12 @@
       ]
     }
   ],
-  "IDCHARCTER9": [
+  "ACT1PR-RA_KTMBRK9004": [
     {
       "PredialogueRadius": "0.0",
       "DialogueRadius": "0.0",
-      "NameCD1": "NONE",
-      "NameCD2": "NONE",
+      "NameCD1": "Kadida Balanta",
+      "NameCD2": "Alex Mercer",
       "PredialogueWelcome": [
         "NONE"
       ],
@@ -5013,13 +5088,27 @@
         "NONE"
       ],
       "Dialogue": [
-        "NONE"
+        "Radiation levels spiking, Alex. Time to navigate through these activated security traps.",
+        "Activate the Discharge Grenade, Alex. Let's see if it can disable these traps effectively.",
+        "Remember, Alex, the Discharge Grenade is more than just a tool. It's a symbol of our problem-solving skills and adaptability.",
+        "Each activation of the Discharge Grenade represents our commitment to finding solutions, no matter how complex the challenge.",
+        "The Discharge Grenade may seem simple, but it embodies our capacity for innovation and creativity. Let's use it wisely.",
+        "Well done, Alex. Every trap we neutralize with the Discharge Grenade brings us closer to our objective.",
+        "Stay focused, Alex. The Discharge Grenade showcases our ability to overcome obstacles with ingenuity and determination."
       ],
       "IDsDialogueCOM": [
-        "0"
+        "2",
+        "2",
+        "2",
+        "2",
+        "5"
       ],
       "DialogueCOM": [
-        "NONE"
+        "Kadida, arming the Discharge Grenade. Let's tackle these security traps head-on.",
+        "Let's put this Discharge Grenade to the test, Kadida. Time to deactivate these traps.",
+        "Initiating the Discharge Grenade. Let's see if it can handle these security traps.",
+        "Let's give this Discharge Grenade a whirl, Kadida. Time to shut down these traps.",
+        "Disabling these security traps one by one."
       ],
       "DialogueAftherTalking": [
         "NONE"
@@ -5033,11 +5122,11 @@
       "CharNotVisible?": "False",
       "PressToInteract": "False",
       "SendToMission": "False",
-      "PathImageCharacterCOM1": "NONE",
-      "PathImageCharacterCOM2": "NONE",
-      "URLImageCharacterCOM1": "NONE",
-      "URLImageCharacterCOM2": "NONE",
-      "MissionComponent": "NONE",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -5076,12 +5165,12 @@
       ]
     }
   ],
-  "IDCHARCTER10": [
+  "ACT1PR-RA_DrOCC004": [
     {
       "PredialogueRadius": "0.0",
       "DialogueRadius": "0.0",
-      "NameCD1": "NONE",
-      "NameCD2": "NONE",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Dr. Olivia Chen",
       "PredialogueWelcome": [
         "NONE"
       ],
@@ -5092,13 +5181,37 @@
         "NONE"
       ],
       "Dialogue": [
-        "NONE"
+        "Looks like we're in for a fun time disarming those security traps with the Discharge Grenade, Dr. Chen.",
+        "Ready to give those traps a run for their money, Doc? Let's show them what we're made of.",
+        "Dr. Chen, launching the Discharge Grenade. Let's give these traps something to think about.",
+        "Keep 'em coming, Doc. Let's dance around these traps like pros.",
+        "With each toss of the Discharge Grenade, we are a step closer to victory.",
+        "The Discharge Grenade might just be the ace up our sleeve against these traps, especially when backed by Dr. Chen's insightful perspective.",
+        "Discharge Grenade powering down. Until next time, Dr. Chen.",
+        "Another mission accomplished, Dr. Chen. The Discharge Grenade proves its worth once again.",
+        "Discharge Grenade powering down. Here's to hoping our luck holds out with the traps."
       ],
       "IDsDialogueCOM": [
-        "0"
+        "2",
+        "2",
+        "2",
+        "4",
+        "4",
+        "4",
+        "4",
+        "6",
+        "6"
       ],
       "DialogueCOM": [
-        "NONE"
+        "Oh, joy. Another thrilling round of playing cat and mouse with these traps. Just what I always wanted.",
+        "Sure, let's see if this Discharge Grenade can finally earn its stripes. Not holding my breath, though.",
+        "Oh, delightful. Let's hope this Discharge Grenade doesn't decide to backfire on us too.",
+        "Well, isn't this just a thrill a minute? More traps to outsmart. Just what I needed to get the blood pumping.",
+        "Keep throwing, Mr. Mercer. Maybe we'll get lucky and actually outmaneuver some traps this time.",
+        "Keep it up, Mercer. Maybe we'll find a way to outsmart these traps without blowing ourselves up in the process.",
+        "Marvelous. More traps biting the dust around us. Just another day in our never-ending adventure.",
+        "Well, would you look at that, Mr. Mercer? The Discharge Grenade actually managed to do the trick. Consider me pleasantly surprised.",
+        "Kudos, Mr. Mercer. You've successfully dodged a complete disaster. For now."
       ],
       "DialogueAftherTalking": [
         "NONE"
@@ -5112,11 +5225,11 @@
       "CharNotVisible?": "False",
       "PressToInteract": "False",
       "SendToMission": "False",
-      "PathImageCharacterCOM1": "NONE",
-      "PathImageCharacterCOM2": "NONE",
-      "URLImageCharacterCOM1": "NONE",
-      "URLImageCharacterCOM2": "NONE",
-      "MissionComponent": "NONE",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
+      "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
       "URLsForDownloadAUD": [
         "NONE"
       ],

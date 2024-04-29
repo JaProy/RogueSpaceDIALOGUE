@@ -2,8 +2,8 @@
   "RogueSpace": [
     {
       "IDGameVersion": "0.0.1",
-      "IDJsonV": "0.0.1.234567",
-      "PathSaveJson" : "/Aetherius/Game/DownloadFiles/Data/RogueSpaceD.json",
+      "IDJsonV": "0.0.1.0",
+      "PathSaveJson": "/Aetherius/Game/DownloadFiles/Data/RogueSpaceD.json",
       "IDDownloadFilesV": "0.0.1.22",
       "URLsForDownloadImages": [
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main",
@@ -3686,6 +3686,515 @@
         "Focus on their weaknesses, Mr. Mercer. The Radiation Annihilator should exploit them quite effectively.",
         "Look at them go, Mr. Mercer. Who knew radiation could give creatures such... haste.",
         "Retreat, little pests. Let's see how far cowardice gets you against the Radiation Annihilator, shall we?"
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
+      "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ACT1PR-RA_CRGL002": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Riley Glare",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Hazard levels rising. Time to carve a path through these collapsed areas.",
+        "Activating Hazard Cutter. Let's see if it can clear a way for us.",
+        "Let's slice through this debris. Hazard Cutter, engage!",
+        "Hazard levels diminishing.",
+        "Keep it going! Hazard Cutter making short work of these obstacles.",
+        "Carving through, opening up the way.",
+        "Debris cleared! Hazard Cutter is cutting through like butter.",
+        "Making progress feels good.",
+        "Hazard Cutter, creating safe paths for the team.",
+        "Another obstacle down! Hazard Cutter is proving its worth, commander.",
+        "Clear pathways ahead. Hazard Cutter, powering off.",
+        "Hazard Cutter, mission accomplished. Let's keep moving."
+      ],
+      "ID1sDialogueCOM": [
+        "3",
+        "3",
+        "3",
+        "6",
+        "6",
+        "6",
+        "10",
+        "10",
+        "10"
+      ],
+      "DialogueCOM": [
+        "Good choice, Mercer. We need those paths cleared quickly.",
+        "Watch your surroundings, Mercer. We don't want any unexpected collapses.",
+        "Keep it precise, Mercer. We need those passages wide open.",
+        "Nicely done, Mercer. Keep those pathways clear.",
+        "Check the stability, Mercer. We don't want any accidents.",
+        "Focus on the larger obstructions. The Hazard Cutter should handle them well.",
+        "Keep it up, Mercer! We need those passages wide open.",
+        "Watch for any hidden dangers, Mercer. Safety first.",
+        "Excellent work, Mercer. The Hazard Cutter is a real game-changer."
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
+      "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ACT1PR-RA_ESO002": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Elena Sombra",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Activating Hazard Cutter. Let's clear a path through these collapsed areas, Elena.",
+        "Let's see if this Hazard Cutter can handle the job. Hazard Cutter, deploy!",
+        "Carving through the obstacles. Hazard Cutter, let's do this!",
+        "Making progress. Hazard Cutter is doing its job.",
+        "Carving through, opening up the path.",
+        "Hazard Cutter, creating safe passage for us, Elena.",
+        "Another obstacle cleared! Hazard Cutter is making it look easy.",
+        "Progress feels good, Elena.",
+        "Clear pathways ahead. Hazard Cutter, stand down.",
+        "Hazard Cutter, mission accomplished"
+      ],
+      "IDsDialogueCOM": [
+        "3",
+        "3",
+        "6",
+        "6",
+        "6",
+        "8",
+        "8",
+        "8"
+      ],
+      "DialogueCOM": [
+        "Good choice, Alex Mercer. Let's cut through these obstacles.",
+        "Watch those debris fall, Alex Mercer. Clearing the way for us.",
+        "Excellent work, Alex Mercer! Those obstacles don't stand a chance.",
+        "Keep an eye out, Alex Mercer. We need to stay alert for any surprises.",
+        "Focus on the larger obstructions. Let's clear them out with the Hazard Cutter.",
+        "Keep it up, Alex Mercer! We're almost through.",
+        "Watch for any unexpected obstacles. Safety first.",
+        "Well done, Alex Mercer. The Hazard Cutter is proving to be invaluable."
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ELENA_SOMBRA_ORTEGA.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
+      "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ACT1PR-RA_MECOR002": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Marcus Eco Ramirez",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Activating Hazard Cutter. Time to clear these collapsed areas, Marcus.",
+        "Let's carve a path through these obstacles, Marcus. Hazard Cutter, engage!",
+        "Making progress. Hazard Cutter is cutting through like butter.",
+        "Clearing the path for us, Marcus. These obstacles won't slow us down.",
+        "Hazard Cutter, creating a safe route. Let's keep moving forward.",
+        "Another obstacle down! Hazard Cutter is doing its job well.",
+        "Feels good to be making progress, Marcus. Hazard Cutter is doing the trick.",
+        "Clear pathways ahead. Hazard Cutter, stand down.",
+        "Great work, Marcus. Hazard Cutter is making our job easier.",
+        "Mission accomplished, partner. Hazard Cutter, powering off. Ready for whatever comes next."
+      ],
+      "IDsDialogueCOM": [
+        "2",
+        "2",
+        "2",
+        "5",
+        "5",
+        "5",
+        "7",
+        "7",
+        "7"
+      ],
+      "DialogueCOM": [
+        "Good call, amigo. Let's use this Hazard Cutter to make our way through.",
+        "Hazard Cutter, huh? Sounds like just what we need to clear a path. Let's do it, amigo.",
+        "¡Vamos, Alex! We're gonna make short work of these obstacles. ¡A la carga!",
+        "Excellent work, Alex! Keep cutting through, amigo.",
+        "Watch your surroundings. We need to stay alert for any surprises. ¡Vamos, Alex!",
+        "Bueno, focus on clearing out the larger obstacles with the Hazard Cutter.",
+        "We're almost through this mess. ¡Vamos, Alex!",
+        "Stay focused, amigo. We're not out of the woods yet.",
+        "Well done, Alex Mercer. The Hazard Cutter is proving to be a valuable tool.  ¡A la carga!"
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
+      "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ACT1PR-RA_KTMBRK9002": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Kadida Balanta",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Radiation levels spiking, Alex. Time to clear out these collapsed areas.",
+        "Active the Beam Cutter, Alex. Let's see if it can slice through this debris.",
+        "Remember, Alex, the Hazard Cutter is more than just a tool. It's a reminder of our ability to overcome obstacles.",
+        "Each cut with the Hazard Cutter represents our determination to break through barriers, physical and metaphorical.",
+        "The Hazard Cutter may be a weapon, but it's also a symbol of our resilience. Let's make every cut count.",
+        "Excellent, Alex. Remember, every obstacle we clear with the Hazard Cutter is a step forward in our journey.",
+        "Keep that focus, Alex. The Hazard Cutter is a reflection of our determination and resolve."
+      ],
+      "IDsDialogueCOM": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "5"
+      ],
+      "DialogueCOM": [
+        "Kadida, firing up the Beam Cutter. Let's carve a path through these collapsed areas.",
+        "Let's give this Beam Cutter a test run, Kadida. Time to clear the way.",
+        "Kadida, activating the Hazard Cutter. Let's see if it can slice through this rubble.",
+        "Let's give this Hazard Cutter a test run, Kadida. Time to clear the way.",
+        "Kadida's advice ringing in my ears as the Hazard Cutter slices through this debris."
+      ],
+      "DialogueAftherTalking": [
+        "NONE"
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "False",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/Characters/KADIDA-TECH-MAESTRA_BALATA.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "ACT1PR-RA_DrOCC002": [
+    {
+      "PredialogueRadius": "0.0",
+      "DialogueRadius": "0.0",
+      "NameCD1": "Alex Mercer",
+      "NameCD2": "Dr. Olivia Chen",
+      "PredialogueWelcome": [
+        "NONE"
+      ],
+      "Predialogue": [
+        "NONE"
+      ],
+      "PredialogueAftherTalking": [
+        "NONE"
+      ],
+      "Dialogue": [
+        "Ah, Dr. Chen, looks like we've got some rubble to clear with the Hazard Cutter.",
+        "Ready to slice and dice, Doc? Let's see if this thing packs a punch.",
+        "Dr. Chen, engaging the Hazard Cutter. Let's cut through this mess.",
+        "Swing away, Doc. Let's show this rubble who's boss.",
+        "With each swing of the Hazard Cutter, I feel more confident, more in control.",
+        "The Hazard Cutter might just be our best friend down here, especially with Dr. Chen's... unique motivation.",
+        "Hazard Cutter powering down. Until the next time, Dr. Chen.",
+        "Mission accomplished, Dr. Chen. The Hazard Cutter proves its worth once again.",
+        "Hazard Cutter powering down. Until the next pile of rubble, Doc.",
+        "Another day, another debris field conquered, thanks to the Hazard Cutter and Dr. Chen's... inspiring commentary."
+      ],
+      "IDsDialogueCOM": [
+        "2",
+        "2",
+        "2",
+        "4",
+        "4",
+        "4",
+        "4",
+        "6",
+        "6"
+      ],
+      "DialogueCOM": [
+        "Oh, joy. Another round of rubble to deal with. Just what I always wanted.",
+        "Sure, let's see if the Hazard Cutter can actually do something useful for once.",
+        "Oh, joy. Let's hope this Hazard Cutter doesn't decide to collapse on us too.",
+        "Great, more rubble. Just what I needed today.",
+        "Keep swinging that thing, Mr. Mercer. Maybe we'll get lucky and actually make some progress.",
+        "Keep swinging, Mercer. Maybe we'll get lucky and find something worth the trouble.",
+        "Lovely. More things falling apart around us. Just another day in paradise.",
+        "ook at that, Mr. Mercer. The Hazard Cutter managed to do something right for once.",
+        "Congratulations, Mr. Mercer.You managed to not completely disappoint me this time."
       ],
       "DialogueAftherTalking": [
         "NONE"

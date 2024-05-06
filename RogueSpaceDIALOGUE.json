@@ -2,7 +2,7 @@
   "RogueSpace": [
     {
       "IDGameVersion": "0.0.1",
-      "IDJsonV": "0.0.1.223",
+      "IDJsonV": "0.0.1.1",
       "PathSaveJson": "/Aetherius/Game/DownloadFiles/Data/RogueSpaceD.json",
       "IDDownloadFilesV": "0.0.1.22",
       "URLsForDownloadImages": [
@@ -26,8 +26,7 @@
         "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
       ],
       "TextLoadingScreens": [
-        "NONE1",
-        "NONE2"
+        "LOREM IPSUN DOLOR SIT AMET. NON MAIORES LABORUM QUIT SUNT ITAQUE 33 QUIBUSDAM VOLUPTAS. UT AMET ARCHITECTO ET TOTAM NISI EST OMNIS TEMPORA UT DICTA DOLORE UT OBCAECATI ACCUSANTIUM ET MODI VITAE HIC ISTE GALISUM."
       ],
       "TextLoadingScreensOcult1": [
         "NONEOC1"

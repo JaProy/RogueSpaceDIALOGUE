@@ -24,7 +24,18 @@
         "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
         "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
         "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png"
-      ]
+      ],
+      "TextLoadingScreens": [
+        "NONE1",
+        "NONE2"
+      ],
+      "TextLoadingScreensOcult1": [
+        "NONEOC1"
+      ],
+      ,
+      "TextLoadingScreensOcult2": [
+        "NONEOC2"
+      ],
     }
   ],
   "CRF001": [

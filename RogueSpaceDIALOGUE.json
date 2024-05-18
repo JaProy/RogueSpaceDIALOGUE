@@ -2,9 +2,9 @@
   "RogueSpace": [
     {
       "IDGameVersion": "0.0.1",
-      "IDJsonV": "0.0.1.1234",
+      "IDJsonV": "0.0.1.1",
       "PathSaveJson": "/Aetherius/Game/DownloadFiles/Data/RogueSpaceD.json",
-      "IDDownloadFilesV": "0.0.1.1234",
+      "IDDownloadFilesV": "0.0.1.1",
       "URLsForDownloadImages": [
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main",
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/AMIR_PROGIUEE_HASSAN.PNG",
@@ -14,7 +14,8 @@
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
-        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-01.png"
+        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-01.png",
+        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png"
       ],
       "URLsSavePathImages": [
         "/Aetherius",
@@ -25,7 +26,8 @@
         "/Aetherius/Game/DownloadFiles/Characters/MARCUS-ECO_RAMIREZ.png",
         "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
         "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
-        "/Aetherius/Game/DownloadFiles/ImageTEST/Unreal-Engine-Logo-01.png"
+        "/Aetherius/Game/DownloadFiles/ImageTEST/Unreal-Engine-Logo-01.png",
+        "/Aetherius/Game/DownloadFiles/ImageTEST/Unreal-Engine-Logo-02.png"
       ],
       "TextLoadingScreens": [
         "LOREM IPSUN DOLOR SIT AMET. NON MAIORES LABORUM QUIT SUNT ITAQUE 33 QUIBUSDAM VOLUPTAS. UT AMET ARCHITECTO ET TOTAM NISI EST OMNIS TEMPORA UT DICTA DOLORE UT OBCAECATI ACCUSANTIUM ET MODI VITAE HIC ISTE GALISUM."
@@ -5383,9 +5385,9 @@
       "PressToInteract": "False",
       "SendToMission": "True",
       "DialogueAftherTalkingNCD?": "NameCD1",
-      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/ImageTEST/Unreal-Engine-Logo-01.png",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/ImageTEST/Unreal-Engine-Logo-02.png",
       "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
-      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-01.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_TESTBOSS_Component",
       "URLsForDownloadAUD": [

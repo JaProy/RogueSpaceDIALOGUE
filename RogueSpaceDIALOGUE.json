@@ -2,7 +2,7 @@
   "RogueSpace": [
     {
       "IDGameVersion": "0.0.1",
-      "IDJsonV": "0.0.1.12",
+      "IDJsonV": "0.0.1.123",
       "PathSaveJson": "/Aetherius/Game/DownloadFiles/Data/RogueSpaceD.json",
       "IDDownloadFilesV": "0.0.1.1",
       "URLsForDownloadImages": [
@@ -5401,6 +5401,282 @@
       "PressToInteract": "False",
       "SendToMission": "True",
       "DialogueAftherTalkingNCD?": "NameCD1",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/ImageTEST/Unreal-Engine-Logo-02.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_TESTBOSS_Component",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "TSDLRMS01": [
+    {
+      "PredialogueRadius": "18.0",
+      "DialogueRadius": "6.0",
+      "NameCD1": "TTP",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "HOLA... ¿que tal?"
+      ],
+      "Predialogue": [
+        "Anda y ve..."
+      ],
+      "PredialogueAftherTalking": [
+        "Ya terminamos de hablar!"
+      ],
+      "Dialogue": [
+        "Hola que tal",
+        "vienvenido seas",
+        "como esta todo?",
+        "me alegro...",
+        "tengo un trabajo para ti...",
+        "ve y entra a esos portales!",
+        "espero mi respuesta....",
+        "EXITO!"
+      ],
+      "IDsDialogueCOM": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "DialogueCOM": [
+        "bien",
+        "...",
+        "cual?",
+        "enterado!"
+      ],
+      "DialogueAftherTalking": [
+        "VE!",
+        "Por que sigues aqui?",
+        "Alla afuera debe de ser muy peligroso..."
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "True",
+      "DialogueAftherTalkingNCD?": "Alex Mercer",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/ImageTEST/Unreal-Engine-Logo-02.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_TESTBOSS_Component",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "TSDLRMS01-OP01": [
+    {
+      "PredialogueRadius": 18.0,
+      "DialogueRadius": 6.0,
+      "NameCD1": "TTP",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "Tu de nuevo!"
+      ],
+      "Predialogue": [
+        "Parece que realizaste mi encargo"
+      ],
+      "PredialogueAftherTalking": [
+        "Eres un gran!"
+      ],
+      "Dialogue": [
+        "REGRESASTE!",
+        "por fin, alguien digno de poder realizar este trabajo!",
+        "soy un simple cubo, asi que no puedo realizar tal trabajo",
+        "-.-.en fin-.-",
+        "muchas gracias por el trabajo, en verdad GRACIAS!",
+        "te veo en la proxima!"
+      ],
+      "IDsDialogueCOM": [
+        "1",
+        "3",
+        "5"
+      ],
+      "DialogueCOM": [
+        "si",
+        "...",
+        "De nada, UN GUSTO!"
+      ],
+      "DialogueAftherTalking": [
+        "Espero volver a tener un pedido para ti!",
+        "Muchas gracias..."
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "True",
+      "DialogueAftherTalkingNCD?": "Alex Mercer",
+      "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/ImageTEST/Unreal-Engine-Logo-02.png",
+      "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
+      "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png",
+      "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
+      "MissionComponent": "BPCH_Missions_TESTBOSS_Component",
+      "URLsForDownloadAUD": [
+        "NONE"
+      ],
+      "URLsSavePathAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUD": [
+        "NONE"
+      ],
+      "PathDialogueAUD": [
+        "NONE"
+      ],
+      "URLDialogueCOMAUD": [
+        "NONE"
+      ],
+      "PathDialogueCOMAUD": [
+        "NONE"
+      ],
+      "URLDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "PathDialogueAUDAftherTalking": [
+        "NONE"
+      ],
+      "URLDialogueAUDLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDLocked": [
+        "NONE"
+      ],
+      "URLDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ],
+      "PathDialogueAUDAfterTalkingLocked": [
+        "NONE"
+      ]
+    }
+  ],
+  "TSDLRMS01-OP02": [
+    {
+      "PredialogueRadius": 18.0,
+      "DialogueRadius": "6.0",
+      "NameCD1": "TTP",
+      "NameCD2": "Alex Mercer",
+      "PredialogueWelcome": [
+        "OH, me impresionas!"
+      ],
+      "Predialogue": [
+        "jaja... ERES MI IDOLO"
+      ],
+      "PredialogueAftherTalking": [
+        "Nunca habia visto a alguien como tu!"
+      ],
+      "Dialogue": [
+        "Hola de nuevo...",
+        "te estube mirando",
+        "claro!",
+        "y dejame decirte que me encanto esa accion...",
+        "por ender toma tu recompenza.....",
+        "ve por alla, espero verte pronto...",
+        "y claro, si tengo un nuevo pedido, yo te lo doy a ¡SABER!"
+      ],
+      "IDsDialogueCOM": [
+        "2",
+        "5"
+      ],
+      "DialogueCOM": [
+        "si?",
+        "¡muchas gracias!"
+      ],
+      "DialogueAftherTalking": [
+        "FELICIDADES!",
+        "Espero volver a tener un pedido para ti!",
+        "Muchas gracias...",
+        "..."
+      ],
+      "DialogueLocked": [
+        "NONE"
+      ],
+      "DialogueAfterTalkingLocked": [
+        "NONE"
+      ],
+      "CharNotVisible?": "False",
+      "PressToInteract": "False",
+      "SendToMission": "True",
+      "DialogueAftherTalkingNCD?": "Alex Mercer",
       "PathImageCharacterCOM1": "/Aetherius/Game/DownloadFiles/ImageTEST/Unreal-Engine-Logo-02.png",
       "PathImageCharacterCOM2": "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png",

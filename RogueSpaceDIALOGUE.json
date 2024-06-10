@@ -6095,12 +6095,12 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_TESTBOSS_Component",
-      "EventsA?": "False",
+      "EventsA?": "True",
       "IDsFAEvents": [
-        "NONE"
+        "4"
       ],
       "ComponentsFEvents": [
-        "NONE"
+        "BPC_DE_TEST1"
       ],
       "URLsForDownloadAUD": [
         "NONE"

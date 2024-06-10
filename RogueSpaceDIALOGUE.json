@@ -2,7 +2,7 @@
   "RogueSpace": [
     {
       "IDGameVersion": "0.0.1",
-      "IDJsonV": "0.0.1.123",
+      "IDJsonV": "0.0.1.1234",
       "PathSaveJson": "/Aetherius/Game/DownloadFiles/Data/RogueSpaceD.json",
       "IDDownloadFilesV": "0.0.1.1",
       "URLsForDownloadImages": [
@@ -95,6 +95,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_RileyFulgor_CMP001",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -185,6 +192,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_CMP001",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -286,6 +300,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_DrOliviaCC_DrOCC001",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -384,6 +405,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPC__ElenaSO_ESO001",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -480,6 +508,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
       "MissionComponent": "BPC_KTMBRK9001",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -573,6 +608,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_CMP002",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -661,6 +703,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_RileyFulgor_CMP002",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -757,6 +806,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -849,6 +905,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -939,6 +1002,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -1029,6 +1099,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -1122,6 +1199,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
       "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -1205,6 +1289,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "URLImageCharacterCOM2": "NONE",
       "MissionComponent": "BPCH_Missions_RileyFurgor_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -1292,6 +1383,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -1375,6 +1473,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "URLImageCharacterCOM2": "NONE",
       "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -1460,6 +1565,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
       "URLImageCharacterCOM2": "NONE",
       "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -1550,6 +1662,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
       "URLImageCharacterCOM2": "NONE",
       "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -1633,6 +1752,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
       "URLImageCharacterCOM2": "NONE",
       "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -1715,6 +1841,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
       "URLImageCharacterCOM2": "NONE",
       "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -1808,6 +1941,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -1891,6 +2031,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
       "URLImageCharacterCOM2": "NONE",
       "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -1974,6 +2121,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
       "URLImageCharacterCOM2": "NONE",
       "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -2067,6 +2221,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
       "URLImageCharacterCOM2": "NONE",
       "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -2152,6 +2313,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
       "URLImageCharacterCOM2": "NONE",
       "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -2234,6 +2402,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
       "URLImageCharacterCOM2": "NONE",
       "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -2321,6 +2496,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -2410,6 +2592,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -2502,6 +2691,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -2592,6 +2788,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -2682,6 +2885,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -2774,6 +2984,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -2866,6 +3083,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -2959,6 +3183,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -3049,6 +3280,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -3146,6 +3384,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -3234,6 +3479,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -3344,6 +3596,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -3452,6 +3711,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
       "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -3557,6 +3823,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
       "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -3657,6 +3930,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
       "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -3758,6 +4038,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
       "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -3865,6 +4152,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -3968,6 +4262,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
       "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4073,6 +4374,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
       "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4167,6 +4475,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4272,6 +4587,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
       "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4379,6 +4701,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4482,6 +4811,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
       "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4587,6 +4923,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
       "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4681,6 +5024,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4786,6 +5136,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
       "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4893,6 +5250,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
       "MissionComponent": "BPCH_Missions_RileyGLare_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -4996,6 +5360,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ELENA_SOMBRA_ORTEGA.PNG",
       "MissionComponent": "BPCH_Missions_ElenaSO_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -5101,6 +5472,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/MARCUS-ECO_RAMIREZ.PNG",
       "MissionComponent": "BPCH_Missions_MarcusEcoRamirez_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -5195,6 +5573,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/KADIDA-TECH-MAESTRA_BALATA.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_KTMBRK9_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -5299,6 +5684,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
       "MissionComponent": "BPCH_Missions_DrOliviaCC_NM",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -5406,6 +5798,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_TESTBOSS_Component",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -5501,6 +5900,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_TESTBOSS_Component",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -5591,6 +5997,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_TESTBOSS_Component",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],
@@ -5682,6 +6095,13 @@
       "URLImageCharacterCOM1": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png",
       "URLImageCharacterCOM2": "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
       "MissionComponent": "BPCH_Missions_TESTBOSS_Component",
+      "EventsA?": "False",
+      "IDsFAEvents": [
+        "NONE"
+      ],
+      "ComponentsFEvents": [
+        "NONE"
+      ],
       "URLsForDownloadAUD": [
         "NONE"
       ],

@@ -2,10 +2,10 @@
   "RogueSpace": [
     {
       "IDGameVersion": "0.0.1",
-      "IDJsonV": "0.0.1.1234",
+      "IDJsonV": "0.0.1.12345",
       "PathSaveJson": "/Aetherius/Game/DownloadFiles/Data/RogueSpaceD.json",
-      "IDDownloadFilesV": "0.0.1.1",
-      "URLsForDownloadImages": [
+      "IDDownloadFilesV": "0.0.1.1.2",
+      "URLsForDownloadFiles": [
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main",
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/AMIR_PROGIUEE_HASSAN.PNG",
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/DR-OLIVIA_CIFRA_CHEN.PNG",
@@ -15,9 +15,11 @@
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/RILEY_FURGOR.PNG",
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/ALEX_MERCER.PNG",
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-01.png",
-        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png"
+        "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/Unreal-Engine-Logo-02.png",
+        "https://github.com/JaProy/RogueSpaceDIALOGUE/raw/main/UI_Cloock-alarm-bs01.wav",
+        "https://github.com/JaProy/RogueSpaceDIALOGUE/raw/main/UI_Cloock-alarm-bs02.wav"
       ],
-      "URLsSavePathImages": [
+      "URLsSavePathFiles": [
         "/Aetherius",
         "/Aetherius/Game/DownloadFiles/Characters/AMIR_PROGIUEE_HASSAN.png",
         "/Aetherius/Game/DownloadFiles/Characters/DR-OLIVIA_CIFRA_CHEN.png",
@@ -27,7 +29,9 @@
         "/Aetherius/Game/DownloadFiles/Characters/RILEY_FURGOR.png",
         "/Aetherius/Game/DownloadFiles/Characters/ALEX_MERCER.png",
         "/Aetherius/Game/DownloadFiles/ImageTEST/Unreal-Engine-Logo-01.png",
-        "/Aetherius/Game/DownloadFiles/ImageTEST/Unreal-Engine-Logo-02.png"
+        "/Aetherius/Game/DownloadFiles/ImageTEST/Unreal-Engine-Logo-02.png",
+        "/Aetherius/Game/DownloadFiles/SoundsTEST/UI_Cloock-alarm-bs01.wav",
+        "/Aetherius/Game/DownloadFiles/SoundsTEST/UI_Cloock-alarm-bs02.wav"
       ],
       "TextLoadingScreens": [
         "LOREM IPSUN DOLOR SIT AMET. NON MAIORES LABORUM QUIT SUNT ITAQUE 33 QUIBUSDAM VOLUPTAS. UT AMET ARCHITECTO ET TOTAM NISI EST OMNIS TEMPORA UT DICTA DOLORE UT OBCAECATI ACCUSANTIUM ET MODI VITAE HIC ISTE GALISUM."

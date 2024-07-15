@@ -2,9 +2,9 @@
   "RogueSpace": [
     {
       "IDGameVersion": "0.0.1",
-      "IDJsonV": "0.0.1.23",
+      "IDJsonV": "0.0.1.234",
       "PathSaveJson": "/Aetherius/Game/DownloadFiles/Data/RogueSpaceD.json",
-      "IDDownloadFilesV": "0.0.1.23",
+      "IDDownloadFilesV": "0.0.1.234",
       "URLsForDownloadFiles": [
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main",
         "https://raw.githubusercontent.com/JaProy/RogueSpaceDIALOGUE/main/AMIR_PROGIUEE_HASSAN.PNG",
